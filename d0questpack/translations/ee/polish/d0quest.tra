@@ -1,0 +1,106 @@
+// -*- coding: utf-8 -*-
+
+@106 = ~Rękawice sztyletowania
+Te rzadko spotykane, zaczarowane rękawice otrzymują wyłącznie najwyżsi rangą zabójcy Nocnych Noży. Fama głosi, że najpierw zostały stworzone przez władającego magią zabójcę w Sembii, a następnie odwzorowane przez różne gildie jak kontynent długi i szeroki. Niezależnie od tego, rękawice te oznaczają, że czołowi zabójcy Nocnych Noży są niebezpiecznymi przeciwnikami, z którymi każdy powinien się liczyć.
+
+PARAMETRY:
+
+Specjalne:
+- Noszone podnoszą współczynnik sztyletowania o 1~
+@108 = ~Pierścień niewidzialności Arana
+Pierścień ten stanowił własność przywódcy Złodziei Cienia Arana Linvaila. Jego stworzenie zlecił niegdyś wiodący Złodziej Cienia w celu umożliwienia ucieczki z niezręcznych sytuacji. Niestety nie był w stanie pomóc swemu właścicielowi, gdy ten wstąpił na ścieżkę polityki.
+
+PARAMETRY:
+
+Specjalne: 
+- 3 razy dziennie pozwala rzucać Niewidzialność~
+@143 = ~Niewielu poszukiwaczy przygód zdobyłoby się na noszenie tego, zdobytego kosztem całkowitego braku skrupułów, trofeum. Ten będący ostatnią, skrystalizowaną jej gasnącym tchem, łzą driady kamień żarzy się niespotykanym blaskiem. Noszący go czują na sobie dotyk utrzymującej się pozostałości piękna, jednak cena tego błogosławieństwa jest wysoka, z uwagi na fakt, iż klejnot przedstawia kruchość żywotu swojej ofiary, zniszczonego okrutną dłonią. Jeśli masz ochotę, możesz zawiesić go na swej szyi.
+
+PARAMETRY:
+
+Specjalne:
+- Noszony zapewnia odporność na Zauroczenie
+- Kondycja: -1
+- Charyzma: +1~
+
+@144 = ~To sygnet noszony przez Rayica Gethrasa. Został delikatnie zaklęty, jednak poza tym przedstawia jedynie sentymentalną wartość.
+
+PARAMETRY:
+
+Rzuty obronne: +1~
+@167 = ~Ten pas jest pożegnalnym darem Jadarada, który wyruszył w nieznane. Nasączony niewielką ilością jego przedziwnej magii, może czasami uchronić użytkownika nawet przed pewną śmiercią. I choć Jadarad był na swój sposób mistrzem magicznego rzemiosła, to krawcem był przy tym mizernym; jego pas jest nieporęczny i nosi się go dość niewygodnie.
+
+PARAMETRY:
+
+Specjalne:
+- Raz dziennie pozwala rzucić Uzdrowienie~
+@212 = ~Sejmitar +1: Shazzellim, Sejmitar +1
+Ten sejmitar jest dość słabej jakości, ale w jego wnętrzu czai się wielka moc i zło. Został stworzony do zabijania Harfiarzy i świetnie nadaje się do tego celu. Po jednym ciosie tego ostrza bard musi wykonać rzut obronny przeciwko czarom albo zginie. Został stworzony przez Czerwonego Maga z Thay, ma także zdolność mówienia, i dlatego tak często dawano go magom-wojownikom służącym Czarodziejom. Nie trzeba mówić, że posiadanie tego miecza nie będzie podobać się Harfiarzom.
+
+PARAMETRY:
+
+Specjalne:
+- Ugłosowienie
+- Każdy trafiony bard musi wykonać rzut obronny przeciwko czarom z modyfikatorem -2 lub zginie
+
+Obrażenia: 1k8 +1
+TraK0: +1
+Typ obrażeń: sieczne
+Waga: 3
+Opóźnienie: 4
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+- Siła: 10~
+@302 = ~Ten matowo czerwony sejmitar wykonano z metalu, którego nie potrafisz rozpoznać. Choć jest nieco większy i cięższy, niż można by się tego spodziewać, nie zaburza to jego doskonałego wyważenia. Wydaje się, być stworzony do atakowania serią błyskawicznych ciosów, jednocześnie pozwalając na zachowanie nad nim pełnej kontroli.
+
+PARAMETRY:
+
+Specjalne:
+- Każde trafienie obniża TraK0 posiadacza o 1 na okres 1 rundy
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Waga: 1
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+- Siła: 10~
+@315 = ~Długi łuk +3: Elfi Dwór
+Ten cisowy łuk jest bardziej dziełem sztuki niż narzędziem wojny, delikatne drzeworyty tańczą po wypolerowanym drewnie, cięciwa mieni się złotem, prawie śpiewa, gdy się ją naciąga. Przez tysiąc lat był to ceremonialny łuk na Elfim Dworze, choć dla elfów to długość jednego życia. Co 50 lat był przekazywany komuś o wielkich zasługach, obdarowany wskazywał kolejnego właściciela. Dwa wieki temu człowiek, Yin Pon, uratował elfiego księcia i dostał ten łuk, który zabrał do Wrót Baldura, gdzie później został zagubiony.
+O ile już samo perfekcyjne wykonanie tego przedmiotu przydaje mu niebywałej celności, to fakt, iż jest on cenionym elfim artefaktem, sprawia, że tylko osoba obdarzona ich błogosławieństwem i przyzwoleniem może skorzystać z jego prawdziwej magii.
+
+PARAMETRY:
+
+TraK0: +4
+Waga: 2
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+- Siła: 6~
+@317 = ~Strzałka +2: "Strzałka uspokojenia"
+Ponieważ te nasączone magiczną trucizną strzałki są w stanie natychmiast uśpić trafioną ofiarę, stały się one ulubionym orężem złodziei i zabójców. Kryją się oni w cieniu, czekając na swoją nieświadomą ofiarę, by tylko nakłuć jej szyję, a potem podciąć gardło i ograbić z całego dobytku, czy też w spokoju zrealizować inne swoje plany.
+
+PARAMETRY:
+
+Specjalne:
+- Ofiara na 1 rundę zapadnie w sen, jeśli nie uda się jej rzut obronny przeciw śmierci z modyfikatorem -2
+- Wraca do ręki właściciela po rzuceniu
+
+Obrażenia: 1k3 +2
+TraK0: +2
+Typ obrażeń: pocisk
+Waga: 0
+Opóźnienie: 0
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna~
+
+@99948 = ~Znajdź dowód zdrady Mae'Vara.
+
+Asystent Mae'Vara okazał się nikim innym jak czarodziejem z Thay, którego spotkałem na Wybrzeżu Mieczy. Wyznaczył mi zadanie polegające na zgładzeniu niejakiego Rayica Gethrasa, Zakapturzonego Czarodzieja, który mieszka w trzypiętrowym, szarym budynku w zachodniej części Dzielnicy Portowej. Będę wiedzieć, że Gethras jest w domu, jeśli drzwi będą otwarte. Gdy Rayic zginie, mam przynieść Edwinowi jego sygnet jako dowód.~

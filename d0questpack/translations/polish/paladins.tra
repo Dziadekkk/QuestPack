@@ -1,0 +1,197 @@
+// -*- coding: cp1252 -*-
+
+@0 = ~Naprawdê przykro patrzeæ, jak upada taki honorowy m¹¿. Byæ mo¿e jest jeszcze dla ciebie nadzieja, Reynaldzie, nawet jeœli nie jako rycerza.~
+@1 = ~Naprawdê przykro patrzeæ, jak upada taki honorowy m¹¿. Ale tak to ju¿ jest w Zakonie; sam honor nie wystarcza.~
+@2 = ~Kolejny odrzucony przez Zakon. Bydlaki! Nie ma siê co dziwiæ, ¿e tak wielu przy³¹czy³o siê do Anarga.~
+@3 = ~Choæ jego upadek by³ tragiczny, to nie w¹tpiê, ¿e pozosta³ wierny rycerskim cnotom. <CHARNAME>, miejmy nadziejê, ¿e nie ulegnie jak Anarg innym d¹¿eniom.~
+@4 = ~A wiêc sta³o siê, Anarg pad³. Dziêkujê ci, <PRO_LADYLORD>, za wskazanie mi drogi.~ [reynald6]
+@5 = ~Tylko co dalej? Nie mam ¿adnego celu, nie mam przewodnika. W któr¹ stronê powinienem siê zwróciæ?~
+@6 = ~Bêdziesz siê teraz rozwodzi³ nad swoim upadkiem?~
+@7 = ~Mo¿esz przy³¹czyæ siê do mnie, jeœli chcesz.~
+@8 = ~Jakiej drogi dla siebie szukasz, Reynaldzie?~
+@9 = ~Jestem pewna, ¿e jest wiele rzeczy, po które taki przystojny m³ody mê¿czyzna jak ty móg³by siêgn¹æ.~
+@10 = ~A co mnie to obchodzi? OdejdŸ wiêc, upad³y, i radŸ sobie sam.~
+@11 = ~A co mnie to obchodzi? OdejdŸ wiêc i radŸ sobie sam.~
+@12 = ~Anarg nie chcia³by, ¿ebym dzieli³ siê szczegó³ami i zapewne mia³ ku temu swoje powody, ale niezale¿nie od nich wola³bym tego nie roztrz¹saæ.~ [reynald7]
+@13 = ~Doœæ powiedzieæ, ¿e pomyli³em siê w moim os¹dzie. S³ysza³eœ zapewne od Rindusa o tym, ¿e uwik³a³em siê w zwi¹zek z Celestine.~ ~Doœæ powiedzieæ, ¿e pomyli³em siê w moim os¹dzie. S³ysza³aœ zapewne od Rindusa o tym, ¿e uwik³a³em siê w zwi¹zek z Celestine.~
+@14 = ~Ona... nie by³a taka, jaka wierzy³em, ¿e jest i to przez ni¹ wydalono mnie z Zakonu. Nie trzeba mówiæ nic wiêcej.~
+@15 = ~To dlaczego nie zemœcisz siê na tej zdzirze?~
+@16 = ~Wspó³czujê ci niezmiernie. Powiedz, jakiej drogi teraz dla siebie szukasz?~
+@17 = ~W ka¿dym b¹dŸ razie, jestem pewna, ¿e jest wiele rzeczy, po które taki przystojny m³ody mê¿czyzna jak ty móg³by siêgn¹æ.~
+@18 = ~¯a³osne. OdejdŸ wiêc, upad³y, i radŸ sobie sam.~
+@19 = ~¯a³osne. OdejdŸ wiêc i radŸ sobie sam.~
+@20 = ~Szczerego jesteœ serca, ale twoje postêpowanie nie wró¿y niczego dobrego. Jestem ci wdziêczny za tê propozycjê, ale wolê j¹ jednak odrzuciæ... przynajmniej na razie.~
+@21 = ~Rozumiem. Jestem pewna, ¿e jest wiele rzeczy, po które taki przystojny m³ody mê¿czyzna jak ty móg³by siêgn¹æ.~
+@22 = ~Niech bêdzie. OdejdŸ wiêc, upad³y, i radŸ sobie sam.~
+@23 = ~Niech bêdzie. OdejdŸ wiêc i radŸ sobie sam.~
+@24 = ~Dostrzegam w tobie idea³y, którym sam by³em kiedyœ oddany. Jednak mój upadek by³ w koñcu czymœ spowodowany i tak to ju¿ zostanie. Jestem ci wdziêczny za tê propozycjê, ale wolê j¹ jednak odrzuciæ... przynajmniej na razie.~
+@25 = ~Jesteœ mê¿czyzn¹ bliskim memu sercu, panie. Obawiam siê jednak, ¿e droga, któr¹ kroczysz, nie jest dla mnie. Jestem ci wdziêczny za tê propozycjê, ale wolê j¹ jednak odrzuciæ... przynajmniej na razie.~ ~Jesteœ kobiet¹ blisk¹ memu sercu, pani. Obawiam siê jednak, ¿e droga, któr¹ kroczysz, nie jest dla mnie. Jestem ci wdziêczny za tê propozycjê, ale wolê j¹ jednak odrzuciæ... przynajmniej na razie.~
+@26 = ~Wygl¹da na to, ¿e nie podzielamy tych samych zasad, <PRO_LADYLORD>, i obawiam siê, ¿e podró¿owanie z tob¹ znowu Ÿle siê dla mnie skoñczy. Jestem ci wdziêczny za tê propozycjê, ale wolê j¹ jednak odrzuciæ... przynajmniej na razie.~
+@27 = ~Nie jestem ju¿ tym cz³owiekiem honoru, za którego siê kiedyœ mia³em. Mój upadek jest nieodwracalny, ale mogê przynajmniej staraæ siê dzia³aæ z czystym sumieniem.~
+@28 = ~Mo¿e móg³byœ przy³¹czyæ siê do stra¿y miejskiej?~
+@29 = ~Móg³byœ zostaæ poszukiwaczem przygód, jak ja?~
+@30 = ~Spaczone runy szukaj¹ zapewne nowych stra¿ników.~
+@31 = ~Rozejrzê siê po okolicy, czy czegoœ dla ciebie nie znajdê.~
+@32 = ~Jak uwa¿asz. To twoja droga... zrobisz, jak zechcesz.~
+@33 = ~Zbytnio mi schlebiasz, <PRO_LADYLORD>. Nie obra³bym te¿ drogi w oparciu, o takie walory.~
+@34 = ~Tak zrobiê, <PRO_LADYLORD>. Nie wiem, jak dalej potoczy siê moje ¿ycie, ale modlê siê, bym móg³ siê odkupiæ... przynajmniej w moich w³asnych oczach.~ [reynald8]
+@35 = ~Nie obwiniam jej za to, co zrobi³a. I jak ju¿ prosi³em, nie mówmy o tym wiêcej.~
+@36 = ~To mo¿e móg³byœ przy³¹czyæ siê do stra¿y miejskiej?~
+@37 = ~Mo¿e zostaniesz, jak ja, poszukiwaczem przygód?~
+@38 = ~Có¿, Spaczone runy szukaj¹ zapewne nowych stra¿ników.~
+@39 = ~W takim razie rozejrzê siê po okolicy, czy czegoœ dla ciebie nie znajdê.~
+@40 = ~Niech bêdzie. To twoja droga... zrobisz, jak zechcesz.~
+@41 = ~Tak, to poci¹gaj¹cy pomys³; s³u¿y³bym wtedy s³usznej sprawie. Dziêkujê ci, <PRO_LADYLORD>.~ [reynald9]
+@42 = ~Tylko jak mia³bym siê do nich przy³¹czyæ? Zaakceptuj¹ mnie, znaj¹c moj¹ przesz³oœæ?~
+@43 = ~Wcale nie musz¹ poznawaæ twojej przesz³oœci.~
+@44 = ~Jestem pewien, ¿e nie bêd¹ mieli ¿adnych uprzedzeñ.~ ~Jestem pewna, ¿e nie bêd¹ mieli ¿adnych uprzedzeñ.~
+@45 = ~Porozmawiam z nimi i zobaczê, co mi siê uda za³atwiæ.~
+@46 = ~W¹tpiê, ¿ebym pasowa³ do takiej roli. Potrzebujê raczej jakiegoœ szlachetnego celu.~
+@47 = ~Nigdy nie s³ysza³em o Spaczonych runach, ale i tak nie interesuje mnie praca stra¿nika dla jakiejœ zamo¿nej organizacji.~
+@48 = ~Nie zamierzam tu zostaæ, <PRO_LADYLORD>. Wszystko tutaj przypomina mi o przesz³oœci. Odejdê i zobaczê, dok¹d ¿ycie mnie zawiedzie.~ [reynal10]
+@49 = ~Wobec tego, mo¿e zechcesz porozmawiaæ z nimi w moim imieniu?~
+@50 = ~Tak, zrobiê to.~
+@51 = ~Nie. Nie jestem tu po to, by dostarczaæ komuœ twoje wiadomoœci.~
+@52 = ~Dziêkujê, <PRO_LADYLORD>. Chocia¿ wola³bym tego nie robiæ, przypuszczam, ¿e muszê tu zostaæ przez jakiœ czas i czekaæ na twój powrót.~ [reynal11]
+@53 = ~Wobec tego podejrzewam, ¿e muszê sam sprawdziæ tê mo¿liwoœæ. Mo¿e to zrobiê, a mo¿e nie. Odejdê i zobaczê, dok¹d ¿ycie mnie zawiedzie.~ [reynal12]
+@54 = ~Rozmawia³eœ z kimœ kompetentnym o moim wst¹pieniu do stra¿y miejskiej?~ ~Rozmawia³aœ z kimœ kompetentnym o moim wst¹pieniu do stra¿y miejskiej?~ [reynal13]
+@55 = ~Tak, rozmawia³em z Sêdzi¹ Bylann¹.~ ~Tak, rozmawia³am z Sêdzi¹ Bylann¹.~
+@56 = ~Nie, jeszcze nie.~
+@57 = ~I co, rozpatrzy moj¹ proœbê?~
+@58 = ~Poprosi³a byœ uda³ siê do niej na rozmowê, zanim podejmie decyzjê.~
+@59 = ~Przykro mi, Reynaldzie. Po prostu nie jesteœ stworzony do s³u¿by w stra¿y miejskiej. Chyba musisz zostaæ tutaj.~
+@60 = ~Poœpiesz siê wiêc, <PRO_LADYLORD>. Mam wra¿enie, ¿e ¿ycie ucieka mi miêdzy palcami, gdy nie s³u¿ê ¿adnemu celowi.~
+@61 = ~Dziêkujê ci, panie. Natychmiast pójdê jej szukaæ w budynku Rady. Odda³eœ mi wielk¹ przys³ugê.~ ~Dziêkujê ci, pani. Natychmiast pójdê jej szukaæ w budynku Rady. Odda³aœ mi wielk¹ przys³ugê.~ [reynal14]
+@62 = ~Nie ma sprawy, Reynaldzie.~
+@63 = ~Nie bêdzie ¿adnej nagrody za moje wysi³ki?~
+@64 = ~Wszystkiego dobrego, <CHARNAME>.~ [reynal15]
+@65 = ~Obawiam siê, ¿e nie mam niczego, czym móg³bym ciê wynagrodziæ. Na zawsze pozostanê twoim d³u¿nikiem. Wierzê jednak, ¿e twoje sumienie zosta³o zaspokojone.~
+@66 = ~<CHARNAME>! Tak myœla³em, ¿e tu ciê znajdê. Zakoñczmy ¿ywota tych nikczemnych potworów!~ [reynal16]
+@67 = ~Doskonale. Tych stworów jest jednak o wiele wiêcej i musisz wyeliminowaæ je wszystkie.~ [reynal17]
+@68 = ~Reynald? A co ty tutaj robisz?~
+@69 = ~Dlaczego to ja muszê je eliminowaæ?~
+@70 = ~Wobec tego zacznê jak najszybciej.~
+@71 = ~Robiê wszystko, co w mojej mocy, by byæ wszêdzie tam, gdzie honor tego wymaga. Byæ mo¿e nie odnios³em sukcesu porównywalnego z twoim, ale przynajmniej próbowa³em.~
+@72 = ~Wygl¹da na to, ¿e los nie potraktowa³ ciê jakoœ szczególnie Ÿle.~
+@73 = ~Dlaczego to ja muszê eliminowaæ te potwory?~
+@74 = ~Rozumiem. Có¿, wobec tego zajmê siê eksterminacj¹ tych potworów.~
+@75 = ~Robiê wszystko, co w mojej mocy, by byæ wszêdzie tam, gdzie honor tego wymaga. Byæ mo¿e nie odnios³em jakiegoœ osza³amiaj¹cego sukcesu, ale przynajmniej próbowa³em.~
+@76 = ~Sam sobie z nimi nie poradzê, panie. A ty przyby³eœ tutaj odpowiednio wyposa¿ony.~ ~Sam sobie z nimi nie poradzê, pani. A ty przyby³aœ tutaj odpowiednio wyposa¿ona.~
+@77 = ~Niewa¿ne. Nie bêdê odwala³ dla ciebie ¿adnej brudnej roboty. Jestem tu tylko po to, by rozprawiæ siê z Bodhi i odejœæ. Jak chcesz, to mo¿esz tu potem posprz¹taæ.~
+@78 = ~Wiêc nie zatrzymujmy siê tu d³u¿ej. ZnajdŸmy wejœcie do krypt pod nami.~
+@79 = ~Wrêcz przeciwnie, <PRO_LADYLORD>, czu³em, ¿e do takiego ¿ycia nie by³em stworzony. Teraz przynajmniej mam jakiœ wybór.~
+@80 = ~Ale nie zatrzymujmy siê tu d³u¿ej. ZnajdŸmy wejœcie do krypt pod nami.~
+@81 = ~A wiêc ten stwór wreszcie pad³. Wygl¹da na to, ¿e uda³o mi siê zrobiæ tutaj coœ dobrego, <PRO_LADYLORD>. Teraz jednak odejdê, by znowu znikn¹æ. ¯egnaj.~ [reynal18]
+@82 = ~Z kim powinienem rozmawiaæ na temat przyst¹pienia do stra¿y miejskiej?~ ~Z kim powinnam rozmawiaæ na temat przyst¹pienia do stra¿y miejskiej?~
+@83 = ~Porozmawiaj z Bylann¹. Ja zajmujê siê tylko œledztwami w sprawach kryminalnych.~
+@84 = ~A wiesz mo¿e, jakie s¹ wymagania, ¿eby przyst¹piæ do stra¿y?~
+@85 = ~To pójdê siê z ni¹ rozmówiæ.~
+@86 = ~Aha, rozumiem. Dziêkujê.~
+@87 = ~Nie znam szczegó³ów, ale wiem, ¿e obecnie prawie ka¿dy zostaje przyjêty. Ciê¿ko dzisiaj o dobrych ludzi.~
+@88 = ~To pójdê porozmawiaæ z Bylann¹.~
+@89 = ~Brega poinformowa³ mnie, ¿e to z tob¹ powinienem rozmawiaæ o przyst¹pieniu do stra¿y miejskiej. Czy to prawda?~ ~Brega poinformowa³ mnie, ¿e to z tob¹ powinnam rozmawiaæ o przyst¹pieniu do stra¿y miejskiej. Czy to prawda?~
+@90 = ~Powinieneœ porozmawiaæ ze mn¹. Dlaczego pytasz? Jesteœ zainteresowany przyst¹pieniem?~ ~Powinnaœ porozmawiaæ ze mn¹. Dlaczego pytasz? Jesteœ zainteresowana przyst¹pieniem?~
+@91 = ~Tak, jestem. Jakie s¹ wymagania?~
+@92 = ~Nie ja, ale mój przyjaciel jest.~
+@93 = ~Nie, ju¿ niewa¿ne.~
+@94 = ~Tak, to prawda. Dlaczego pytasz? Jesteœ zainteresowany przyst¹pieniem?~ ~Tak, to prawda. Dlaczego pytasz? Jesteœ zainteresowana przyst¹pieniem?~
+@95 = ~Cierpimy ostatnio na niedobór ludzi, wiêc zaakceptujemy ka¿dego, kto potrafi walczyæ.~
+@96 = ~A sk¹d ten niedobór?~
+@97 = ~W³aœciwie to trochê ciê oszuka³em. To nie ja chcê siê przy³¹czyæ, tylko mój przyjaciel.~ ~W³aœciwie to trochê ciê oszuka³am. To nie ja chcê siê przy³¹czyæ, tylko mój przyjaciel.~
+@98 = ~Rozumiem. Teraz jednak muszê ju¿ iœæ.~
+@99 = ~Akceptujemy w³aœciwie ka¿dego, kto potrafi walczyæ. Przyœlij do mnie swojego przyjaciela, a bêdê ci bardzo wdziêczna. Mi³ego dnia.~
+@100 = ~Dobrze. Wróæ jednak, jeœli zmienisz zdanie.~
+@101 = ~Nie chcê nikogo zniechêcaæ do wst¹pienia do stra¿y, ale mieliœmy ostatnio zaskakuj¹c¹ iloœæ zaginiêæ na s³u¿bie. Szczególnie w nocy. Potrzebujemy ka¿dego jednego ¿o³nierza, którego tylko mo¿emy dostaæ.~
+@102 = ~Myœla³aœ mo¿e o wprowadzeniu poboru? To by rozwi¹za³o problem niedoboru.~
+@103 = ~Zaginiêcia? Nagle przesta³em byæ tym wszystkim zainteresowany. Zapomnij, ¿e w ogóle wspomina³em o stra¿y.~ ~Zaginiêcia? Nagle przesta³am byæ tym wszystkim zainteresowana. Zapomnij, ¿e w ogóle wspomina³am o stra¿y.~
+@104 = ~Nawet w czasach wojen nie byliœmy zmuszeni do wprowadzania poboru. I wola³abym, ¿eby tak zosta³o.~
+@105 = ~Có¿, œwiadomoœæ, ¿e zg³osi³bym siê na ochotnika, tylko po to, by zostaæ zabitym, nie jest dla mnie jak¹œ szczególn¹ zachêt¹. Nagle przesta³em byæ tym wszystkim zainteresowany. Zapomnij, ¿e w ogóle wspomina³em o stra¿y.~ ~Có¿, œwiadomoœæ, ¿e zg³osi³abym siê na ochotnika, tylko po to, by zostaæ zabit¹, nie jest dla mnie jak¹œ szczególn¹ zachêt¹. Nagle przesta³am byæ tym wszystkim zainteresowana. Zapomnij, ¿e w ogóle wspomina³am o stra¿y.~
+@106 = ~Œwietnie. W ka¿dym razie, jeœli ja nie by³bym jednak zainteresowany przy³¹czeniem siê do stra¿y, to czy mój przyjaciel móg³by?~ ~Œwietnie. W ka¿dym razie, jeœli ja nie by³abym jednak zainteresowana przy³¹czeniem siê do stra¿y, to czy mój przyjaciel móg³by?~
+@107 = ~Rozumiem. Ale w³aœciwie to trochê ciê oszuka³em. To nie ja chcê siê przy³¹czyæ, tylko mój przyjaciel.~ ~Rozumiem. Ale w³aœciwie to trochê ciê oszuka³am. To nie ja chcê siê przy³¹czyæ, tylko mój przyjaciel.~
+@108 = ~No to wasza strata. Tymczasem ciê opuszczê.~
+@109 = ~Ach, to o to chodzi. Przyœlij do mnie swojego przyjaciela, a bêdê ci bardzo wdziêczna. Mi³ego dnia.~
+@110 = ~Reynald de Chatillon jest niew¹tpliwie godnym uzupe³nieniem stra¿y miejskiej. Jestem ci wdziêczna za skierowanie go do mnie.~
+@111 = ~Czy jest jeszcze coœ, w czym mog³abym ci pomóc?~
+@112 = ~Reynald de Chatillon? Czy to mo¿liwe? Nie sprzymierzy³eœ siê czasem z tym zdrajc¹ Anargiem?~
+@113 = ~Opuœci³em Anarga, gdy¿ dostrzeg³em, jak b³êdna jest droga, któr¹ obra³. Zreszt¹ to nie ma znaczenia, teraz gdy stajemy przeciwko wspólnemu wrogowi.~
+@114 = ~A wiêc walcz dzielnie, Reynaldzie. Wszystkie konflikty mo¿emy na razie zostawiæ za sob¹.~
+@115 = ~Ach, <CHARNAME>, mi³o ciê widzieæ. Powiedziano mi, ¿e sam Anarg chcia³by siê z tob¹ spotkaæ.~
+@116 = ~Moje uszanowanie, przyjacielu. Jestem niezmiernie wdziêczny za tw¹ pomoc przeciwko tym psom i rad bym pozna³ twe imiê, o ile zechcesz siê nim podzieliæ.~ ~Moje uszanowanie, przyjació³ko. Jestem niezmiernie wdziêczny za tw¹ pomoc przeciwko tym psom i rad bym pozna³ twe imiê, o ile zechcesz siê nim podzieliæ.~ [reynald1]
+@117 = ~Wróci³eœ, panie? Czy¿byœ zmieni³ zdanie? Zamierzasz odzyskaæ dla mnie puchar Anarga tak, jak prosi³em?~ ~Wróci³aœ, pani? Czy¿byœ zmieni³a zdanie? Zamierzasz odzyskaæ dla mnie puchar Anarga tak, jak prosi³em?~ [reynald2]
+@118 = ~Wiêc wracasz, <LADYLORD>... ale nie masz ze sob¹ pucharu Anarga. Czy¿by coœ posz³o nie tak?~ [reynald3]
+@119 = ~Wiêc wracasz, <LADYLORD>. Uda³o ci siê? Masz ze sob¹ puchar Anarga?~ [reynald4]
+@120 = ~Hej, ty... przygl¹dasz siê, jak walczymy, ale nawet nie kiwniesz palcem, ¿eby nam pomóc. NajwyraŸniej masz do nas jak¹œ sprawê. Mogê zapytaæ o jej naturê? I o twoje imiê przy okazji?~ [reynald5]
+@121 = ~Wiêc chcia³<PRO_HESHE>byœ siê do nas przy³¹czyæ? Moi ludzie bardzo dobrze o tobie mówili.~
+@122 = ~Byæ mo¿e mówi¹ o mnie dobrze, ale muszê ci siê szczerze przyznaæ, ¿e was ok³ama³em. Jestem tu, by pomówiæ o czymœ innym, ni¿ przy³¹czenie siê do was.~ ~Byæ mo¿e mówi¹ o mnie dobrze, ale muszê ci siê szczerze przyznaæ, ¿e was ok³ama³am. Jestem tu, by pomówiæ o czymœ innym, ni¿ przy³¹czenie siê do was.~
+@123 = ~Nie, Anargu. To Zakon mnie tu przys³a³. Kazali mi rozprawiæ siê z twoj¹ grup¹, ale zamiast tego chcê ci zaproponowaæ, byœ siê podda³ i przyst¹pi³ do negocjacji.~
+@124 = ~Nie zamierzam zawracaæ, skoro zaszed³em ju¿ tak daleko. Tak, przy³¹czê siê do was.~ ~Nie zamierzam zawracaæ, skoro zasz³am ju¿ tak daleko. Tak, przy³¹czê siê do was.~
+@125 = ~Anarg? W imiê Zakonu, nadszed³ twój czas!~
+@126 = ~Anarg? Nareszcie. Czas umieraæ!~
+@127 = ~Ju¿ nic, niewa¿ne.~
+@128 = ~Zdradzi³<PRO_HESHE>byœ nas dla tego odszczepieñca, Anarga? <CHARNAME>, srogo siê co do ciebie pomyli³em. Powinniœmy broniæ Zakonu zawsze, gdy to konieczne!~
+@129 = ~<CHARNAME>, jest ktoœ, kto chcia³by siê z tob¹ spotkaæ. Œledziliœmy twoje poczynania i byliœmy œwiadkami twojego upadku. Wiedz, ¿e Zakon jest niestrudzony w wymierzaniu sprawiedliwoœci.~
+@130 = ~Jeœli chcesz, to mo¿esz do³¹czyæ do innych, podobnych tobie. Znajdziesz nas w pó³nocno wschodniej czêœci Dzielnicy mostów.~
+@131 = ~Nigdy nie do³¹czê do ¿adnych upad³ych szumowin! Pozosta³a mi jeszcze odrobina honoru!~
+@132 = ~Mój upadek by³ niezas³u¿ony i szukam dla siebie odkupienia. Nie ma dla mnie miejsca w twoich zamys³ach.~
+@133 = ~Ciekawa propozycja. Mo¿liwe, ¿e w najbli¿szym czasie z³o¿ê ci wizytê.~
+@134 = ~Przyjdê, ale lepiej uwa¿aj, ¿eby nie okaza³o siê to dla mnie strat¹ czasu.~
+@135 = ~Obawiam siê, ¿e jestem teraz trochê zbyt zajêty. Jednak jestem pewien, ¿e beze mnie bêdziecie siê bawiæ równie dobrze.~ ~Obawiam siê, ¿e jestem teraz trochê zbyt zajêta. Jednak jestem pewna, ¿e beze mnie bêdziecie siê bawiæ równie dobrze.~
+@136 = ~Tak, jak i nam. Prze³knij swoj¹ g³upi¹ dumê i do³¹cz do nas.~
+@137 = ~G³upot¹ jest szukaæ odkupienia w oczach Zakonu. Otwieraj¹ siê przed tob¹ inne drogi do wype³nienia obowi¹zków... inne sprawy, którym mo¿esz s³u¿yæ. Prze³knij swoj¹ g³upi¹ dumê i do³¹cz do nas.~
+@138 = ~Ucieszy nas twoje towarzystwo. Dla wielu z nas honorem bêdzie spotkaæ kogoœ tak... nies³awnego jak ty.~
+@139 = ~Niem¹drze zrobisz, jeœli przepuœcisz tak¹ okazjê. Mo¿e ju¿ czas znaleŸæ sobie jak¹œ now¹ sprawê, by jej s³u¿yæ. Prze³knij swoj¹ g³upi¹ dumê i do³¹cz do nas.~
+@140 = ~<CHARNAME>, on mówi prawdê. Niejeden ju¿ doœwiadczy³ surowego i bezdusznego gniewu Zakonu.~
+@141 = ~Twoja pomoc zosta³a doceniona. Teraz znikaj. Nic nie widzia³eœ.
+
+(Podaje ci wype³nion¹ monetami sakiewkê.)~ ~Twoja pomoc zosta³a doceniona. Teraz znikaj. Nic nie widzia³aœ.
+
+(Podaje ci wype³nion¹ monetami sakiewkê.)~
+@142 = ~Wiem ju¿ o twojej zdradzie, g³upcze! Nie bêdziemy niczego negocjowaæ. Nie ujdziesz st¹d ¿ywy!~ ~Wiem ju¿ o twojej zdradzie, g³upia! Nie bêdziemy niczego negocjowaæ. Nie ujdziesz st¹d ¿ywa!~
+@143 = ~Bêdziesz cennym nabytkiem dla naszej sprawy. S³ysza³em, ¿e bardzo dzielnie walczy³eœ o puchar.~ ~Bêdziesz cennym nabytkiem dla naszej sprawy. S³ysza³em, ¿e bardzo dzielnie walczy³aœ o puchar.~
+@144 = ~Ach, oto on. Anarg Nieustraszony nie bêdzie ju¿ klêka³ przed Zakonem. Widzicie, ludzie? To o to w³aœnie walczymy!~
+@145 = ~Dziêki temu symbolowi potêgi i dumy wielu siê do nas przy³¹czy. A wraz ze œmierci¹ Ryana Trawla Zakon popad³ w chaos! Nadszed³ czas, by uderzyæ!~
+@146 = ~Bzdura, Reynaldzie. Nie mo¿emy pozwoliæ Zakonowi, ¿eby siê pozbiera³, teraz jest nasza szansa. Jeœli nie podejmiemy dzia³añ, to odwdziêcz¹ nam siê piêknym za nadobne i bêdziemy skoñczeni.~
+@147 = ~Nie zwracaj uwagi na Reynalda. Jest pochopny i s³aby. Bez przywództwa ju¿ wkrótce spotka go nieunikniony koniec. Ale niewa¿ne, mamy inne sprawy do omówienia...~
+@148 = ~Nie! On ma racjê. Nie mo¿esz zaatakowaæ Zakonu!~
+@149 = ~Mów dalej.~
+@150 = ~<CHARNAME>, nie ty bêdziesz mi dyktowa³<PRO_HESHE> kolejne posuniêcia. Byæ mo¿e to dziêki tobie odzyska³em puchar, ale to nie powstrzyma mnie przed podniesieniem na ciebie rêki!~
+@151 = ~Wraz ze œmierci¹ Ryana Trawla Zakon znacznie os³ab³. Mimo tego nawet teraz szukaj¹ mordercy dowodzeni przez Pra³ata Wessalena.~
+@152 = ~Gdyby wyeliminowaæ Wessalena, to do kogo zwróci³by siê Zakon? Wci¹¿ mam tam liczne kontakty. Co za ironia, ¿e wygnany rycerz jest ich jedyn¹ nadziej¹.~
+@153 = ~Nie ³udŸ siê, ¿e uda ci siê przekonaæ Zakon, ¿e móg³byœ im pomóc. Twój plan nie ma szans powodzenia.~
+@154 = ~To istne szaleñstwo. Nie dopuszczê do urzeczywistnienia tego planu!~
+@155 = ~Naprawdê wierzysz, ¿e przyjm¹ ciê tam z otwartymi rêkami? Ju¿ raczej obwini¹ ciê, i to s³usznie, za jego œmieræ.~
+@156 = ~Moi ludzie w Zakonie bêd¹ mogli przedstawiæ pewne przekonuj¹ce dowody na temat sprawcy.~
+@157 = ~Ja?! Nie zamierzam braæ w tym udzia³u!~
+@158 = ~Wygl¹da mi to na doskona³y plan. Kiedy mo¿na bêdzie zaatakowaæ Wessalena bez obecnoœci niepotrzebnych œwiadków?~
+@159 = ~Zatem nie mo¿emy pozwoliæ, abyœ ostrzeg³<PRO_HESHE> Zakon o naszych planach. Byæ mo¿e to dziêki tobie odzyska³em puchar, ale to nie powstrzyma mnie przed podniesieniem na ciebie rêki!~
+@160 = ~Wessalen bêdzie teraz ostro¿ny. Nie wypuœci siê nigdzie bez znacznej ochrony; ca³kiem tchórzliwie jak na takiego dostojnego rycerza. Bezpoœredni atak bêdzie zatem zbyt niebezpieczny.~
+@161 = ~Z tego, co mi powiedziano, w Zakonie wci¹¿ ci ufaj¹. Nie powinieneœ mieæ trudnoœci z dostaniem siê do jego komnat i zatruciem jego kielicha.~ ~Z tego, co mi powiedziano, w Zakonie wci¹¿ ci ufaj¹. Nie powinnaœ mieæ trudnoœci z dostaniem siê do jego komnat i zatruciem jego kielicha.~
+@162 = ~Wygl¹da mi to na zbyt ryzykowne. Nie mam ochoty nadstawiaæ dla ciebie mojego karku.~
+@163 = ~Doskona³y plan, ale bêdziesz musia³ znaleŸæ kogoœ innego, by odwala³ za ciebie tê brudn¹ robotê.~
+@164 = ~A mo¿e raczej raz, a dobrze posprz¹tam ca³y ten bajzel i ciê po prostu zabijê?~
+@165 = ~Dobrze. Zrobiê, jak mówisz. Masz jak¹œ truciznê, której móg³bym u¿yæ?~ ~Dobrze. Zrobiê, jak mówisz. Masz jak¹œ truciznê, której mog³abym u¿yæ?~
+@166 = ~Co za tupet! Byæ mo¿e to dziêki tobie odzyska³em puchar, ale to nie powstrzyma mnie przed podniesieniem na ciebie rêki!~
+@167 = ~Tak siê akurat sk³ada, ¿e w kontrabandzie Rindusa i jego ludzi, na których, jak sam widzia³eœ, sprawiedliwoœæ wymierzy³ Reynald, by³o kilka fiolek z niezwykle œmiercionoœnym jadem.~ ~Tak siê akurat sk³ada, ¿e w kontrabandzie Rindusa i jego ludzi, na których, jak sama widzia³aœ, sprawiedliwoœæ wymierzy³ Reynald, by³o kilka fiolek z niezwykle œmiercionoœnym jadem.~
+@168 = ~<CHARNAME>, tylko ostro¿nie. Szkoda by by³o zmarnowaæ tak u¿yteczn¹ substancjê.~
+@169 = ~IdŸ ju¿. Wessalen musi umrzeæ, nim ten dzieñ siê skoñczy!~
+@170 = ~<CHARNAME>, nie zwlekaj ju¿ d³u¿ej, albo Wessalen odkryje twoj¹ zdradê i na nas uderzy. On musi umrzeæ, nim ten dzieñ siê skoñczy.~
+@171 = ~Anargu! Có¿ to za szaleñstwo?!~
+@172 = ~Przecie¿ my nigdy nie wystêpowaliœmy przeciwko Zakonowi, a tylko przeciw ich restrykcjom i niesprawiedliwoœci!~
+@173 = ~Nowa droga Reynalda
+
+Zgodziliœmy siê pomóc Reynaldowi de Chatillon odnaleŸæ dla niego now¹ drogê w ¿yciu. Pasuj¹c¹ do niego lepiej ni¿ rola rycerza. Postaramy siê wybadaæ, czy istnieje mo¿liwoœæ, ¿eby do³¹czy³ do stra¿y miejskiej w Athkatli. Odnajdziemy go w Dzielnicy mostów, gdy ju¿ porozmawiamy z kimœ kompetentnym.~
+@174 = ~Nowa droga Reynalda
+
+Rozmawialiœmy z Bylann¹ o przyjêciu Reynalda do stra¿y. Zdawa³a siê byæ niezmiernie wdziêczna za tê propozycjê i poprosi³a, byœmy przys³ali go do niej na rozmowê.~
+@175 = ~Nowa droga Reynalda
+
+W imieniu Reynalda de Chatillon rozmawialiœmy z Bylann¹ o jego przyjêciu do stra¿y miejskiej w Athkatli. Wygl¹da na to, ¿e umowa okaza³a siê korzystna dla obu stron; Bylanna zyska³a dodatkowego ¿o³nierza, a Reynald szlachetn¹ drogê w ¿yciu.~
+@176 = ~Spotkanie z Upad³ymi Paladynami
+
+Rozmawialiœmy z Reynaldem de Chatillon, jednym z Upad³ych Paladynów. Obieca³ nam spotkanie z ich przywódc¹, Anargiem, jeœli tylko odzyskamy jego puchar z r¹k Zakonu. Wygl¹da na to, ¿e puchar jest tylko ceremonialn¹ pami¹tk¹, ale przy tym bardzo wa¿n¹ dla Anarga.~
+@177 = ~Spotkanie z Upad³ymi Paladynami
+
+Zostaliœmy zaczepieni przez upad³ego rycerza, który zosta³ wydalony z Zakonu. Wygl¹da na to, ¿e jakaœ ich grupa chcia³aby siê z nami spotkaæ w pó³nocno wschodniej czêœci Dzielnicy mostów. Nie wiemy jednak w jakim celu.~
+@178 = ~Twierdza Upad³ego Paladyna: skrytobójstwo
+
+Anarg wrêczy³ nam œmierteln¹ truciznê, za pomoc¹ której mamy zamordowaæ Pra³ata Zakonu, Wessalena. Gdy ju¿ tego dokonamy, poplecznicy Anarga w Zakonie przekonaj¹ pozosta³ych rycerzy, ¿e ich jedyn¹ nadziej¹ jest przywrócenie pozycji Anargowi.~

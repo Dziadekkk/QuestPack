@@ -1,0 +1,55 @@
+// -*- coding: cp1252 -*-
+
+@0  = ~Prawdê powiedziawszy, to Sanik wci¹¿ ¿yje. Zaplanowana przez ciebie próba zabójstwa nie powiod³a siê.~
+@1  = ~Zabójca zawiód³, Galveno. Sanik jest jedynie przyk³adem tego, i¿ nie jesteœ wcale tak mocna, jak uwa¿asz.~
+@2  = ~Co u licha? Kim jesteœ <MANWOMAN>? Gdzie siê podziali moi bezu¿yteczni stra¿nicy?~ 
+@3  = ~Sanik pragn¹³ zap³aty, a ja... nie mam doœæ z³ota. Zastanawia³em siê wiêc, czy nie mog³abyœ nam co nieco po¿yczyæ i wspomóc nasz¹ sprawê?~ ~Sanik pragn¹³ zap³aty, a ja... nie mam doœæ z³ota. Zastanawia³am siê wiêc, czy nie mog³abyœ nam co nieco po¿yczyæ i wspomóc nasz¹ sprawê?~
+@4  = ~Sanik wymkn¹³ siê, nie mówi¹c mi, jak dostaæ siê do œrodka!~ 
+@5  = ~Jak widzisz, nie jest tu bezpiecznie. Choæ ucieczka st¹d wydaje siê nieodzowna, wyniknê³y pewne... komplikacje.~
+@6  = ~Zabójca, którego widzia³eœ, zosta³ wys³any przez Lady Galvenê, w³aœcicielkê miejscowego domu publicznego.~ ~Zabójca, którego widzia³aœ, zosta³ wys³any przez Lady Galvenê, w³aœcicielkê miejscowego domu publicznego.~
+@7  = ~Byæ mo¿e bêdziemy mogli pomóc sobie nawzajem. Wska¿ê ci drogê do przytu³ku, jeœli zgodzisz siê dla mnie coœ zrobiæ.~ 
+@8  = ~A wiêc dobrze, czego ci trzeba?~
+@9  = ~Obawiam siê, ¿e nie, zbytnio siê spieszê.~ 
+@10 = ~Byæ mo¿e bêdziemy mogli pomóc sobie nawzajem. Znam to miasto i bardzo chêtniê pomogê ci w dowolnym przedsiêwziêciu, je¿eli zgodzisz siê odwzajemniæ przys³ugê.~
+@11 = ~Muszê dostaæ siê do Przytu³ku. Masz pomys³, jak tego dokonaæ?~
+@12 = ~Moja œwie¿o upieczona ma³¿onka Klara by³a wczeœniej "w³asnoœci¹" w³aœcicielki domu publicznego, Lady Galveny. Jednak¿e znaj¹c nasze œlubne zamiary, Galvena nie chce zwolniæ dziewczyny ze s³u¿by.~
+@13 = ~Wygl¹da na to, ¿e dowiedzia³a siê ostatnio o naszych planach opuszczenia wyspy. Domyœlam siê, ¿e Klara jest teraz przetrzymywana gdzieœ w domu publicznym.~
+@14 = ~Chcê, ¿ebyœ uwolni³<HESHE> Klarê z r¹k tej suki Galveny, wtedy zrobiê co w mej mocy, by ci pomóc.~
+@15 = ~W porz¹dku, zajmê siê tym, ale lepiej ¿eby ten twój sposób okaza³ siê przydatny.~
+@16 = ~Muszê wobec tego ciê po¿egnaæ. Nadszed³ czas, bym ruszy³ w drogê.~
+@17 = ~Wygl¹da na to, ¿e masz szczêœcie. Byæ mo¿e znam sposób na wejœcie do Przytu³ku, lecz najpierw musisz coœ dla mnie zrobiæ.~
+@18 = ~Dziêkujê. Spotkajmy siê tu, gdy odnajdziesz Klarê.~ 
+@19 = ~Poœpiesz siê, proszê! Uwolnij Klarê, a powiem ci wszystko, co chcesz wiedzieæ.~
+@20 = ~Jestem ci dozgonnie wdziêczny za uratowanie Klary. Wkrótce opuœcimy tê wyspê i - dziêki tobie - bêdziemy wiedli szczêœliwe ¿ycie.~ 
+@21 = ~Ale najpierw wype³niê, rzecz jasna, swoj¹ czêœæ umowy. Z tego co wiem, mój kapitan, Golin, posiada informacje, które mog¹ ci pomóc.~
+@22 = ~W porz¹dku, <CHARNAME>. Mam nadziejê, ¿e zdo³aliœmy choæ w czêœci sp³aciæ nasz d³ug. ¯egnaj.~
+@23 = ~Sanik mówi³, ¿e szukasz drogi do Przytu³ku. Wiem co nieco o tym magicznym wiêzieniu i byæ mo¿e bêdê móg³ ci pomóc.~ 
+@24 = ~Nie wiem, czy moja wiedza ci siê przyda, ale jeœli szukasz wstêpu do przytu³ku, wiedz, ¿e tylko dwa typy osób mog¹ uzyskaæ doñ dostêp - Zakapturzeni Czarodzieje lub magiczni "dewianci".~
+@25 = ~A wiêc dobrze. Wci¹¿ nie wiem, po co u licha chcesz siê tam dostaæ, ostatnio s³ychaæ stamt¹d jeszcze wiêcej wrzasków ni¿ zwykle.~
+@26 = ~Tak czy siak, jesteœmy niezmiernie wdziêczni za pomoc i ¿yczymy ci powodzenia. Saniku, Klaro, najwy¿szy czas, abyœmy st¹d wyruszyli.~
+@27 = ~Oho! I o to nadchodzi!~
+@28 = ~Na sutek Umberlee! Za kogo ta Galvena siê uwa¿a? Próba zabójstwa w Wulgarnej Ma³pie! A to przem¹drza³a dziewka!~
+@29 = ~To nie twoja sprawa. Kim by³ ten zabójca i co Galvena ma z tym wspólnego?~
+@30 = ~Potrzebujê informacji, której tylko on móg³ mi udzieliæ. Gadaj, co wiesz!~
+@31 = ~Potrzebujê informacji, której tylko on mo¿e mi udzieliæ. Gadaj, co wiesz!~
+@32 = ~S³ysza³em o tym. Masz pomys³, gdzie Galvena mo¿e przetrzymywaæ Klarê?~ ~S³ysza³am o tym. Masz pomys³, gdzie Galvena mo¿e przetrzymywaæ Klarê?~
+@33 = ~Tyle to i ja wiem. O co posz³o pomiêdzy ni¹ i Sanikiem?~
+@34 = ~Zdajesz siê wiedzieæ co nieco o k³opotach Sanika. Mo¿e móg³byœ mi pomóc.~
+@35 = ~Przyby³em j¹ uwolniæ, czy ci siê to podoba czy nie. Wiedz, ¿e to nic osobistego.~
+@36 = ~Tak, Sanik mnie przys³a³. Powinnaœ pójœæ do niego, jest w tawernie.~
+@37 = ~Muszê siê streszczaæ. Sanik zosta³ zaatakowany przez zabójcê od Lady Galveny, zanim zdradzi³ mi sposób dostania siê do Przytu³ku. Oddali³ siê tu¿ po ataku, nie udzielaj¹c mi pomocy.~
+@38 = ~Z tego, co wszyscy mówi¹, Galvena zas³u¿y³a na œmieræ. Mo¿esz odejœæ, zastanawiam siê jednak, czy nie zechcia³abyœ mi wpierw pomóc w dostaniu siê do Przytu³ku.~
+@39 = ~Dziêkujê! Tak siê cieszê, ¿e Sanikowi nic siê nie sta³o! Ju¿ do niego pêdzê.~
+@40 = ~Obawiam siê, ¿e nic o tym nie wiem. ¯yczê ci powodzenia w poszukiwaniach, ale muszê teraz odnaleŸæ Sanika. ¯egnaj!~
+@41 = ~Dostajê siê do Przytu³ku
+
+Spotkaliœmy w Wulgarnej Ma³pie Sanika, bêd¹c przy tym œwiadkami zamachu na jego ¿ycie. Choæ uda³o mu siê prze¿yæ atak, znikn¹³, nie zdradziwszy nam uprzednio, jak dostaæ siê do Przytu³ku.~
+@42 = ~Dostajê siê do Przytu³ku
+
+Spotkaliœmy w Wulgarnej Ma³pie Sanika, bêd¹c przy tym œwiadkami zamachu na jego ¿ycie. Obieca³ pomóc nam w dostaniu siê do Przytu³ku, je¿eli uratujemy jego ¿onê Klarê z r¹k Lady Galveny, prze³o¿onej lokalnej gildii kurtyzan.~
+@43 = ~Dostajê siê do Przytu³ku
+
+Barman w Wulgarnej Ma³pie powiedzia³ nam, ¿e morderca, który zabi³ Sanika, zosta³ przys³any przez lady Galvenê, prze³o¿on¹ lokalnej gildii kurtyzan, kobietê posiadaj¹c¹ pieni¹dze i wp³ywy w Brynnlaw.~
+@44 = ~Szczêœliwe zakoñczenie dla Sanika i Klary
+
+Sanik i Klara byli uradowani ponownym spotkaniem i natychmiast wyruszyli, by opuœciæ wyspê. Mamy tylko nadziejê, ¿e nam uda siê to uczyniæ równie szybko.~ 

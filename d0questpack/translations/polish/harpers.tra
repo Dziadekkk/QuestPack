@@ -1,0 +1,195 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Z ca³¹ pewnoœci¹ nie wezmê udzia³u w mordzie na Harfiarzach. Nie pod¹¿amy ju¿ t¹ sam¹ drog¹. Nie zamierzam siê biernie przypatrywaæ temu, co robisz.~
+@1    = ~Powinniœmy czym prêdzej zanieœæ ostrze znalezione w domu Prebeka do Bernarda. Mam nadziejê, ¿e w³aœnie to zamierzasz zrobiæ.~
+@2    = ~Wygl¹da na to, ¿e nie masz zamiaru spe³niæ mojej proœby. le ciê oceni³am, <CHARNAME>, skoro nie chcesz pozbyæ siê ostrza wykutego do zabijania Harfiarzy... w tym mnie. Spodziewa³am siê po tobie czegoœ lepszego! Byæ mo¿e spotkamy siê ponownie, poniewa¿ nie mogê pozostawiæ tej broni w twych rêkach.~
+@3    = ~Wygl¹da na to, ¿e nie masz zamiaru spe³niæ mojej proœby. le ciê oceni³am, <CHARNAME>, skoro nie chcesz pozbyæ siê ostrza wykutego do zabijania Harfiarzy... w tym mnie. Spodziewa³am siê po tobie czegoœ lepszego! Wezmê to ostrze i zrobiê z nim to, co konieczne. Nie spotkamy siê nigdy wiêcej.~
+@4    = ~<CHARNAME>, broñ z domu Prebeka... to ostrze z³a. Jest sk¹pane we krwi Harfiarzy.~
+@5    = ~<CHARNAME>, broñ z domu Prebeka... to ostrze z³a. Jest sk¹pane we krwi Harfiarzy.~
+@6    = ~<CHARNAME>, oddaj mi tê broñ. Tê znalezion¹ w domu Prebeka.~
+@7    = ~Tak jak podejrzewa³am. Rozpoznajê je... to ostrze z³a. Jest sk¹pane we krwi Harfiarzy.~
+@8    = ~<CHARNAME>, broñ z domu Prebeka... coœ mnie niepokoi w tym ostrzu. Pozwól mi je zbadaæ.~
+@9    = ~Nie wiem, jak siê znalaz³o w posiadaniu Prebeka, ale nie mogê pozwoliæ, by nadal kr¹¿y³o po œwiecie, nawet w twoich rêkach.~
+@10   = ~Musi zostaæ zniszczone. Proszê, ¿ebyœmy przy najbli¿szej okazji przekazali je Harfiarzom. Oni zrobi¹ z nim to, co nale¿y.~
+@11   = ~Dobrze. Komu proponujesz je oddaæ?.~
+@12   = ~Chwileczkê, ma zostaæ zniszczone tylko dlatego, ¿e zabijano nim Harfiarzy? To przecie¿ s³u¿y³o tylko "zrównowa¿eniu" wp³ywów Harfiarzy.~
+@13   = ~Mia³bym tak po prostu oddaæ tak u¿yteczn¹ broñ! Zatrzymam ten sejmitar, czy ci siê to podoba, czy nie.~ ~Mia³abym tak po prostu oddaæ tak u¿yteczn¹ broñ! Zatrzymam ten sejmitar, czy ci siê to podoba, czy nie.~
+@14   = ~Bernard z Miedzianego Diademu skontaktuje siê z kimœ, kto poradzi sobie z tym zadaniem. Wierzê w jego umiejêtnoœci i mo¿na mu zaufaæ.~
+@15   = ~Widzê, ¿e Ÿle ciê oceni³am, skoro nie chcesz pozbyæ siê ostrza sk¹panego we krwi Harfiarzy... w mojej krwi. Spodziewa³am siê po tobie czegoœ lepszego! Byæ mo¿e jeszcze siê spotkamy. Nie mogê pozwoliæ, ¿eby to ostrze nadal kr¹¿y³o po œwiecie.~
+@16   = ~Harfiarze s¹ agentami równowagi, <CHARNAME>. To ostrze nie ma nic wspólnego z neutralnoœci¹. Jest z³e do cna.~
+@17   = ~Naprawdê? Dlaczego przedmiot trzymaj¹cy w ryzach obroñców neutralnoœci musi byæ z gruntu z³y? Równie dobrze móg³by reprezentowaæ si³y dobra.~
+@18   = ~Mia³bym tak po prostu oddaæ tak u¿yteczn¹ broñ! Zatrzymam ten sejmitar, czy ci siê to podoba, czy nie.~ ~Mia³abym tak po prostu oddaæ tak u¿yteczn¹ broñ! Zatrzymam ten sejmitar, czy ci siê to podoba, czy nie.~
+@19   = ~Jeœli naprawdê tak myœlisz, nie ma dla ciebie nadziei. Wyjaœni³am ci, co nale¿y zrobiæ. Proponujê, abyœ mi w tym pomóg³.~ ~Jeœli naprawdê tak myœlisz, nie ma dla ciebie nadziei. Wyjaœni³am ci, co nale¿y zrobiæ. Proponujê, abyœ mi w tym pomog³a.~
+@20   = ~<CHARNAME>, ¿a³ujê, ¿e do tego dosz³o. Dajê ci jeszcze jedn¹ szansê na zwrócenie mi Shazzellima, ¿eby móg³ zostaæ zniszczony.~
+@21   = ~Moja decyzja pozostaje niezmieniona. Nie pozbêdê siê tak cennej broni.~
+@22   = ~Przepraszam, Jaheiro. Proszê, weŸ to ostrze i przyjmij moje przeprosiny.~
+@23   = ~Bierz to przeklête ostrze, skoro jest dla ciebie takie wa¿ne. Nie spodziewa³em siê, ¿e zrobisz z tej sprawy tak¹ awanturê!~ ~Bierz to przeklête ostrze, skoro jest dla ciebie takie wa¿ne. Nie spodziewa³am siê, ¿e zrobisz z tej sprawy tak¹ awanturê!~
+@24   = ~Posmakuj mego miecza, suko!~
+@25   = ~Nie mogê siê temu biernie przygl¹daæ. Nie mo¿esz go mieæ. Skoro oznacza to walkê z tob¹, niech tak bêdzie!~
+@26   = ~Dziêkujê, <CHARNAME>. Przyjmujê przeprosiny, a stratê sejmitara uczciwie ci wynagrodzê. Byæ mo¿e spotkamy siê znowu za jakiœ czas.~
+@27   = ~Dziêkujê, <CHARNAME>, choæ przykro mi, ¿e tak ma³o dla ciebie znacz¹ moje proœby. Stratê sejmitara uczciwie ci wynagrodzê. Byæ mo¿e spotkamy siê znowu za jakiœ czas.~
+@28   = ~Gorion wstydzi³by siê za ciebie, <CHARNAME>. Skoro musimy walczyæ, to niech tak bêdzie!~
+@29   = ~Mam coœ dla ciebie, Bernardzie. Broñ, która powinna ciê zainteresowaæ.~
+@30   = ~Co masz na myœli, Jaheiro? Broñ? Podaj mi j¹.~
+@31   = ~Proszê bardzo.~
+@32   = ~Podaæ ci? Nie zamierzam siê z ni¹ rozstawaæ.~
+@33   = ~Mogê dla ciebie zrobiæ coœ jeszcze?~
+@34   = ~Proszê, proszê, co my tu mamy? Gdzie¿eœcie to znaleŸli?~
+@35   = ~Tu¿ pod twoim nosem, w Athkatli. Sk¹d siê tu wziê³a, nie mam pojêcia.~
+@36   = ~Jej obecnoœæ w mieœcie to z³y znak. Musimy mieæ siê na bacznoœci.~
+@37   = ~W takim razie bêdê wypatrywa³ innych zagro¿eñ dla Harfiarzy.~ ~W takim razie bêdê wypatrywa³a innych zagro¿eñ dla Harfiarzy.~
+@38   = ~To by³oby rozs¹dne.~
+@39   = ~Zajmê siê tym ostrzem. Nie w¹tpiê, ¿e Cromwell sobie z nim poradzi, ale mo¿liwe, ¿e niektórzy spoœród Harfiarzy chcieliby je najpierw obejrzeæ.~
+@40   = ~Jak podejrzewam, twoim przyjacio³om nale¿y siê rekompensata za broñ. W porz¹dku.~
+@41   = ~Jak podejrzewam, twojemu przyjacielowi nale¿y siê rekompensata za broñ. W porz¹dku.~ ~Jak podejrzewam, twojej przyjació³ce nale¿y siê rekompensata za broñ. W porz¹dku.~
+@42   = ~Dziêkujê, Bernardzie. I tobie, <CHARNAME>.~
+@43   = ~Czarodziej o imieniu Xzar poprosi³ mnie o wejœcie do tego budynku i uwolnienie jego kompana.~
+@44   = ~Jestem <CHARNAME>. Czarodziej o imieniu Xzar poprosi³ mnie o wejœcie do tego budynku i uwolnienie jego kompana.~
+@45   = ~Dobrze, wiêc to nieprawda. Czarodziej o imieniu Xzar poprosi³ mnie o wejœcie do tego budynku i uwolnienie jego kompana.~
+@46   = ~Powiedzia³ mi o tym czarodziej o imieniu Xzar. Chcia³ siê dostaæ do tego budynku i uwolniæ swojego kompana.~
+@47   = ~Hm? A co to ma z nami wspólnego? Powinniœmy wiedzieæ coœ na ten temat?~
+@48   = ~S¹dzi³em, ¿e jako Harfiarze wiecie, co siê dzieje w waszej kwaterze.~ ~S¹dzi³am, ¿e jako Harfiarze wiecie, co siê dzieje w waszej kwaterze.~
+@49   = ~Nie udawaj durnia, Harfiarzu. Dobrze wiesz, o czym mówiê.~
+@50   = ~Pomyœla³em sobie, ¿e mogliœcie s³yszeæ coœ na ten temat.~ ~Pomyœla³am sobie, ¿e mogliœcie s³yszeæ coœ na ten temat.~
+@51   = ~Mo¿liwe. Jeœli jednak nie wiecie, mo¿e chcecie siê dowiedzieæ?~
+@52   = ~Ach tak. Wiêc pracujesz dla niego? Mo¿e zdo³alibyœmy dojœæ do porozumienia?~
+@53   = ~Co masz na myœli?~
+@54   = ~Wpuœcisz mnie do œrodka albo twoja krew za chwilê zachlapie bruk. Co ty na to?~
+@55   = ~Nie interesuje mnie ¿adne porozumienie z wami. Gdzie jest Montaron?~
+@56   = ~Ciii! Nie tak g³oœno! Ujawnienie naszej obecnoœci mo¿e byæ bardzo niebezpieczne! A wiêc czarodziej zdradzi³ ci nasz¹ tajemnicê? Mo¿e zdo³alibyœmy dojœæ do porozumienia?~
+@57   = ~A mo¿e wpuœcicie mnie do œrodka albo wszyscy poznaj¹ wasz¹ tajemnicê?~
+@58   = ~Jesteœ w b³êdzie, szanowny panie. Przykro mi. Mo¿e i dostarczy³eœ do nas Renfelda, ale nie wiemy nic wiêcej o twoich zamiarach, a nasze problemy to nie twoja sprawa.~ ~Jesteœ w b³êdzie, szanowna pani. Przykro mi. Mo¿e i dostarczy³aœ do nas Renfelda, ale nie wiemy nic wiêcej o twoich zamiarach, a nasze problemy to nie twoja sprawa.~
+@59   = ~Wiêc Harfiarze nie chc¹ wspó³pracowaæ?~
+@60   = ~Jak chcecie. W takim razie pójdê ju¿ sobie.~
+@61   = ~Wyœwiadczy³eœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~ ~Wyœwiadczy³aœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~
+@62   = ~Cierpliwoœci! Wyœwiadczy³eœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~ ~Cierpliwoœci! Wyœwiadczy³aœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~
+@63   = ~Jest tylko jeden sposób, w jaki mo¿esz go odnaleŸæ. Wyœwiadczy³eœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~ ~Jest tylko jeden sposób, w jaki mo¿esz go odnaleŸæ. Wyœwiadczy³aœ nam przys³ugê, ale to nie znaczy, ¿e mogê ciê wpuœciæ do œrodka. S³uchaj... jeœli wykonasz dla nas ma³e zlecenie, pozwolê ci siê rozejrzeæ. Zgoda?~
+@64   = ~Szukam schwytanego z³odzieja o imieniu Montaron.~
+@65   = ~Lepiej oddajcie mi Montarona albo za chwilê wszyscy zginiecie.~
+@66   = ~...och. Rozumiem. Powinieneœ porozmawiaæ z Meroni¹. Prawdopodobnie bêdzie w stanie ci pomóc. Ja mam inne sprawy na g³owie. Potrzebujesz czegoœ jeszcze?~ ~...och. Rozumiem. Powinnaœ porozmawiaæ z Meroni¹. Prawdopodobnie bêdzie w stanie ci pomóc. Ja mam inne sprawy na g³owie. Potrzebujesz czegoœ jeszcze?~
+@67   = ~Chcesz uciec siê do przemocy? Moim zdaniem to niezbyt m¹dry wybór. W ka¿dym razie jesteœmy na to przygotowani.~
+@68   = ~Um, nie mam z tym nic wspólnego. Porozmawiaj z Berinvarem albo Meroni¹... Oni mog¹ ci pomóc.~
+@69   = ~Mo¿esz oprowadziæ mnie po budynku?~
+@70   = ~Dobrze. W takim razie ju¿ pójdê.~
+@71   = ~Umm, w³aœciwie nie mam z t¹ spraw¹ nic wspólnego. Jeœli chcesz komuœ groziæ, to idŸ do Berinvara albo Meronii.~
+@72   = ~Zosta³em tu przys³any przez maga w celu uwolnienia jego schwytanego towarzysza.~ ~Zosta³am tu przys³ana przez maga w celu uwolnienia jego schwytanego towarzysza.~
+@73   = ~Jeœli tego chcecie, mogê wam pomóc zastawiæ pu³apkê na Xzara.~
+@74   = ~Oszukaliœcie mnie! Ptak nie by³ Montaronem tylko zabójc¹!~
+@75   = ~Nie mam pojêcia, o czym mówisz. Zezwolono ci na wstêp do budynku, proszê jednak, abyœ nie wtr¹ca³ siê w nasze sprawy.~ ~Nie mam pojêcia, o czym mówisz. Zezwolono ci na wstêp do budynku, proszê jednak, abyœ nie wtr¹ca³a siê w nasze sprawy.~
+@76   = ~A jeœli powiem ci, ¿e ten mag ma na imiê Xzar i wys³a³ mnie w celu uwolnienia Montarona? Mo¿e ta informacja bêdzie dla was u¿yteczna?~
+@77   = ~W takim razie mogê zadaæ inne pytanie?~
+@78   = ~S³uchaj, dawaj Montarona albo bêdziesz mia³ k³opoty!~
+@79   = ~Bardzo przepraszam za moje wœcibstwo.~
+@80   = ~Umm... Rozumiem. Dziwne, ¿e ujawniasz swoje powi¹zania. Dziêkujê za tê informacjê. Rozwa¿ymy j¹ i odpowiednio zareagujemy.~
+@81   = ~Czekaj. Mogê wam pomóc, jeœli chcecie go ukaraæ.~
+@82   = ~Oczywiœcie.~
+@83   = ~Wiedz, ¿e Harfiarze s¹ ci wdziêczni, ¿e nie próbowa³eœ nas oszukaæ.~ ~Wiedz, ¿e Harfiarze s¹ ci wdziêczni, ¿e nie próbowa³aœ nas oszukaæ.~
+@84   = ~Có¿, Rylock uzna³, ¿e dobrze bêdzie dopuœciæ ciê do sprawy. Chyba mo¿esz nam pomóc.~
+@85   = ~Proszê ciê o pomoc w wymierzeniu sprawiedliwoœci magowi Xzarowi. Sprawi³ nam liczne problemy, a do tej pory nie mieliœmy dogodnej okazji, ¿eby siê z nim rozprawiæ.~
+@86   = ~Nie bêdê waszym zabójc¹!~ ~Nie bêdê wasz¹ zabójczyni¹!~
+@87   = ~Powiedz mi, co planujecie?~
+@88   = ~Nie interesuje mnie to. Do widzenia.~
+@89   = ~Rozumiem. Mogê ci jeszcze w czymœ pomóc?~
+@90   = ~Twoja decyzja. Mimo wszystko dziêkujê.~
+@91   = ~Chcesz nas zastraszyæ? Nie jesteœmy bezbronni. Z groŸbami i oskar¿eniami radzê poszukaæ szczêœcia gdzie indziej.~
+@92   = ~Radzê nie marnowaæ czasu na poszukiwanie intruza. Mo¿e wygl¹daæ teraz zupe³nie inaczej, ni¿ go pamiêtasz.~
+@93   = ~W takim razie nie mamy o czym rozmawiaæ. Radzê nie marnowaæ czasu na poszukiwanie intruza. Tylko niepotrzebnie narazisz siê na niebezpieczeñstwo.~
+@94   = ~Jedna z naszych zabójczyñ bêdzie udawa³a tego z³odzieja i uderzy w dogodnej chwili. Twoim zadaniem bêdzie dostarczenie jej do czarodzieja.~
+@95   = ~Dostarczenie? Brzmi, jakby by³a jakimœ pakunkiem.~
+@96   = ~Jesteœ bliski prawdy. Zanieœ czarodziejowi tego ptaka i powiedz mu, ¿e to jego przyjaciel... Powinien w to uwierzyæ.~ ~Jesteœ bliska prawdy. Zanieœ czarodziejowi tego ptaka i powiedz mu, ¿e to jego przyjaciel... Powinien w to uwierzyæ.~
+@97   = ~Wielka szkoda. Mo¿esz wzi¹æ z powrotem swojego z³odzieja... Mam nadziejê, ¿e wymierzona kara czegoœ go nauczy³a. Znajdziesz go w ptaszarni na pierwszym piêtrze.~
+@98   = ~Wchodzenie tam bez odpowiedniej identyfikacji mo¿e byæ niebezpieczne. WeŸ ten amulet.~
+@99   = ~To zbyt proste. Co to za podstêp?~
+@100  = ~Wielkie dziêki. Pójdê po Montarona.~
+@101  = ~W ptaszarni? Co on tam robi?~
+@102  = ~Najwy¿szy czas. Strasznie wszyscy jesteœcie oporni.~
+@103  = ~¯aden podstêp. Mo¿esz wzi¹æ z³odzieja i zrobiæ z nim, co uwa¿asz za s³uszne. IdŸ ju¿ i zabierz go.~
+@104  = ~IdŸ ju¿ i zabierz go.~
+@105  = ~Zrozumiesz, kiedy go zobaczysz. IdŸ ju¿.~
+@106  = ~Oszukaliœmy ciê, ale to by³o konieczne. Nekromanta by³ dla nas uci¹¿liwy, a to by³ najprostszy sposób na pozbycie siê go. Jesteœmy ci bardzo wdziêczni za pomoc, choæ by³a nieœwiadoma.~
+@107  = ~Wiêc zdecydowa³eœ, ¿e jednak tam nie pomo¿esz, a teraz grozisz u¿yciem si³y? Niech tak bêdzie. Jesteœmy gotowi.~ ~Wiêc zdecydowa³aœ, ¿e jednak tam nie pomo¿esz, a teraz grozisz u¿yciem si³y? Niech tak bêdzie. Jesteœmy gotowi.~
+@108  = ~A, tak. Ci Harfiarze... Co z nimi?~
+@109  = ~Nie uda³o mi siê odnaleŸæ Montarona, ale Harfiarze poprosili mnie o dostarczenie do ciebie zabójczyni ukrytej pod postaci¹ ptaka. Mam j¹ tutaj.~
+@110  = ~Jak ju¿ mówi³em, chcia³bym, ¿ebyœ wykona³ dla mnie pewn¹ przys³ugê, o ile oczywiœcie le¿y to w granicach twoich mo¿liwoœci.~ ~Jak ju¿ mówi³em, chcia³bym, ¿ebyœ wykona³a dla mnie pewn¹ przys³ugê, o ile oczywiœcie le¿y to w granicach twoich mo¿liwoœci.~
+@111  = ~Wiêc Harfiarze myœl¹ sobie, ¿e mog¹ nasy³aæ na mnie zabójców, tak? Wiê¿¹ Monty'ego, morduj¹ moich uczniów, a teraz próbuj¹ tego?~
+@112  = ~Ukróæmy ich niedorzeczny plan i odp³aæmy im z nawi¹zk¹!~
+@113  = ~A oto i zabójczyni!~
+@114  = ~Hah! To z pewnoœci¹ nauczy ich moresu! Wci¹¿ jednak pozostaje sprawa odnalezienia prawdziwego Monty'ego.~
+@115  = ~Wracaj do kwatery Harfiarzy i znajdŸ go... i tym razem nie spaprz roboty.~
+@116  = ~Mówi³eœ, ¿e wiesz coœ o Irenicusie. Gadaj!~
+@117  = ~W porz¹dku, pójdê.~
+@118  = ~Wola³bym jakieœ mniej subtelne rozwi¹zanie.~ ~Wola³abym jakieœ mniej subtelne rozwi¹zanie.~
+@119  = ~Nie chcê dalej braæ udzia³u w twoich gierkach. Sam sobie szukaj Montarona.~
+@120  = ~Zgodzi³em siê zdradziæ ci te informacje po uwolnieniu Monty'ego. Bierz siê do roboty!~
+@121  = ~Nie interesuje mnie, jak tego dokonasz. Prawdê mówi¹c, by³oby ca³kiem zabawne doprowadziæ do rzezi Harfiarzy. Rób, jak chcesz.~
+@122  = ~Skoro posun¹³eœ siê ju¿ tak daleko, czy nie warto do koñca wesprzeæ szlachetnej sprawy? Ale jak chcesz. Wróæ, je¿eli zmienisz zdanie.~ ~Skoro posunê³aœ siê ju¿ tak daleko, czy nie warto do koñca wesprzeæ szlachetnej sprawy? Ale jak chcesz. Wróæ, je¿eli zmienisz zdanie.~
+@123  = ~Znowu ty? Zatem oszczêdzisz mi trudu oczekiwania na kogoœ mniej nieudolnego i pomo¿esz mi z moim problemem?~
+@124  = ~Wykonam dla ciebie to zadanie.~
+@125  = ~W takim razie nie marnuj wiêcej czasu. Biedny Monty cierpi tam katusze!~
+@126  = ~Znowu ty? Wykona³eœ swoje zadanie, czy masz zamiar ponownie marnowaæ mój czas?~ ~Znowu ty? Wykona³aœ swoje zadanie, czy masz zamiar ponownie marnowaæ mój czas?~
+@127  = ~Harfiarze nie chcieli wspó³pracowaæ, wiêc musia³em ich wszystkich zabiæ.~ ~Harfiarze nie chcieli wspó³pracowaæ, wiêc musia³am ich wszystkich zabiæ.~
+@128  = ~Montaron nie ¿yje. Znalaz³em jego cia³o.~ ~Montaron nie ¿yje. Znalaz³am jego cia³o.~
+@129  = ~Nie uda³o mi siê jeszcze ustaliæ, co siê dzieje z Montaronem.~
+@130  = ~Ale co z Monty'm? Czy jest bezpieczny?~
+@131  = ~Nie uda³o mi siê jeszcze ustaliæ, co siê z nim sta³o.~
+@132  = ~W takim razie nie marnuj wiêcej czasu. On cierpi tam katusze!~
+@133  = ~On... nie ¿yje? Monty? Ci przeklêci Harfiarze musz¹ za to zap³aciæ!~
+@134  = ~Tym nie musisz siê martwiæ. Wszyscy nie ¿yj¹.~
+@135  = ~Wiêc zar¿nijmy ich wspólnie!~
+@136  = ~To twój problem, nie mój. Nasza wspó³praca dobieg³a koñca.~
+@137  = ~Znalaz³em dla ciebie Montarona. Teraz mów, co wiesz o Irenicusie.~ ~Znalaz³am dla ciebie Montarona. Teraz mów, co wiesz o Irenicusie.~
+@138  = ~Powiem ci, kiedy odp³acimy Harfiarzom! Nie ujdzie im to na sucho!~
+@139  = ~Hmm, mog³em siê po tobie spodziewaæ tak bezpoœredniego podejœcia. Có¿, przynajmniej by³o zabawnie.~
+@140  = ~Chyba sobie ju¿ pójdê. Ach... um, daj mi jego cia³o. Muszê go zabraæ do laboratorium. Biedny Monty!~
+@141  = ~Tak, to mo¿e byæ zabawne. ChodŸ zatem, ruszajmy do walki. Ach... um, daj mi jego cia³o. Muszê go póŸniej zabraæ do laboratorium.~
+@142  = ~Pff. Nie bêdê osobiœcie stawa³ przeciwko Harfiarzom. Mo¿e póŸniej, kiedy zakoñczê swoje eksperymenty. Ach... um, daj mi jego cia³o. Muszê go zabraæ do laboratorium. Biedny Monty.~
+@143  = ~To by³o... interesuj¹ce. Ale przynajmniej Harfiarze zap³acili za to, co zrobili.~
+@144  = ~Chyba ju¿ sobie pójdê. Muszê wracaæ do pracy. Biedny Monty!~
+@145  = ~SprawdŸ, co siê sta³o z Montaronem
+
+Harfiarze okazali siê dok³adnie tak podstêpni, jak g³osi ich reputacja. Z moj¹ pomoc¹ oszukali Xzara, który wzi¹³ przyniesionego przeze mnie ptaka za polimorfowanego Montarona. W rzeczywistoœci by³a to zabójczyni Harfiarzy. Xzar sta³ siê celem ze wzglêdu na swoje powi¹zania z Zhentarimami, mnie natomiast wykorzystano, gdy¿ pojawi³a siê ku temu sposobnoœæ. Nie wiem, co tak naprawdê spotka³o Montarona, choæ prawdopodobnie z³odziej ju¿ nie ¿yje.~
+@146  = ~Nie mam nic przeciw tobie. Ten g³upiec zgin¹³, tak jak na to zas³u¿y³.~
+@147  = ~Skoro ju¿ po wszystkim, powiedz, jak¹ zbrodniê pope³ni³? Jakie motywy sta³y za tym morderstwem?~
+@148  = ~Dostanê jak¹œ zap³atê za pomoc w tej sprawie?~
+@149  = ~Harfiarze rzeczywiœcie s¹ przebiegli. Wygl¹dacie mi na ludzi, z którymi warto wspó³pracowaæ.~
+@150  = ~Skoro mamy to ju¿ za sob¹, mo¿e odpowiesz mi na kilka pytañ?~
+@151  = ~Nie wydawa³ ci siê dziwny? Szpiegowa³ Harfiarzy, co jest niedopuszczalne. S³usznie post¹pi³eœ, pomagaj¹c nam ukróciæ jego wystêpki.~ ~Nie wydawa³ ci siê dziwny? Szpiegowa³ Harfiarzy, co jest niedopuszczalne. S³usznie post¹pi³aœ, pomagaj¹c nam ukróciæ jego zabiegi.~
+@152  = ~Zwa¿aj na s³owa, gdy¿ jesteœ tak samo winny nierozwagi. Nie wydawa³ ci siê podejrzany? Nie wiedzia³eœ, kim on jest?~ ~Zwa¿aj na s³owa, gdy¿ jesteœ tak samo winna nierozwagi. Nie wydawa³ ci siê podejrzany? Nie wiedzia³aœ, kim on jest?~
+@153  = ~Zwa¿aj na s³owa. Choæ dobrze nam s³u¿y³eœ, nie jesteœmy ci nic winni. Wiemy, ¿e pocz¹tkowo zgodzi³eœ siê mu pomóc. Nie wydawa³ ci siê podejrzany? Nie wiedzia³eœ, kim on jest?~ ~Zwa¿aj na s³owa. Choæ dobrze nam s³u¿y³aœ, nie jesteœmy ci nic winni. Wiemy, ¿e pocz¹tkowo zgodzi³aœ siê mu pomóc. Nie wydawa³ ci siê podejrzany? Nie wiedzia³aœ, kim on jest?~
+@154  = ~Nie wyobra¿aj sobie, ¿e zdradzimy ci jakieœ tajemnice. Mo¿esz poznaæ grzechy tego g³upca, ale nic wiêcej nie jesteœmy ci winni.~
+@155  = ~Choæ dobrze nam s³u¿y³eœ, nie bierz nas za sojuszników. Nie jesteœmy ci nic winni. Wiemy, ¿e pocz¹tkowo zgodzi³eœ siê mu pomóc. Nie wydawa³ ci siê podejrzany? Nie wiedzia³eœ, kim on jest?~ ~Choæ dobrze nam s³u¿y³aœ, nie bierz nas za sojuszników. Nie jesteœmy ci nic winni. Wiemy, ¿e pocz¹tkowo zgodzi³aœ siê mu pomóc. Nie wydawa³ ci siê podejrzany? Nie wiedzia³aœ, kim on jest?~
+@156  = ~Przez swój ekstrawagancki styl nie zdo³a³ zachowaæ dyskrecji i szybko siê o nim dowiedzieliœmy. Ty pomog³eœ tylko wykonaæ to, co by³o nieuniknione.~ ~Przez swój ekstrawagancki styl nie zdo³a³ zachowaæ dyskrecji i szybko siê o nim dowiedzieliœmy. Ty pomog³aœ tylko wykonaæ to, co by³o nieuniknione.~
+@157  = ~Dobrze nam s³u¿y³eœ, dlatego te¿ pozwolimy sobie zapomnieæ, ¿e pocz¹tkowo zgodzi³eœ siê mu pomóc. OdejdŸ. Miejmy nadziejê, ¿e twoje przysz³e kontakty z Harfiarzami bêd¹ nieco przyjaŸniejsze.~ ~Dobrze nam s³u¿y³aœ, dlatego te¿ pozwolimy sobie zapomnieæ, ¿e pocz¹tkowo zgodzi³aœ siê mu pomóc. OdejdŸ. Miejmy nadziejê, ¿e twoje przysz³e kontakty z Harfiarzami bêd¹ nieco przyjaŸniejsze.~
+@158  = ~SprawdŸ, co siê sta³o z Montaronem
+
+Harfiarze okazali siê dok³adnie tak podstêpni, jak g³osi ich reputacja. Z moj¹ pomoc¹ oszukali Xzara, który wzi¹³ przyniesionego przeze mnie ptaka za polimorfowanego Montarona. W rzeczywistoœci by³a to zabójczyni Harfiarzy. Nie wiem, co tak naprawdê spotka³o Montarona, choæ prawdopodobnie z³odziej ju¿ nie ¿yje.~
+@159  = ~Szybko za³atw swoje sprawy. Nasze drzwi nie s¹ dla nikogo otwarte zbyt d³ugo.~
+@160  = ~Harfiarze bezlitoœnie wymierzaj¹ sprawiedliwoœæ, je¿eli jednak Xzar dopuszcza³ siê takich czynów, zas³u¿y³ na swój los.~
+@161  = ~Och, stara sztuczka z zabójc¹ ukrytym pod postaci¹ ptaka nigdy nie zawodzi. Kuzyn Belar kiedyœ zrobi³ taki numer mojemu wujaszkowi Tookarowi, chocia¿ trzeba mu oddaæ, ¿e tak naprawdê nie chcia³ nikogo zabiæ. Przemiana z kolibra w gnoma mia³a byæ tylko ¿artem z okazji urodzin wujcia... ale wystraszy³ go tak bardzo, ¿e sêdziwy gnom dosta³ ataku serca. Starszyzna by³a mocno zniesmaczona i przemieni³a Belara w kolibra na sta³e. Jemu jednak siê to spodoba³o i odlecia³ (ta ga³¹Ÿ mojej rodziny zawsze mia³a trochê nierówno pod sufitem, jeœli wiesz, co mam a myœli)... tylko po to, ¿eby tydzieñ póŸniej zostaæ zjedzonym przez gryfa. Tak przynajmniej s³ysza³em. Trzeba przyznaæ, ¿e by³ to bardzo sprawiedliwy koniec.~
+@162  = ~Znowu ty. Œledzisz mnie? Niewa¿ne, mo¿esz byæ œwiadkiem sukcesu mojego eksperymentu!~
+@163  = ~Monty znów bêdzie mój. Niech bêd¹ przeklêci wszyscy Harfiarze!~
+@164  = ~Widzisz? Jego cia³o o¿ywa! Uda³o siê!~
+@165 = ~Jaheira prosi o zniszczenie broni
+
+Jaheira za¿¹da³a zniszczenia sejmitara, który znaleŸliœmy w domu Prebeka. Mam go oddaæ Bernardowi w Miedzianym Diademie, a on zajmie siê reszt¹.~
+@166 = ~Jaheira prosi o zniszczenie broni
+
+Na ¿¹danie Jaheiry zanios³em sejmitar z domu Prebeka Bernardowi. Ten ma go przekazaæ komuœ, kto bêdzie w stanie go zniszczyæ.~
+@167 = ~SprawdŸ, co siê sta³o z Montaronem
+
+Dziêki ostrze¿eniu Xzara uda³o mi siê udaremniæ plan zamordowania go przez Harfiarzy. Uprzedzony czarodziej zg³adzi³ niedosz³¹ morderczyniê. Problemem okazuje siê odnalezienie Montarona. W tym celu muszê ponownie udaæ siê do siedziby Harfiarzy.~
+@168 = ~SprawdŸ, co siê sta³o z Montaronem
+
+Wraz z czarodziejem Xzarem odzyskaliœmy cia³o jego towarzysza Montarona z kwatery Harfiarzy. Przy okazji wyr¿nêliœmy jej mieszkañców. Xzar wydawa³ siê bardzo rozbawiony takim obrotem spraw.~
+@169 = ~SprawdŸ, co siê sta³o z Montaronem
+
+Wraz z czarodziejem Xzarem odzyskaliœmy cia³o jego towarzysza Montarona z kwatery Harfiarzy. Xzar by³ niezadowolony z mojego braku zgody na zabijanie samych Harfiarzy.~
+@170 = ~SprawdŸ, co siê sta³o z Montaronem
+
+Wraz z czarodziejem Xzarem odzyskaliœmy cia³o jego towarzysza Montarona z kwatery Harfiarzy. Wyr¿nêliœmy równie¿ samych Harfiarzy w ramach zemsty. Xzar wydawa³ siê bardzo rozbawiony takim obrotem spraw.~
+@171 = ~Œmieræ Xzara
+
+W domu Prebeka ponownie wpadliœmy na siebie z szalonym czarodziejem Xzarem. Próbowa³ o¿ywiæ zw³oki Montarona, wygl¹da jednak na to, ¿e tego rodzaju cuda nie bez przyczyny zarezerwowane s¹ dla bogów. Xzar zosta³ zaatakowany przez swój bezrozumny twór i zniszczony przez w³asn¹ magiê.~
+@172 = ~Uuch... Uuuuch... UuuaaaAARRGHH!~
+@173 = ~Monty! Monty! Nieeeeee!~
+@174 = ~Uratujê ciê!~

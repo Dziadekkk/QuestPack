@@ -1,18 +1,412 @@
-// -*- coding: cp1250 -*-
+// -*- coding: cp1252 -*-
 
 
-@151 = ~Otrzyma³eœ +2 do Zrêcznoœci.~
-@152 = ~Otrzyma³eœ +30% odpornoœci przeciw broniom siecznym.~
-@153 = ~Otrzyma³eœ +2 do twojego Trak0.~
-@154 = ~Otrzyma³eœ +30% odornoœci na obra¿enia od magii.~
-@155 = ~Otrzyma³eœ +2 do twojej inteligencji.~
-@156 = ~Twój charakter zosta³ zmieniony na Praworz¹dny Dobry.~
-@157 = ~Twój charakter zosta³ zmieniony na Neutralny Dobry.~
-@158 = ~Twój charakter zosta³ zmieniony na Chaotyczny Dobry.~
-@159 = ~Twój charakter zosta³ zmieniony na Praworz¹dny Z³y.~
-@160 = ~Twój charakter zosta³ zmieniony na Neutralny Z³y.~
-@161 = ~Twój charakter zosta³ zmieniony na Chaotyczny Z³y.~
-@162 = ~Twój charakter zosta³ zmieniony na Praworz¹dny Neutralny.~
-@163 = ~Twój charakter zosta³ zmieniony na Prawdziwy Neutralny.~
-@164 = ~Twój charakter zosta³ zmieniony na Chaotyczny Neutralny.~
-@165 = ~Utraci³eœ specjalne zdolnoœci ofiarowane ci przez twego boga.~
+@101 = ~Fa³szywy list~
+@102 = ~List ten wrêczy³ ci Mae'Var w celu obci¹¿enia Renala Krwawego Skalpa. Przedstawia morderstwa wysokich rang¹ Z³odziei Cienia przez zabójców Nocnych No¿y.~
+@103 = ~Larell~
+
+@105 = ~Rêkawice sztyletowania~
+@106 = ~Rêkawice sztyletowania
+Te rzadko spotykane, zaczarowane rêkawice otrzymuj¹ wy³¹cznie najwy¿si rang¹ zabójcy Nocnych No¿y. Fama g³osi, ¿e najpierw zosta³y stworzone przez w³adaj¹cego magi¹ zabójcê w Sembii, a nastêpnie odwzorowane przez ró¿ne gildie jak kontynent d³ugi i szeroki. Niezale¿nie od tego, rêkawice te oznaczaj¹, ¿e czo³owi zabójcy Nocnych No¿y s¹ niebezpiecznymi przeciwnikami, z którymi ka¿dy powinien siê liczyæ.
+
+PARAMETRY:
+
+Specjalne:
+ Noszone podnosz¹ wspó³czynnik sztyletowania o 1
+Nie mo¿e u¿ywaæ:
+ Wojownik
+ Druid
+ Kap³an
+ Mag
+ Bard~
+
+@107 = ~Pierœcieñ niewidzialnoœci Arana~
+@108 = ~Pierœcieñ niewidzialnoœci Arana
+Pierœcieñ ten stanowi³ w³asnoœæ przywódcy Z³odziei Cienia Arana Linvaila. Jego stworzenie zleci³ niegdyœ wiod¹cy Z³odziej Cienia w celu umo¿liwienia ucieczki z niezrêcznych sytuacji. Niestety nie by³ w stanie pomóc swemu w³aœcicielowi, gdy ten wst¹pi³ na œcie¿kê polityki.
+
+PARAMETRY:
+
+Specjalne: 
+ 3 razy dziennie pozwala rzucaæ Niewidzialnoœæ
+Nie mo¿e u¿ywaæ:
+ Zabójca magów~
+
+@109 = ~Zabójca Nocnych No¿y~
+@110 = ~Tego ptaka da³a ci Meronia. Jest on w rzeczywistoœci zabójc¹, który ma byæ dostarczony do niespodziewaj¹cego siê niczego Xzara.~
+
+@114 = ~Celile~
+@115 = ~Szybko, zanim obudzi siê j<PRO_HISHER> dru¿yna!~
+@116 = ~Naucz siê nie sp³acaæ swoich d³ugów!~
+@117 = ~Egzekutor d³ugów~
+@118 = ~Moiya~
+@119 = ~Mamusiu! Coœ ci siê sta³o?~
+@120 = ~Zabijmy j¹ i wynoœmy siê st¹d!~
+@121 = ~Lorick~
+@122 = ~Sarem~
+@123 = ~Dalia~
+@124 = ~Besamen~
+@125 = ~Baisera~
+@126 = ~Alycja~
+@127 = ~Dagny~
+@128 = ~Sahen~
+@129 = ~Nazariel~
+@130 = ~Stójcie, intruzi!~ [d0qpnaz1]
+@131 = ~Filakteria Nazariela~
+@132 = ~Pod¹¿aj¹c przez d³u¿sz¹ chwilê w¹skim tunelem zauwa¿asz, ¿e wiedzie on coraz g³êbiej pod powierzchniê. W koñcu rozszerza siê, odkrywaj¹c w oddali œwiat³o.~
+@133 = ~Indigo~
+@134 = ~Jadarad~
+@135 = ~Fluafae~
+@136 = ~Zakapturzony adept~
+@137 = ~To filakterium zawieraj¹ce esencjê przedwiecznego lisza Nazariela, którego ostatnim ¿yczeniem by³o odwiedziæ Powierzchniê i wyzwoliæ siê.~
+@138 = ~¯o³êdzie Fluafaei~
+@139 = ~Chocia¿ z wygl¹du podobne do ¿o³êdzi driad, które otrzyma³a od ciebie Fluafae, twarde ³upinki tych maj¹ nieco ciemniejszy odcieñ. Byæ mo¿e jest to efekt ich przewrotnego przeznaczenia.~
+@140 = ~Klejnot o kszta³cie ³zy~
+@141 = ~£za driady~
+@142 = ~Blady, purpurowy kamieñ. ¯arzy siê matowym wewnêtrznym œwiat³em.~
+@143 = ~Niewielu poszukiwaczy przygód zdoby³oby siê na noszenie tego, zdobytego kosztem ca³kowitego braku skrupu³ów, trofeum. Ten bêd¹cy ostatni¹, skrystalizowan¹ jej gasn¹cym tchem, ³z¹ driady kamieñ ¿arzy siê niespotykanym blaskiem. Nosz¹cy go czuj¹ na sobie dotyk utrzymuj¹cej siê pozosta³oœci piêkna, jednak cena tego b³ogos³awieñstwa jest wysoka, z uwagi na fakt, i¿ klejnot przedstawia kruchoœæ ¿ywotu swojej ofiary, zniszczonego okrutn¹ d³oni¹. Jeœli masz ochotê, mo¿esz zawiesiæ go na swej szyi.
+
+PARAMETRY:
+
+Specjalne:
+ Noszony zapewnia odpornoœæ na Zauroczenie
+ -1 do Kondycji
+ +1 do Charyzmy
+Nie mo¿e u¿ywaæ:
+ Postaæ o dobrym charakterze
+ Zabójca magów~
+
+@144 = ~To sygnet noszony przez Rayica Gethrasa. Zosta³ delikatnie zaklêty, jednak poza tym przedstawia jedynie sentymentaln¹ wartoœæ.
+
+PARAMETRY:
+
+Rzuty obronne: +1
+Nie mo¿e u¿ywaæ:
+ Zabójca magów~
+@145 = ~Sygnet Rayica~
+@146 = ~Zakapturzony ochroniarz~
+@147 = ~Z³ó¿cie broñ!~
+@148 = ~Do broni! Zostaliœmy oszukani przez ten Pomiot Bhaala!~
+@149 = ~Lista mikstur Jadarada~
+@150 = ~Oto otrzymana od Jadarada lista mikstur. Zgodzi³ siê zap³aciæ za ka¿d¹ przyniesion¹ mu miksturê z tej listy.
+
+1. Mikstura niewidzialnoœci
+2. Olej szybkoœci
+3. Mikstura odpornoœci na zimno
+4. Mikstura wybuchów
+5. Mikstura izolacji
+6. Mikstura wzmocnienia
+7. Mikstura t³umienia magii
+8. Mikstura lustrzanych oczu
+9. Mikstura mocy
+10. Mikstura intuicji
+11. Mikstura wolnoœci
+12. Mikstura kamiennego cia³a~
+
+@151 = ~Otrzymujesz +2 do zrêcznoœci.~
+@152 = ~Otrzymujesz +30% do odpornoœci na bronie sieczne.~
+@153 = ~Otrzymujesz +2 do TraK0.~
+@154 = ~Otrzymujesz +30% do odpornoœci na obra¿enia od magii.~
+@155 = ~Otrzymujesz +2 do inteligencji.~
+@156 = ~Twój charakter zmieni³ siê na praworz¹dny dobry.~
+@157 = ~Twój charakter zmieni³ siê na neutralny dobry.~
+@158 = ~Twój charakter zmieni³ siê na chaotyczny dobry.~
+@159 = ~Twój charakter zmieni³ siê na praworz¹dny z³y.~
+@160 = ~Twój charakter zmieni³ siê na neutralny z³y.~
+@161 = ~Twój charakter zmieni³ siê na chaotyczny z³y.~
+@162 = ~Twój charakter zmieni³ siê na praworz¹dny neutralny.~
+@163 = ~Twój charakter zmieni³ siê na neutralny.~
+@164 = ~Twój charakter zmieni³ siê na chaotyczny neutralny.~
+@165 = ~Tracisz otrzymane od swojego boga zdolnoœci specjalne.~
+
+@166 = ~B³ogos³awieñstwo Jadarada~
+@167 = ~Ten pas jest po¿egnalnym darem Jadarada, który wyruszy³ w nieznane. Nas¹czony niewielk¹ iloœci¹ jego przedziwnej magii, mo¿e czasami uchroniæ u¿ytkownika nawet przed pewn¹ œmierci¹. I choæ Jadarad by³ na swój sposób mistrzem magicznego rzemios³a, to krawcem by³ przy tym mizernym; jego pas jest nieporêczny i nosi siê go doœæ niewygodnie.
+
+PARAMETRY:
+
+Specjalne:
+ Raz dziennie pozwala rzuciæ Uzdrowienie
+Nie mo¿e u¿ywaæ:
+ Zabójca magów~
+
+@175 = ~Piracki ochroniarz~
+@176 = ~Tredor~
+
+@178 = ~Sidhe~
+@179 = ~Janie~
+@180 = ~Ta mikstura chroni pij¹cego przed wszystkimi rodzajami ataków wzrokowych, wliczaj¹c w to te bazyliszków, umbrowych kolosów i wampirów. Efekt utrzymuje siê przez 10 rund albo do czasu rozproszenia.~
+@181 = ~Spojrzenie rozpaczy~
+@182 = ~Warunkowanie - Ulepszona niewidzialnoœæ~
+@183 = ~Aiiiiee!!!~
+@184 = ~Posadzê was, siostry, w naszym uœwiêconym gaju.~
+@185 = ~Wzroœnij, by staæ siê woln¹!~
+@186 = ~Co?~
+@187 = ~Co siê dzieje?!~
+@188 = ~Cania...?~
+@189 = ~Elyme...?~
+@190 = ~Ulene...?~
+@191 = ~Porzucili mnie! Zapomnieli o nas wszystkich!~
+
+@192 = ~Nie zaprzepaszczaj swego ¿ycia z powodu mniejszej wagi dokumentów politycznych od Nocnych No¿y. Mae'Var posiada do nich prawo; No¿e to bez w¹tpienia jego tajni sprzymierzeñcy.~
+@193 = ~Mae'Var zabiega³ o wzglêdy Nocnych No¿y po to, by umocniæ sw¹ pozycjê strategiczn¹ i by zdradziæ Renala. Kunsztownie zaplanowane, jednak uda³o mi siê to przejrzeæ.~
+@194 = ~No¿e to morderczy cech zbójców, rzezimieszków i bandytów, którego siedziba mieœci siê w zat³oczonym rynsztoku, jakim jest Brama Zachodu. Jasne jest, ¿e chc¹ rozszerzyæ swój wp³yw.~
+@195 = ~Nie mylisz siê. Dowody, których potrzebujesz, s¹ w tych dokumentach. Wygl¹da na to, ¿e Mae'Var prowadzi³ tajne negocjacje z Nocnymi No¿ami.~
+@196 = ~Jesteœ w pu³apce, przynêta tkwi ju¿ w twoim ¿o³¹dku. Teraz twoja postaæ stoi tu bezbronna, wystawiona na razy, zaœ moi zabójcy czatuj¹ ju¿ na swoich miejscach! Niech po¿r¹ ciê Nocne No¿e!~
+@197 = ~Eee, witam. Ja... szed³em za tob¹... strasznie mi przykro z powodu tego zamieszania z Am¹. Mój informator powiedzia³, ¿e jej poplecznicy nosili znaki Nocnych No¿y.~
+@198 = ~List od Mae'Vara do zabójców, Nocnych No¿y, w którym domaga siê on œmierci Renala Krwawego Skalpa. Takiego w³aœnie dowodu potrzebuje Renal.~
+@199 = ~Tethyriañski tarczownik~
+@200 = ~Bastion~
+@201 = ~Uderzenie tarcz¹~
+@202 = ~Akurat, gdy przechodzisz przez tê czêœæ mrocznych jaskiñ, twoj¹ uwagê przykuwa ledwie s³yszalny odg³os dochodz¹cy zza kamiennych œcian. Gdzieœ tutaj musi byæ ukryte w ciemnoœciach przejœcie.~
+@203 = ~Na kamieniach znajdujesz liczne powypalane znaki. Œlady Kuo-Toan ci¹gn¹ siê a¿ do miejsca, w którym tunel siê rozszerza, ale wkrótce potem urywaj¹ siê nagle.~
+@204 = ~To jest cia³o Montarona, wspólnika czarodzieja Xzara. Wygl¹da tak, jakby Harfiarze ukryli je, aby mogli sk³oniæ Xzara do zabrania ptaszka, który sta³ siê jego zag³ad¹.~
+@205 = ~Licencjonowany czarodziej~
+@206 = ~Lemur~
+@207 = ~Serce diab³a~
+@208 = ~To serca diab³a jest nieprzyjemnie ch³odne w dotyku. Miêsisty organ okalaj¹ liczne ostre niczym brzytwa kolce, wiêc musisz zachowaæ szczególn¹ ostro¿noœæ, by nie utoczy³y ci one krwi. Serce wci¹¿ bije, a jego przera¿aj¹ce dudnienie s³ychaæ nawet spomiêdzy twojego wyposa¿enia. Co chwilê musisz siê upewniaæ czy nie wyskoczy³ z twojego plecaka.~
+@209 = ~Z braku lepszego rozwi¹zania, karmisz sercem demona jedn¹ z wielu paszcz wtopionych w cia³o struktury. Po chwili czujesz, jak kula dr¿y i nabiera mocy.~
+@210 = ~Adrozel~
+@211 = ~Kram~
+@212 = ~Sejmitar +1: Shazzellim, Sejmitar +1
+Ten sejmitar jest doœæ s³abej jakoœci, ale w jego wnêtrzu czai siê wielka moc i z³o. Zosta³ stworzony do zabijania Harfiarzy i œwietnie nadaje siê do tego celu. Po jednym ciosie tego ostrza bard musi wykonaæ rzut obronny przeciwko czarom albo zginie. Zosta³ stworzony przez Czerwonego Maga z Thay, ma tak¿e zdolnoœæ mówienia, i dlatego tak czêsto dawano go magom-wojownikom s³u¿¹cym Czarodziejom. Nie trzeba mówiæ, ¿e posiadanie tego miecza nie bêdzie podobaæ siê Harfiarzom.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +1
+TraK0: +1
+Typ obra¿eñ: sieczne
+Specjalne:
+ Ug³osowienie
+ Ka¿dy trafiony bard musi wykonaæ rzut obronny przeciwko czarom z modyfikatorem -2 lub zginie
+Waga: 3
+OpóŸnienie: 4
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Mag
+ Z³odziej
+ W³adca zwierz¹t
+ Postaæ o dobrym charakterze~
+@213 = ~Jaheira wzdryga siê z odraz¹. "<CHARNAME>, to ostrze zabi³o zbyt wielu Harfiarzy. Nie bêdê go u¿ywa³a."~ [GAM_47]
+@214 = ~Po usuniêciu £zy Bhaala nie zosta³o tu ju¿ nic wartego uwagi.~
+@215 = ~Nieee! Dlaczego to nie dzia³a?!~
+
+@220 = ~Po œmierci Faldorn i gwa³townym zerwaniu jej po³¹czenia z gajem, sama ziemia zdaje siê jêczeæ cicho. Wygl¹da na to, ¿e twoje zlekcewa¿enie druidycznych rytua³ów zebra³o swoje ¿niwo.~
+@221 = ~Gdy twój umys³ walczy z t¹ z³owrog¹ magi¹, któr¹ kontroluje Quallo - lub która kontroluje jego - twoje cia³o przekszta³ca siê w jakieœ ohydztwo rodem z nocnego koszmaru. Bez udzia³u w³asnej woli powalasz swoich towarzyszy, a jakiœ g³os szepcze w twojej g³owie: "Chcieli mi ciebie zabraæ. Oni nie s¹ naszymi przyjació³mi. Niech umieraj¹."
+
+Twój umys³ zatraca siê w zgrozie, gdy kolejni twoi towarzysze padaj¹ powaleni przez to, z czym od tak dawna walczysz. Walczysz, by zatrzymaæ to pogrzebane g³êboko wewn¹trz siebie. Esencja Bhaala. Jak¿e potê¿nymi mocami w³ada ta si³a, skoro z tak¹ ³atwoœci¹ ciê otumani³a, przejê³a nad tob¹ kontrolê i wpêdzi³a w berserkerski sza³? Byæ mo¿e nigdy siê tego nie dowiesz.
+
+Osi¹gasz spokój i, mimo ¿e chcia³<PRO_HESHE>byœ aby to wszystko potoczy³o siê inaczej, mo¿esz tylko obserwowaæ przez swój zamglony umys³, jak ostatnie krople krwi wyp³ywaj¹ ze zmasakrowanych cia³ twoich towarzyszy. Obraz rozmazuje siê przed twoimi oczami i dostrzegasz mêtny zarys Quallo, który pochyla siê nad rozci¹gniêtymi na ziemi cia³ami i zaczyna ch³eptaæ ich krew. Jego odra¿aj¹cy i z³owieszczy g³os po raz kolejny odbija siê echem w twoich myœlach: "Ju¿ na zawsze zostaniemy przyjació³mi. Twoja si³a jest niezmierzona".
+
+Wiecznoœæ czeka, ale ciebie omin¹ legendarne czyny czy te¿ wielkie bogactwa. Zostaniesz tutaj, w tych oœliz³ych kana³ach, ze swoim zgrzybia³ym, szalonym towarzyszem.~
+@222 = ~CENA PRZYJANI~
+@223 = ~Niewolnica~
+@224 = ~Samotny kobold~
+@225 = ~Hobgoblin~
+@226 = ~Hobgobliñski najemnik~
+@227 = ~Bibliotekarz~
+@228 = ~Historia Doliny Cienia, tom I~
+@229 = ~Historia Doliny Cienia, tom II~
+@230 = ~Historia Doliny Cienia, tom III~
+@231 = ~Historia Doliny Cienia, tom IV~
+@232 = ~Historia Doliny Cienia, tom V~
+@233 = ~Historia Doliny Cienia, tom VI~
+@234 = ~Historia Doliny Cienia, tom VII~
+@235 = ~Historia Doliny Cienia, tom VIII~
+@236 = ~Historia Doliny Cienia, tom IX~
+@237 = ~Historia Doliny Cienia, tom X~
+@238 = ~Historia Doliny Cienia, tom XI~
+@239 = ~Historia Doliny Cienia, tom XII~
+@240 = ~Historia Doliny Cienia, tom XIII~
+@241 = ~Historia Drowów, tom I~
+@242 = ~Historia Drowów, tom II~
+@243 = ~Historia Pó³nocy, tom I~
+@244 = ~Historia Pó³nocy, tom II~
+@245 = ~Historia Pó³nocy, tom III~
+@246 = ~Historia Pó³nocy, tom IV~
+@247 = ~Historia Pó³nocy, tom V~
+@248 = ~Historia Pó³nocy, tom VI~
+@249 = ~Historia Pó³nocy, tom VII~
+@250 = ~Historia Pó³nocy, tom VIII~
+@251 = ~Historia Pó³nocy, tom IX~
+@252 = ~Historia Pó³nocy, tom X~
+@253 = ~Historia Waterdeep, tom I~
+@254 = ~Historia Waterdeep, tom II~
+@255 = ~Historia Waterdeep, tom III~
+@256 = ~Historia Waterdeep, tom IV~
+@257 = ~Historia Waterdeep, tom V~
+@258 = ~Historia Waterdeep, tom VI~
+@259 = ~Ale przecie¿ nie o to ciê prosi³em, prawda? Potrzebowa³em dowodów przed wydaniem wyroku na Mae'Vara! Teraz bêdzie to wygl¹daæ, jakbym spreparowa³ dowody ju¿ po fakcie!!~
+@260 = ~Ale¿ mam dowody zdrady Mae'Vara przy sobie!~
+@261 = ~Carrack~
+@262 = ~Lillian~
+@263 = ~Cora~
+@264 = ~Arris~
+@265 = ~Oprawca~
+@266 = ~Carrackowi najwyraŸniej nie uda³o siê zajœæ zbyt daleko w jego próbie wywarcia zemsty. Jego cia³o ograbiono i porzucono, zapewne jako ostrze¿enie dla innych.~
+@267 = ~Oko~
+@268 = ~Abraxxi~
+@269 = ~Arkanis, Kachiko i nasi pozostali najlepsi zabójcy do³¹cz¹ do ciebie, gdy tylko wkroczysz do katakumb Bodhi. Chcê mieæ pewnoœæ, ¿e mam j¹ raz na zawsze z g³owy.~
+@270 = ~£añcuch czarów - Ochrona przed magicznymi broniami~
+@271 = ~£añcuch czarów - Odbicie czaru~
+@272 = ~£añcuch czarów - Zwodniczy sobowtór~
+@273 = ~Wyzwalacz zaklêæ - Ognista tarcza~
+@274 = ~£añcuch czarów - Kamienna skóra~
+@275 = ~Widmo~
+@276 = ~Odp³ata za ¿ale~
+@277 = ~Z³udna bestia~
+@278 = ~Wiêksza z³udna bestia~
+
+@279 = ~Kula ciemnoœci~
+@280 = ~Kula ciemnoœci (Brak/Nieokreœlona)
+Poziom: 1
+Zasiêg: wzrok
+Czas dzia³ania: 1 runda na ka¿de dwa poziomy doœwiadczenia rzucaj¹cego
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Ta wrodzona zdolnoœæ g³êbokich elfów wywo³uje u dotkniêtego ni¹ celu œlepotê, która utrzymuje siê przez jedn¹ rundê na ka¿de dwa poziomy doœwiadczenia rzucaj¹cego, lub dopóki nie zostanie rozproszona.~
+
+@281 = ~Ulepszona kula ciemnoœci~
+@282 = ~Ulepszona kula ciemnoœci (Brak/Nieokreœlona)
+Poziom: 1
+Zasiêg: wzrok
+Czas dzia³ania: 1 runda na ka¿de dwa poziomy doœwiadczenia rzucaj¹cego 
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Ta wrodzona zdolnoœæ g³êbokich elfów wywo³uje u dotkniêtego ni¹ celu œlepotê, która utrzymuje siê przez jedn¹ rundê na ka¿de dwa poziomy doœwiadczenia rzucaj¹cego, lub dopóki nie zostanie rozproszona.~
+
+@283 = ~Tañcz¹ce œwiat³a~
+@284 = ~Tañcz¹ce œwiat³a (Brak/Nieokreœlona)
+Poziom: 1
+Zasiêg: wzrok
+Czas dzia³ania: 3 rundy
+Czas rzucania: 2
+Obszar dzia³ania: 1 istota
+Rzut obronny: neguje
+
+Ta wrodzona zdolnoœæ mrocznych elfów wywo³uje u dotkniêtych ni¹ istot trwaj¹cy przez trzy rundy zamêt.~
+@285 = ~Pod wp³ywem efektu Tañcz¹cych œwiate³.~
+@286 = ~Rozproszony.~
+
+@287 = ~Ogieñ Faerie~
+@288 = ~Ogieñ Faerie (Brak/Nieokreœlona)
+Poziom: 1
+Sfera: walka
+Zasiêg: 0
+Czas dzia³ania: 6 rund
+Czas rzucania: 1
+Zasiêg dzia³ania: 1 istota
+Rzut obronny: brak
+
+Zaklêcie to otacza cel bia³¹ poœwiat¹ pogarszaj¹c¹ jego klasê pancerza o 2.~
+@289 = ~S³upek oka zniszczony~
+@290 = ~G³ówne oko uszkodzone~
+@291 = ~Starszy wampir~
+@292 = ~Wiekowy wampir~
+@293 = ~Pomocy!~
+@294 = ~Potrzebujê wsparcia!~
+@295 = ~Nie wytrzymam!~
+@296 = ~Doœæ!~
+@297 = ~Mag Yuan-Ti~
+@298 = ~Dezorientuj¹ce spojrzenie~
+@299 = ~Dominuj¹ce spojrzenie~
+@300 = ~Mdl¹ce spojrzenie~
+@301 = ~Czerwony sejmitar +3~
+@302 = ~Ten matowo czerwony sejmitar wykonano z metalu, którego nie potrafisz rozpoznaæ. Choæ jest nieco wiêkszy i ciê¿szy, ni¿ mo¿na by siê tego spodziewaæ, nie zaburza to jego doskona³ego wywa¿enia. Wydaje siê, byæ stworzony do atakowania seri¹ b³yskawicznych ciosów, jednoczeœnie pozwalaj¹c na zachowanie nad nim pe³nej kontroli.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +3
+TraK0: +3
+Typ obra¿eñ: sieczne
+Specjalne:
+ Ka¿de trafienie obni¿a TraK0 posiadacza o 1 na okres 1 rundy
+Waga: 1
+OpóŸnienie: 2
+Rodzaj bieg³oœci: sejmitar/wakizashi/ninja-to
+Typ broni: 1-rêczna
+Wymagana si³a: 10
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Mag
+ Z³odziej~
+@303 = ~Wilbur~
+@304 = ~Sythilijski ¿o³nierz~
+@305 = ~Fekir~
+@306 = ~Drzwi astralne~
+@307 = ~Klara by³a ¿on¹ handlarza Sanika. Mia³ on j¹ zabraæ ze sob¹ nastêpnym statkiem. Nie doceni³ jednak temperamentu Lady Galveny, która nas³a³a na niego zabójcê, a czekaj¹ca w dokach Klarê zabra³a z powrotem do swojej gildii.~
+@308 = ~Klara czeka³a na swojego faceta przed budynkiem gildii, ale panna Galvena nas³a³a na niego zabójcê, a j¹ sam¹ zabra³a z powrotem do swojego przybytku. Trzyma j¹ tam zamkniêt¹.~
+@309 = ~Kapitan stra¿y~
+@310 = ~Ormand~
+@311 = ~Elfi ³ucznik~
+@312 = ~Elfi tropiciel~
+@313 = ~Elfi kap³an~
+@314 = ~Elfi w³adca zwierz¹t~
+@315 = ~D³ugi ³uk +3: Elfi Dwór
+Ten cisowy ³uk jest bardziej dzie³em sztuki ni¿ narzêdziem wojny, delikatne drzeworyty tañcz¹ po wypolerowanym drewnie, ciêciwa mieni siê z³otem, prawie œpiewa, gdy siê j¹ naci¹ga. Przez tysi¹c lat by³ to ceremonialny ³uk na Elfim Dworze, choæ dla elfów to d³ugoœæ jednego ¿ycia. Co 50 lat by³ przekazywany komuœ o wielkich zas³ugach, obdarowany wskazywa³ kolejnego w³aœciciela. Dwa wieki temu cz³owiek, Yin Pon, uratowa³ elfiego ksiêcia i dosta³ ten ³uk, który zabra³ do Wrót Baldura, gdzie póŸniej zosta³ zagubiony.
+O ile ju¿ samo perfekcyjne wykonanie tego przedmiotu przydaje mu niebywa³ej celnoœci, to fakt, i¿ jest on cenionym elfim artefaktem, sprawia, ¿e tylko osoba obdarzona ich b³ogos³awieñstwem i przyzwoleniem mo¿e skorzystaæ z jego prawdziwej magii.
+
+PARAMETRY:
+
+TraK0: +4
+Waga: 2
+OpóŸnienie: 4
+Rodzaj bieg³oœci: d³ugi ³uk
+Typ broni: 2-rêczna
+Wymagana si³a: 6
+Nie mo¿e u¿ywaæ:
+ Druid
+ Kap³an
+ Mag
+ Z³odziej
+ Mnich
+ Kensai
+ Kawaler~
+@316 = ~Strza³ka uspokojenia +2~
+@317 = ~Strza³ka +2: "Strza³ka uspokojenia"
+Poniewa¿ te nas¹czone magiczn¹ trucizn¹ strza³ki s¹ w stanie natychmiast uœpiæ trafion¹ ofiarê, sta³y siê one ulubionym orê¿em z³odziei i zabójców. Kryj¹ siê oni w cieniu, czekaj¹c na swoj¹ nieœwiadom¹ ofiarê, by tylko nak³uæ jej szyjê, a potem podci¹æ gard³o i ograbiæ z ca³ego dobytku, czy te¿ w spokoju zrealizowaæ inne swoje plany.
+
+PARAMETRY:
+
+Obra¿enia: 1K3 +2
+TraK0: +2
+Typ obra¿eñ: pocisk (k³ute)
+Specjalne:
+ Ofiara na 1 rundê zapadnie w sen, jeœli nie uda siê jej rzut obronny przeciw œmierci z modyfikatorem -2
+ Wraca do rêki w³aœciciela po rzuceniu
+Waga: 0
+OpóŸnienie: 0
+Rodzaj bieg³oœci: strza³ka
+Typ broni: 1-rêczna
+Nie mo¿e u¿ywaæ:
+ Kap³an
+ Kensai
+ Kawaler~
+@318 = ~Czarodziejski konstrukt~
+@319 = ~£añcuch czarów - Kamienna skóra~
+@320 = ~£añcuch czarów - Odchylenie czaru~
+@321 = ~£añcuch czarów - Ognista tarcza (czerwona)~
+@322 = ~Wyzwalacz zaklêæ - uaktywniony~
+@323 = ~Wyzwalacz zaklêæ - Zwodniczy sobowtór~
+@324 = ~Wyzwalacz zaklêæ - Ochrona przed magicznymi broniami~
+@325 = ~Wyzwalacz zaklêæ - Klosz niewra¿liwoœci~
+@326 = ~Warunkowanie - Kamienna skóra~
+@327 = ~Zosta³a odkryta tajemnica Tañcz¹cego gnolla!~
+@328 = ~Tañcz¹cy gnoll lubi muzykê taneczn¹!~
+
+@99948 = ~ZnajdŸ dowód zdrady Mae'Vara
+
+Pomocnikiem Mae'Vara okaza³ siê nie kto inny jak czarodziej z Thay, z którym spotkaliœmy siê niegdyœ na Wybrze¿u Mieczy. Poleci³ mi zabiæ Rayica Gethrasa, Zakapturzonego Czarodzieja, mieszkaj¹cego w trzypiêtrowym budynku w zachodniej czêœci dzielnicy portowej. Po otwartych drzwiach poznam, ¿e Gethras jest u siebie. Na dowód œmierci Rayica mam przynieœæ jego sygnet.~
+
+@99906 = ~Jaja Adalon w posiadaniu Domu Despana?
+
+Wed³ug podstarza³ego drowa w tawernie, jeœli jaja srebrnej smoczycy znajduj¹ siê gdzieœ tutaj, to zapewne na terenie Domu Despana. Nie ulega w¹tpliwoœci, ¿e dostaæ siê tam nie bêdzie zadaniem ³atwym.~
+
+@99902 = ~Wejœcie do Przytu³ku
+
+Jedna z kurtyzan da³a siê namówiæ na opowieœæ o losach Klary. NajwyraŸniej Lady Galvenie nie spodoba³o siê, ¿e Sanik chce odejœæ z inn¹, wiêc w siedzibie gildii zamknê³a Klarê, a na Sanika nas³a³a zabójców.~

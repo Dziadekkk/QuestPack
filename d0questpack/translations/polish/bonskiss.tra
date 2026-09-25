@@ -1,0 +1,84 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Jam tu i tam
+gdy œniegu biel
+zapl¹sa
+na grobie.
+¯yjê by gniæ
+stale i wci¹¿
+losu klnê
+ka¿dy dzieñ.~ [SUKISS01]
+@1    = ~Mówisz do mnie? Och, jak obel¿ywy jest dla mnie pisk ¿ycia!~ [SUKISS04]
+@2    = ~Te¿ siê cieszê, ¿e mogê ciê poznaæ.~
+@3    = ~To zabrzmia³o raczej ponuro. Mogê ci jakoœ pomóc?~
+@4    = ~Jak chcesz...~
+@5    = ~Po raz kolejny stajesz przede mn¹, ¿yj¹cy. Zdecydowa³eœ siê przyj¹æ mój poca³unek?~ ~Po raz kolejny stajesz w moim polu widzenia, ¿yj¹ca. Zdecydowa³aœ siê przyj¹æ mój poca³unek?~ [SUKISS02]
+@6    = ~Tak, dam ci to, co mam najlepsze.~
+@7    = ~Daj buziaka. Miejmy to ju¿ za sob¹.~
+@8    = ~Nie. Zdecydowa³em, ¿e ciê zabijê!~ ~Nie. Zdecydowa³am, ¿e ciê zabijê!~
+@9    = ~Nie z tak¹ twarz¹. Nie wiem, gdzie mia³bym szukaæ twoich ust.~ ~Nie z tak¹ twarz¹. Nie wiem, gdzie mia³abym szukaæ twoich ust.~
+@10   = ~Jestem uzdrowiona! Znów mam piêkne koœci!~ [SUKISS03]
+@11   = ~Wiêc... pomog³em ci?~ ~Wiêc... pomog³am ci?~
+@12   = ~Co to ma znaczyæ? Jesteœ nieumar³¹?! GIÑ, OHYDNA POCZWARO! POCZUJ MÓJ GNIEW!!~
+@13   = ~Kochanie, przykro mi to mówiæ, ale miêdzy nami skoñczone. Widzisz, preferujê, gdy moje kochanki maj¹ koœci pokryte odrobin¹ cia³a.~
+@14   = ~Co ja zrobi³em?~ ~Co ja zrobi³am?~
+@15   = ~Twój wstrêtny be³kot to obraza dla tego miejsca. Jak myœlisz, dlaczego mieszkam w otoczeniu nagrobków? Po¿¹dam ciszy zgnuœnienia, dŸwiêków rosy wsi¹kaj¹cej w pe³n¹ robaków ziemiê. Dra¿nisz mnie, ¿yj¹cy.~ ~Twój wstrêtny be³kot to obraza dla tego miejsca. Jak myœlisz, dlaczego mieszkam w otoczeniu nagrobków? Po¿¹dam ciszy zgnuœnienia, dŸwiêków rosy wsi¹kaj¹cej w pe³n¹ robaków ziemiê. Dra¿nisz mnie, ¿yj¹ca.~
+@16   = ~Coraz mocniej odwzajemniam to uczucie.~
+@17   = ~W takim razie chyba ju¿ sobie pójdê?~
+@18   = ~Bogowie, kobieto, co ciê ugryz³o? Zaproponowa³em ci pomoc!~ ~Bogowie, kobieto, co ciê ugryz³o? Zaproponowa³am ci pomoc!~
+@19   = ~Pomoc? Od kolejnego nabrzmia³ego wora miêsa? Budzisz we mnie obrzydzenie, pijawko.~
+@20   = ~Obrzydzenie? Coraz mocniej odwzajemniam to uczucie.~
+@21   = ~Nie mam pojêcia, co o mnie s³ysza³aœ, ale jedno jest pewne - nie jestem pijawk¹.~
+@22   = ~Przygania³ kocio³ garnkowi. Jeœli ja jestem worem miêsa, to ty jesteœ worem... hmm... czegoœ innego.~
+@23   = ~Twoja niedoskona³oœæ k³uje mnie w oczy. Niech wszyscy ciep³okrwiœci zad³awi¹ siê w³asnymi jêzykami!~
+@24   = ~Jesteœ szalona, kobieto!~
+@25   = ~Skoro tak to widzisz, to ja ju¿ sobie pójdê?~
+@26   = ~To bardzo ostra reakcja, zwa¿ywszy, ¿e zdo³a³em dopiero wypowiedzieæ dwa s³owa.~ ~To bardzo ostra reakcja, zwa¿ywszy, ¿e zdo³a³am dopiero wypowiedzieæ dwa s³owa.~
+@27   = ~A wiêc pod t¹ gór¹ miêsa masz przynajmniej krêgos³up. Cieszy mnie to.~
+@28   = ~Nie tak szybko. Choæ budzi to moj¹ odrazê, twoje cia³o jest mi potrzebne do ucieczki.~
+@29   = ~Ze wszystkich osób flirtuj¹cych ze mn¹ w Amn ty wypadasz zdecydowanie najgorzej.~
+@30   = ~(westchnienie) Mo¿esz powtórzyæ?~
+@31   = ~Nie ma sprawy. Wszystkiego trzeba w ¿yciu spróbowaæ.~
+@32   = ~Nie mówiê o stanie ¿ycia, tylko o potencjale ¿ycia. GnieŸdzi siê w twoim wnêtrzu nawet teraz. ¯ycie... œmieræ... Czujê je na tobie. Ca³y cykl powtarzaj¹cy siê na twoim ciele i koœciach... na MOIM ciele i koœciach. Gdybym tylko mog³a powróciæ do grobu. Naprawdê powróciæ!~
+@33   = ~Moja kl¹twa. Moj¹ kl¹tw¹ jest przymus kroczenia po ziemi w tej wstrêtnej os³onie z g³adkiej skóry i miêkkich wypustek. Jestem ¿ywa! ¯ywa!~
+@34   = ~Moje szaleñstwo pochodzi z kl¹twy. Moj¹ kl¹tw¹ jest przymus kroczenia po ziemi w tej wstrêtnej os³onie z g³adkiej skóry i miêkkich wypustek. Jestem ¿ywa! ¯ywa!~
+@35   = ~Ka¿dy dŸwiêk wype³nia moje uszy trucizn¹!~
+@36   = ~Za³o¿ê siê, ¿e œwietnie siê bawisz na festynach.~
+@37   = ~Dobrze, zrozumia³em! Jesteœ pe³na wstrêtu!~ ~Dobrze, zrozumia³am! Jesteœ pe³na wstrêtu!~
+@38   = ~Za chwilê wype³niê ciê czymœ innym.~
+@39   = ~Twój robaczywy mózg nie jest w stanie poj¹æ potrzeb wykraczaj¹cych poza twe ¿a³osne popêdy? Plujê na ciebie!~
+@40   = ~Ale mo¿esz byæ dla mnie jeszcze u¿yteczny, ¿yj¹cy.~ ~Ale mo¿esz byæ dla mnie jeszcze u¿yteczna, ¿yj¹ca.~
+@41   = ~Zosta³am uzdrowiona, przemieniona wbrew mojej woli w to groteskowe cia³o przez kap³ana, który mia³ mniej rozumu od królika wskakuj¹cego do wilczej jamy.~
+@42   = ~Chocia¿ ta postaæ jest niepozorna i krucha, kap³an w swej g³upocie spodziewa³ siê, ¿e bêdê mu bezgranicznie wdziêczna za jego b³ogos³awion¹ pomoc. Tak jakbym mia³a siê z czego cieszyæ! Lepiej by zrobi³, gdyby mnie zniszczy³! W swoim wyobra¿eniu uzdrowi³ mnie.~
+@43   = ~Zemœci³am siê. Nie pope³ni ponownie tego b³êdu, nie maj¹c oczu ani jêzyka. On mnie udoskonali³, a w zamian ja udoskonali³am jego. Zdar³am cia³o z jego koœci, daj¹c mu twarz równie charakterystyczn¹ co moja.~
+@44   = ~Chcesz powiedzieæ, ¿e go nie zabi³aœ?~
+@45   = ~Mia³em racjê, jesteœ szalon¹ morderczyni¹!~ ~Mia³am racjê, jesteœ szalon¹ morderczyni¹!~
+@46   = ~Czego wiêc chcesz ode mnie?~
+@47   = ~Mia³abym nagrodziæ go œmierci¹?! NIGDY!~
+@48   = ~G³upcze! Twoja ignorancja jest zdumiewaj¹ca!~ ~Idiotko! Twoja ignorancja jest zdumiewaj¹ca!~
+@49   = ~Proszê, zabij mnie! Wyjmij miecz i przyjmij mój poca³unek wdziêcznoœci!~
+@50   = ~To proste. Wyszuka³am odpowiedŸ w jednej z ksi¹g ¿yj¹cych. Skoro przemieni³ mnie akt bezinteresownego wspó³czucia, potrzebujê podobnego gestu, ¿eby zostaæ uwolniona.~
+@51   = ~By zdj¹æ ze mnie kl¹twê, potrzeba jedynie poca³unku.~
+@52   = ~W usta?~
+@53   = ~Ale dopiero siê poznaliœmy!~
+@54   = ~Dobrze, ale niech bêdzie krótki.~
+@55   = ~Dobrze, ale bez jêzyka. Nie jestem a¿ tak frywolny.~ ~Dobrze, ale bez jêzyka. Nie jestem a¿ tak frywolna.~
+@56   = ~Nie ma mowy!~
+@57   = ~Po przemyœleniu dochodzê do wniosku, ¿e jesteœ okropn¹ osob¹ i powinienem ciê zabiæ.~ ~Po przemyœleniu dochodzê do wniosku, ¿e jesteœ okropn¹ osob¹ i powinnam ciê zabiæ.~
+@58   = ~Wybacz, ale jestem z kimœ w zwi¹zku...~
+@59   = ~Tak.~
+@60   = ~Wybacz, ale jestem z kimœ w zwi¹zku...~
+@61   = ~Marnujesz powietrze na tê g³upi¹ paplaninê, ¿yj¹cy. Poca³ujesz mnie czy nie?~ ~Marnujesz powietrze na tê g³upi¹ paplaninê, ¿yj¹ca. Poca³ujesz mnie czy nie?~
+@62   = ~To pierwsze mi³e dla moich uszu s³owa, jakie pad³y z ust ¿yj¹cego! ChodŸ, obejmij mnie. Niech twe usta zakoñcz¹ mój ból!~
+@63   = ~Zamknij oczy. Trudno utrzymaæ nastrój, kiedy tak na mnie patrzysz.~
+@64   = ~Chwileczkê. Przegryzê tylko liœæ miêty. Jak mawia Volo, "cuchn¹ce poca³unki nie zdejmuj¹ cuchn¹cych kl¹tw".~
+@65   = ~Nie poca³ujê ciê, jeœli nie przestaniesz gadaæ.~
+@66   = ~Wiêc odejdŸ, trajkocz¹cy worze miêsa! ZejdŸ mi z oczu! Nie potrzebujê kwilenia tylko poca³unku!~
+@67   = ~Gotowe. Przyst¹pmy do dzie³a.~
+@68   = ~W takim razie Volo jest g³upcem, którego wnêtrznoœci nale¿y nawin¹æ na paliki i podpaliæ! Poca³uj mnie!~
+@69   = ~Wybacz zak³ócenie spokoju twojego otworu gêbowego moj¹ paskudn¹ paplanin¹.~
+@70   = ~Doskona³oœæ. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹cy.~ ~Doskona³oœæ. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹ca.~
+@71   = ~Wzywam bogów na œwiadków, ¿e nigdy wiêcej nie powrócê do ¿ycia!~
+@72   = ~NIEEE!!! NIE, KIEDY W£AŒNIE ODZYSKA£AM MOJE PRZEGNI£E ZW£OKI!~
+@73   = ~Twój ¿a³osny brak powagi nie ma najmniejszego znaczenia. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹cy.~ ~Twój ¿a³osny brak powagi nie ma najmniejszego znaczenia. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹ca.~
+@74   = ~Uwolni³eœ mnie. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹cy.~ ~Uwolni³aœ mnie. Jestem taka, jaka powinnam byæ - gnij¹ce zw³oki krocz¹ce poœród was, ohydnych ¿ywych worów miêsa. Serdeczne dziêki, ¿yj¹ca.~

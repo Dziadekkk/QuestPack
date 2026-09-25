@@ -177,7 +177,11 @@ LANGUAGE ~Simplified Chinese (by Lzw104522773)~
          ~d0questpack/translations/english/setup.tra~
          ~d0questpack/translations/schinese/d0quest.tra~
          ~d0questpack/translations/schinese/setup.tra~
-
+LANGUAGE ~Polish (by Stars of Mystra)~
+         ~polish~
+         ~d0questpack/translations/polish/d0quest.tra~
+         ~d0questpack/translations/polish/setup.tra~
+         ~d0questpack/translations/polish/setup-%WEIDU_OS%.tra~
 
 //////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////

@@ -1,0 +1,72 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Co tu siê dzieje? Co robisz temu cz³owiekowi?~
+@1    = ~Ty potworze! Natychmiast uwolnij tego biednego niewolnika!~
+@2    = ~Przepraszam. Ju¿ sobie idê.~
+@3    = ~Nie twój zakichany interes. A teraz zwijaj siê, bo po¿a³ujesz.~
+@4    = ~To okropne! Zg³oszê to odpowiednim w³adzom. Mo¿e i uda³o ci siê przekupiæ stra¿e, ale w¹tpiê, ¿eby rada przymknê³a na to oko.~
+@5    = ~W porz¹dku. Przepraszam za k³opot.~
+@6    = ~Mo¿e dojdziemy do porozumienia i uwolnisz tego cz³owieka?~
+@7    = ~Mogê siê zwin¹æ, ale za odpowiedni¹ cenê.~
+@8    = ~IdŸ mi st¹d natychmiast, bo nie rêczê za siebie.~
+@9    = ~Nie bojê siê ciebie. Uwolnij tego cz³eka, albo ciê do tego zmuszê.~
+@10   = ~Ostatnie ostrze¿enie. Nie wtykaj nosa w nie swoje sprawy.~
+@11   = ~Chyba szczêœcie ciê w³aœnie opuœci³o. Uwolnij tego cz³eka, albo ciê do tego zmuszê.~
+@12   = ~Serio? Chyba szykuje nam siê bitka. Gotujcie siê!~
+@13   = ~Serio? No, tego byœmy nie chcieli. Chyba szykuje nam siê bitka. Gotujcie siê!~
+@14   = ~Taa. Zwijaj siê, i to ju¿.~
+@15   = ~Nic ci do tego. Nie robimy interesów z obcymi, wiêc spadaj.~
+@16   = ~¯e niby mamy ci zap³aciæ?! Wynocha, obcy!~
+@17   = ~W takim razie bêdê musia³<HESHE> ciê powstrzymaæ.~
+@18   = ~Wobec tego bêdê musia³<HESHE> zg³osiæ to odpowiednim w³adzom. Mo¿e i uda³o ci siê przekupiæ stra¿e, ale w¹tpiê, ¿eby rada przymknê³a na to oko.~
+@19   = ~Stój! Co to ma znaczyæ? Co siê sta³o temu biednemu cz³owiekowi?~
+@20   = ~Nie mo¿esz tego robiæ! Wypuœæ natychmiast tego cz³owieka!~
+@21   = ~Dobra, dobra. Nie szukam k³opotów.~
+@22   = ~Nie mam czasu gadaæ po pró¿nicy. Zostaw mnie.~
+@23   = ~No ja myœlê. A teraz zejdŸ mi z drogi!~
+@24   = ~Pewnie nie by³byœ zainteresowany wziêciem, eee... pod opiekê m³odej bezdomnej sieroty?~
+@25   = ~*Hurrm* S³ucham... Opowiedz o tym nieszczêœliwym dziecku.~
+@26   = ~Na miejskim cmentarzu jest ma³a dziewczynka, któr¹ zaj¹³ siê kap³an Lathandera. Mo¿e dogadalibyœmy siê, byœ wzi¹³ j¹ pod opiekê.~
+@27   = ~Mo¿e jednak nie jesteœ odpowiedni¹ osob¹. Nie podoba mi siê twój ton.~
+@28   = ~W sumie niewa¿ne. To by³o hipotetyczne pytanie.~
+@29   = ~Ach tak, rozumiem. *hurrm* Tak, z chêci¹ zaoferujê schronienie tej dziewczynce. Byæ mo¿e jeden z moich... wspólników móg³by z³o¿yæ wizytê temu kap³anowi na cmentarzu?~
+@30   = ~Œwietnie. Spróbujê przekonaæ kap³ana, ¿e mo¿e j¹ oddaæ pod jego opiekê.~
+@31   = ~Wspaniale. Zajmê siê niezbêdnymi... przygotowaniami.~
+@32   = ~*Hurrm* Interesy z tob¹ to przyjemnoœæ. Mam nadziejê, ¿e uznasz to za... wiêcej ni¿ stosown¹ zap³atê za dziewczynkê.~
+@33   = ~Bêdzie z niej wspania³a s³u¿¹ca, a kto wie, mo¿e Madam Nin bêdzie mia³a z niej po¿ytek, jak podroœnie. Jeszcze raz ci dziêkujê.~
+@34   = ~Jeœli bêdziesz jeszcze czegoœ potrzebowa³<HESHE>, nie wahaj siê pytaæ.~
+@35   = ~Mo¿e docenisz te¿ nasze... dodatkowe rozrywki? *hurrrmm... hurrm*~
+@36   = ~*Hurrm* Szkoda, ¿e wymyka siê taka dobra okazja do zrobienia interesu. ¯a³ujê, ale nie mogê zaoferowaæ zap³aty bez dziewczynki. *hurrrrm* Szkoda, ¿e paladyn interweniowa³.~
+@37   = ~Ach, <CHARNAME>. Przys³a³ mnie Lehtinan. Bez przed³u¿ania... zaprowadŸ mnie do kap³ana i sieroty.~
+@38   = ~Witam ciê, cny kap³anie. Jestem Tredor, emerytowany kupiec morski, a tak¿e ojciec dwójki dzieci. <CHARNAME> mówi³<PRO_HESHE>, ¿e ta oto ma³a Risa potrzebuje ciep³ego domu.~
+@39   = ~A wiêc z chêci¹ zaoferujê siebie, jeœli to uszczêœliwi Risê.~
+@40   = ~Tfu! Nasz plan leg³ w gruzach! Zatrzymaj dziewczynê!~
+@41   = ~Dziêkujê ci, dobry kap³anie. Ufam, ¿e zapewniê Risie równie dobr¹ opiekê, co ty.~
+@42   = ~Odwiedzê za kilka dni œwi¹tyniê Lathandera, by daæ ci znaæ, czy wszystko jest w porz¹dku. ChodŸ, Riso.~
+@43   = ~D-dobrze... Pójdê.~
+@44   = ~...*chlip*~
+@45   = ~Jesteœ rycerzem? Twoja zbroja jest strasznie b³yszcz¹ca.~
+@46   = ~Mo¿e Lathander siê dziœ do nas uœmiechn¹³. Tak, Risa bardzo potrzebuje odpowiedniego opiekuna.~
+@47   = ~Tak, tak. Mo¿e i jesteœ odpowiedni¹ osob¹. Nie chcia³bym podj¹æ decyzji, która skrzywdzi biedn¹ Risê, ale ufam, ¿e <CHARNAME> nie myli siê w tej kwestii. Wygl¹da na to, ¿e masz dobre serce.~
+@48   = ~WeŸ wiêc ze sob¹ Risê. Obyœ by³ w stanie siê ni¹ zaopiekowaæ i daæ jej tyle radoœci, na ile zas³uguje.~
+@49   = ~Mo¿e i jesteœ jednak odpowiedni¹ osob¹. Nie chcia³bym podj¹æ decyzji, która skrzywdzi biedn¹ Risê, ale wygl¹da na to, ¿e masz dobre serce.~
+@50   = ~Masz za to moj¹ wdziêcznoœæ. I ty, <CHARNAME>. ChodŸ Riso, nacieszyæ siê nowym domem.~
+@51   = ~Stój! Poznajê tego cz³owieka, choæ nie wiem sk¹d. Czujê od niego podejrzan¹ aurê i s¹dzê, ¿e jego motywy wcale nie s¹ szlachetne!~
+@52   = ~Tak jak podejrzewa³em! To z³y cz³owiek i z pewnoœci¹ oszuka³ swego wspólnika! Nie pozwól dziewczynce siê od siebie oddalaæ, dobry kap³anie.~
+@53   = ~Tak jak podejrzewa³em! To z³y cz³owiek, podobnie jak jego wspólnik! Nie pozwól dziewczynce siê od siebie oddalaæ, dobry kap³anie.~
+@54   = ~Z³y cieñ pada nawet i na t¹ poœwiêcon¹ ziemiê. Widzia³em, jak ten cz³owiek nadchodzi i wyczu³em w nim coœ podstêpnego. Obserwowa³em go wiêc z daleka.~
+@55   = ~Ostatnio w mieœcie wydarzy³y siê podobne dziwne rzeczy. Wygl¹da na to... ¿e nawet nasze dzieci nie s¹ bezpieczne przed kryminalnym pó³œwiatkiem.~
+@56   = ~ChodŸ... poka¿ê ci koœció³. Dziêkujê, kap³anie...a ty, Panie... masz dziœ szczêœcie. Módl siê, ¿eby nasze œcie¿ki ju¿ siê nie skrzy¿owa³y.~ ~ChodŸ... poka¿ê ci koœció³. Dziêkujê, kap³anie...a ty, Pani... masz dziœ szczêœcie. Módl siê, ¿eby nasze œcie¿ki ju¿ siê nie skrzy¿owa³y.~
+@57   = ~Niezwykle cieszy mnie taki obrót wydarzeñ. Niech Lathander ci przebaczy, Panie, bowiem z twych dzia³añ wyp³ynê³o jednak jakieœ dobro. Czasami... Faerun mo¿e byæ mi³ym miejscem...~ ~Niezwykle cieszy mnie taki obrót wydarzeñ. Niech Lathander ci przebaczy, Pani, bowiem z twych dzia³añ wyp³ynê³o jednak jakieœ dobro. Czasami... Faerun mo¿e byæ mi³ym miejscem...~
+@58   = ~Zbadaj, co siê dzieje na zapleczu Miedzianego Diademu
+
+Lehtinan poprosi³ nas o wykonanie kolejnego zadania. Mamy przedostaæ siê kana³ami biegn¹cymi pod Miedzianym Diademem do kompleksu po³o¿onego na ich krañcu i odebraæ dostawê niewolników. Do kana³ów mo¿na siê dostaæ tajnym wejœciem na ty³ach gospody.~
+@59   = ~Sprzeda¿ Risy Lehtinanowi
+
+Lehtinan wyrazi³ zainteresowanie nabyciem sieroty Risy, w ramach jego aktywnoœci jako handlarza niewolników. Wys³a³ poœrednika na cmentarz, by ten spotka³ siê z Ris¹ i jej obecnym opiekunem.~
+@60   = ~Sprzeda¿ Risy Lehtinanowi
+
+Uda³o nam siê nak³oniæ kap³ana Lathandera, opiekuj¹cego siê sierot¹ Ris¹, aby odda³ j¹ w rêce handlarza niewolników, bêd¹cego poœrednikiem Lehtinana. W³aœciciel Miedzianego Diademu bêdzie mia³ z niej z pewnoœci¹ po¿ytek w gospodzie.~
+@61   = ~ZnajdŸ opiekuna dla sieroty Risy
+
+Próbuj¹c oddaæ siê odrobinie handlu niewolnikami, uda³o nam siê niechc¹cy po³¹czyæ ze sob¹ dwójkê ludzi spotkanych w Dzielnicy cmentarnej... paladyna o imieniu Kamir, którego syn zmar³ i ma³¹ dziewczynkê Risê, której z kolei umarli rodzice. Paladyn zgodzi³ siê wychowaæ dziewczynkê, po czym oboje odeszli. Lehtinan bêdzie zapewne niezadowolony, i¿ jego poœrednik nie by³ w stanie sprowadziæ dziewczynki, ale Risa powinna byæ szczêœliwa.~

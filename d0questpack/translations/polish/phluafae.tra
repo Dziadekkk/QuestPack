@@ -1,0 +1,159 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Ostrzega³am ciê, <PRO_GIRLBOY>. G³upioœ zrobi³<HESHE>, nie dostarczaj¹c mi ¿o³êdzi na Wzgórza Wichrowych W³óczni. Teraz bêd¹ moje!~
+@1    = ~Bardzo mnie roz³oœci³eœ. Zmia¿d¿ê twoje ga³ki oczne jak ma³e figi!~ [SUDRY01] ~Bardzo mnie roz³oœci³aœ. Zmia¿d¿ê twoje ga³ki oczne jak ma³e figi!~ [SUDRY01]
+@2    = ~Ostrzega³am ciê, <PRO_GIRLBOY>. Jeœli mia³<HESHE>byœ trochê oleju w g³owie, to zrobi³<HESHE>byœ, co ka¿ê, zamiast zachowywaæ siê tak zuchwale. Nadszed³ czas na zas³u¿on¹ karê.~
+@3    = ~Czekaj, œmiertelna istoto! Taki œliczny ch³opak b³¹ka siê po lesie... co ciê tu sprowadza?~ [SUDRY02] ~Czekaj, œmiertelna istoto!  Taka œliczna dziewczyna b³¹ka siê po lesie... co ciê tu sprowadza?~ [SUDRY02]
+@4    = ~Mam wa¿ne zadanie do wykonania! Z drogi!~
+@5    = ~To ty mnie zagadujesz. Chcesz czegoœ ode mnie?~
+@6    = ~Och. B³¹kasz siê po lesie...? Co robisz na mojej ziemi?~
+@7    = ~Cii... w okolicy mog¹ byæ trolle.~
+@8    = ~Drogi ch³opcze! Witaj z powrotem!~ ~Droga dziewczyno! Witaj z powrotem!~
+@9    = ~Tylko ¿e... czujê moj¹ siostrê, Vaelasê, na wietrze, wci¹¿ pe³n¹ ¿ycia i doskona³¹ jak zawsze!~
+@10   = ~OdejdŸ, z³oœliwcze! OdejdŸ, a¿ zrobisz to, co mi obieca³eœ.~ ~OdejdŸ, z³oœliwa! OdejdŸ, a¿ zrobisz to, co mi obieca³aœ.~
+@11   = ~Cudownie! Czujê, ¿e ³zy mojej umieraj¹cej siostry, Vaelasy, skropi³y ziemiê! Och, nie wyobra¿asz sobie, jak bardzo mnie to cieszy, mój przepyszny ³ajdaku!~ ~Cudownie! Czujê, ¿e ³zy mojej umieraj¹cej siostry, Vaelasy, skropi³y ziemiê! Och, nie wyobra¿asz sobie, jak bardzo mnie to cieszy, moja przepyszna ³ajdaczko!~
+@12   = ~Oto twoje z³oto, mój nikczemny s³odziaku, z pewnoœci¹ zas³u¿y³eœ na nie! Niech ci siê wiedzie. Obyœmy siê kiedyœ ponownie spotkali, by uczciæ nasze zwyciêstwo. Prawdziwa moc pewnego dnia bêdzie twoja, o niegodziwy, z pewnoœci¹.~ ~Oto twoje z³oto, moja nikczemna s³odkoœci, z pewnoœci¹ zas³u¿y³aœ na nie! Niech ci siê wiedzie. Obyœmy siê kiedyœ ponownie spotka³y, by uczciæ nasze zwyciêstwo. Prawdziwa moc pewnego dnia bêdzie twoja, o niegodziwa, z pewnoœci¹.~
+@13   = ~Tymczasem, pa pa!~
+@14   = ~Och, po co siê œpieszyæ, kochanie, kiedy mo¿emy delektowaæ siê naszym towarzystwem? To sama przyjemnoœæ.~ 
+@15   = ~Eee... to znaczy?~ 
+@16   = ~Towarzystwo, co? To mi siê podoba.~
+@17   = ~Nie myœlisz o niczym... niestosownym, prawda?~
+@18   = ~Mam dosyæ towarzystwa. ZejdŸ mi z drogi!~
+@19   = ~Och, ale¿ jesteœ sprytny, skaczesz wprost na nieunikniony szczyt konsekwencji tych wszystkich s³ów.~ ~Och, ale¿ jesteœ sprytna, skaczesz wprost na nieunikniony szczyt konsekwencji tych wszystkich s³ów.~
+@20   = ~Sedno. Mog³abyœ zmierzaæ do sedna?~
+@21   = ~Tak, jestem sprytny, wiêc zmierzaj do sedna, tylko mnie nim nie przygnieæ.~ ~Tak, jestem sprytna, wiêc zmierzaj do sedna, tylko mnie nim nie przygnieæ.~
+@22   = ~Bla, bla, bla. Nuuudy.~
+@23   = ~Hmm. £adnie pachniesz.~
+@24   = ~Och! Naprawdê? Co za szczêœciara ze mnie, ¿e taki szlachetny bohater akurat têdy przechodzi³!~ ~Och! Naprawdê? Co za szczêœciara ze mnie, ¿e taka szlachetna bohaterka akurat têdy przechodzi³a!~
+@25   = ~Tak, to rzeczywiœcie szczêœliwy przypadek.~
+@26   = ~Dlaczego myœlisz, ¿e jestem szlachetnym bohaterem, a nie niebezpiecznym szaleñcem?~ ~Dlaczego myœlisz, ¿e jestem szlachetn¹ bohaterk¹, a nie niebezpiecznym szaleñcem?~
+@27   = ~Chyba nie rozmawiasz ze mn¹ tylko po to, by mnie mi³o tytu³owaæ? Oczekujesz czegoœ ode mnie? Jeœli tak, to proszê, przejdŸ do rzeczy.~
+@28   = ~Och! Naprawdê? To takie straszne! Co za szczêœciara ze mnie, ¿e taki szlachetny bohater akurat têdy przechodzi³!~ [SUDRY04] ~Och! Naprawdê? To takie straszne! Co za szczêœciara ze mnie, ¿e taka szlachetna bohaterka akurat têdy przechodzi³a!~ [SUDRY04]
+@29   = ~Myœlisz, ¿e trolle s¹ straszne? Amatorka.~
+@30   = ~Czemu myœlisz, ¿e jestem mniej niebezpieczny ni¿ trolle?~ ~Czemu myœlisz, ¿e jestem mniej niebezpieczna ni¿ trolle?~
+@31   = ~Chyba nie rozmawiasz ze mn¹ ze wzglêdu na obawy przed trollami. Oczekujesz czegoœ ode mnie? Jeœli tak, to proszê, przejdŸ do rzeczy.~
+@32   = ~To znaczy, ¿e czujê, i¿ jakaœ czêœæ twojej osoby mo¿e mi siê przys³u¿yæ.~
+@33   = ~Mojej... osoby? Nie masz na myœli nic niestosownego, prawda?~
+@34   = ~S³uchaj, to co jest czêœci¹ mnie, zostaje czêœci¹ mnie. Rozumiesz?~
+@35   = ~Mojej osoby? Rrrrroowrr.~
+@36   = ~Z twojego niewyraŸnego spojrzenia wnioskujê, ¿e Ÿle odczytujesz moje intencje.~
+@37   = ~Dobrze. Nie interesuje mnie nic niestosownego. Szczerze.~
+@38   = ~Czyli nici z zabawy!~
+@39   = ~Wiêc jakie S¥ twoje intencje?~
+@40   = ~To ty Ÿle odczytujesz MOJE intencje. Moje oczy by³y przepe³nione nud¹ w oczekiwaniu, a¿ wreszcie wyjaœnisz, o co ci chodzi.~
+@41   = ~Po panice w twoim spojrzeniu wnioskujê, ¿e Ÿle odczytujesz moje intencje.~
+@42   = ~A niech to! W³aœciwie to mia³em cich¹ nadziejê na coœ niestosownego.~ ~A niech to! W³aœciwie to mia³am cich¹ nadziejê na coœ niestosownego.~
+@43   = ~To ty Ÿle odczytujesz MOJE intencje. Jeœli ju¿, to moje spojrzenie przepe³nia³o zmieszanie w oczekiwaniu na twoje wyjaœnienia.~
+@44   = ~Co za uparciuch. Proszê, kochanie. Ciii! Wys³uchaj mnie.~ [SUDRY05]
+@45   = ~Mam nadziejê, ¿e moja oferta ciê zainteresuje. To prosta rzecz i okazja dla ciebie, a dla mnie ogromna pomoc.~ [SUDRY12]
+@46   = ~Niesiesz zawini¹tko prawdziwych ¿o³êdzi na Wzgórza Wichrowych W³óczni. One nale¿¹ do moich sióstr, i jako takie s¹ bardzo wa¿ne dla mnie.~ [SUDRY11]
+@47   = ~Czy mo¿esz... rozstaæ siê z nimi? Oddaæ mi je? Zaopiekujê siê nimi tak, jak na to zas³uguj¹!~ [SUDRY06]
+@48   = ~Te ¿o³êdzie? No nie wiem. Obieca³em driadom, ¿e odniosê je na Wzgórza Wichrowych W³óczni.~ ~Te ¿o³êdzie? No nie wiem. Obieca³am driadom, ¿e odniosê je na Wzgórza Wichrowych W³óczni.~
+@49   = ~Powinienem zwróciæ je na Wzgórza Wichrowych W³óczni, a nie oddawaæ ka¿demu, kto o to poprosi. ~ ~Powinnam zwróciæ je na Wzgórza Wichrowych W³óczni, a nie oddawaæ ka¿demu, kto o to poprosi. ~
+@50   = ~Oczywiœcie. Proszê bardzo.~
+@51   = ~Oczywiœcie, mog³abyœ, ale nie bêdzie jakieœ nagrody za moj¹ pomoc?~
+@52   = ~¯o³êdzie? Zapomnia³em, ¿e je mia³em. Tylko dziwne jest to, ¿e pojawiasz siê znik¹d i prosisz o nie, nawet jeœli jesteœ driad¹. Twoje siostry tam w lochu da³y mi dok³adne instrukcje.~ ~¯o³êdzie? Zapomnia³am, ¿e je mia³em. Tylko dziwne jest to, ¿e pojawiasz siê znik¹d i prosisz o nie, nawet jeœli jesteœ driad¹. Twoje siostry tam w lochu da³y mi dok³adne instrukcje.~
+@53   = ~Te ¿o³êdzie? Hej, coœ w³aœnie zg³odnia³em. (prze¿uwasz)~ ~Te ¿o³êdzie? Hej, coœ w³aœnie zg³odnia³am. (prze¿uwasz)~
+@54   = ~Nie, obietnica to obietnica. Przyrzek³em, ¿e zwrócê te ¿o³êdzie na Wzgórza Wichrowych W³óczni i s³owa dotrzymam. Bez dyskusji.~ ~Nie, obietnica to obietnica. Przyrzek³am, ¿e zwrócê te ¿o³êdzie na Wzgórza Wichrowych W³óczni i s³owa dotrzymam. Bez dyskusji.~
+@55   = ~Cokolwiek powiesz, najdro¿szy ch³opcze.~ ~Cokolwiek powiesz, najdro¿sza dziewczyno.~
+@56   = ~Mo¿e mówiê za szybko. Proszê, najdro¿szy ch³opcze. Oka¿ troszkê cierpliwoœci i wys³uchaj mych s³ów.~ ~Mo¿e mówiê za szybko. Proszê, najdro¿sza dziewczyno. Oka¿ troszkê cierpliwoœci i wys³uchaj mych s³ów.~
+@57   = ~Driady pachn¹ kwiatami, mg³¹ i obietnic¹ rozkoszy. Upojnie, prawda? Chcê ci coœ zaproponowaæ, najdro¿szy.~ ~Driady pachn¹ kwiatami, mg³¹ i obietnic¹ rozkoszy. Upojnie, prawda? Chce ci coœ zaproponowaæ, najdro¿sza.~
+@58   = ~Na wiele ró¿nych sposobów, us³yszysz...~
+@59   = ~O rety! Ale¿ ty jesteœ silny i potê¿ny! Wstrzymaj siê na chwilê ze swoimi przechwa³kami, najdro¿szy ch³opcze i wys³uchaj mnie.~ [SUDRY07] ~O rety! Ale¿ ty jesteœ silna i potê¿na! Wstrzymaj siê na chwilê ze swoimi przechwa³kami, najdro¿sza dziewczyno i wys³uchaj mnie.~ [SUDRY07]
+@60   = ~Niebezpieczeñstwa w tej sprawie nie ma ¿adnego. Mam dla ciebie propozycjê. Ca³kiem niewinn¹, jak us³yszysz...~
+@61   = ~Ale¿ tak! Jakie to bystre z twojej strony!~
+@62   = ~Och, skarbeñku, nie rozumiesz moich intencji!~
+@63   = ~To znaczy, ¿e mam maleñk¹ proœbê.~
+@64   = ~Ale jestem driad¹! Z pewnoœci¹ mo¿esz mi powierzyæ ¿o³êdzie moich sióstr!~
+@65   = ~Och, no dobrze. Wzgórza Wichrowych W³óczni s¹ daleko st¹d. Bierz.~
+@66   = ~Pewnie móg³bym... jeœli bêdzie nagroda za moj¹ pomoc.~ ~Pewnie mog³abym... jeœli bêdzie nagroda za moja pomoc.~
+@67   = ~Nie wiem. Coœ mi to wszystko dziwnie wygl¹da.~
+@68   = ~Ha ha! Moje urocze siostry s¹ po raz kolejny na mojej ³asce! Dobrze ¿e nie trzymasz siê uporczywie raz danego s³owa, inaczej nie mog³abym skorzystaæ z twojej naiwnoœci. A wtedy bardzo bym siê pogniewa³a.~
+@69   = ~Teraz czas poszukaæ innego klienta, któremu przyda siê harem driad. Mo¿e znajdê jakiegoœ w Calimshanie.~
+@70   = ~Oczywiœcie. Nie jestem nierozs¹dna. Czy deszcz z³ota ukoi twoje pragnienia?~ [SUDRY10]
+@71   = ~Niech siê zacznie to ukojenie.~
+@72   = ~Nie, coœ mi tu nie pasuje. Za bardzo ci na tym zale¿y, nimfo.~
+@73   = ~Obietnica to obietnica. Przyrzek³em, ¿e zwrócê te ¿o³êdzie na Wzgórza Wichrowych W³óczni i s³owa dotrzymam. Bez dyskusji.~ ~Obietnica to obietnica. Przyrzek³am, ¿e zwrócê te ¿o³êdzie na Wzgórza Wichrowych W³óczni i s³owa dotrzymam. Bez dyskusji.~
+@74   = ~Ty... ZJAD£EŒ JE!?!?~ ~Ty... ZJAD£AŒ JE!?!?~
+@75   = ~Có¿ z ciebie za cenna kluseczka! Prawda, ponowne sprzedanie moich sióstr jako na³o¿nice by³oby wspania³e, ale skoro ty zjad³eœ te ¿o³êdzie, to nikt siê nie dowie, co zrobi³am. Smacznego, ch³opcze! Pa!~ ~Có¿ z ciebie za cenna kluseczka! Prawda, ponowne sprzedanie moich sióstr jako na³o¿nice by³oby wspania³e, ale skoro ty zjad³aœ te ¿o³êdzie, to nikt siê nie dowie, co zrobi³am. Smacznego, dziewczyno! Pa!~
+@76   = ~Ach, ty masz swoje z³oto, a ja mam ¿o³êdzie. Czy¿ robienie takich interesów nie jest sam¹ przyjemnoœci¹?~ [SUDRY08]
+@77   = ~Moje urocze siostry s¹ ponownie na mojej ³asce. Dobrze, ¿e nie trzymasz siê uporczywie raz danego s³owa, bo inaczej nie dosta³<HESHE>byœ swojego z³ota, a ja nic nie zyska³abym na twojej chciwoœci. A wtedy bardzo bym siê pogniewa³a.~
+@78   = ~Teraz czas poszukaæ innego klienta, któremu przyda siê harem driad. Mo¿e znajdê jakiegoœ w Calimshanie.~
+@79   = ~Bystry jesteœ. Nie chcia³am mówiæ o nich Ÿle, ale muszê ciê ostrzec.~ ~Bystra jesteœ. Nie chcia³am mówiæ o nich Ÿle, ale muszê ciê ostrzec.~
+@80   = ~Moje siostry na Wzgórzach nie s¹ zbyt m¹dre. Vaelasa by³a na tyle g³upia by straci³a te trzy na rzecz haremu tego szalonego Irenicusa. Naprawdê myœlisz, ¿e za drugim razem bêdzie lepiej je chroni³a? Proszê, przeka¿ ¿o³êdzie pod moj¹ opiekê. Ja dopilnujê, by moje siostry dosta³y to, na co zas³uguj¹...~
+@81   = ~Skoro tak stawiasz sprawê, to chyba bêdzie rozs¹dne.~
+@82   = ~Masz dobre argumenty i nawet siê z tob¹ zgadzam, ale czy dostanê jak¹œ nagrodê za moj¹ pomoc?~
+@83   = ~Poczekaj. Sk¹d wiesz o Irenicusie? Teraz rozumiem! Masz coœ wspólnego z uwiêzieniem swoich sióstr, prawda?~
+@84   = ~Hmm. Niewiele siê ukryje przed twoimi sokolim okiem, mój s³odki. Mo¿e i przekaza³am moje siostry Irenicusowi w zamian za odrobinê mocy, ale te mizdrz¹ce siê idiotki zas³ugiwa³y na to. Co ich los tak naprawdê znaczy? Nie musimy odgrzebywaæ moich brudów, prawda? Dlaczego po prostu nie przeka¿esz mi ¿o³êdzi, a ja dam ci za nie niez³¹ sumê pieniêdzy, co? Wszyscy bêd¹ zadowoleni!~ ~Hmm. Niewiele siê ukryje przed twoimi sokolim okiem, moja s³odka. Mo¿e i przekaza³am moje siostry Irenicusowi w zamian za odrobinê mocy, ale te mizdrz¹ce siê idiotki zas³ugiwa³y na to. Co ich los tak naprawdê znaczy? Nie musimy odgrzebywaæ moich brudów, prawda? Dlaczego po prostu nie przeka¿esz mi ¿o³êdzi, a ja dam ci za nie niez³¹ sumê pieniêdzy, co? Wszyscy bêd¹ zadowoleni!~
+@85   = ~Nie! Ty bezduszna zdrajczyni w³asnych sióstr! Poniesiesz karê!~
+@86   = ~Pieni¹dze na pewno siê przydadz¹, ale co z t¹ ca³¹ intryg¹. Zni¿anie zdrady do zwyk³ej transakcji brzmi strasznie prozaicznie.~
+@87   = ~Jak dla mnie mo¿e byæ.~
+@88   = ~Ojej, to wcale nie posz³o tak, jak planowa³am. Aaaa!~ [SUDRY09]
+@89   = ~Cieszy mnie, ¿e zachowujesz siê rozs¹dnie. Przez chwilê myœla³am, ¿e wpadniesz w jakiœ praworz¹dny sza³. To by mnie bardzo rozczarowa³o.~
+@90   = ~Intryga? Przeciw moim siostrom? Jakie¿ to œliczne s³owa, drogi ch³opcze!~ ~Intryga? Przeciw moim siostrom? Jakie¿ to œliczne s³owa, droga dziewczyno!~
+@91   = ~Optymizm Vaelasy i jej dobrotliwa sentymentalnoœæ naprawdê zas³uguj¹ na zderzenie siê z rzeczywistoœci¹. Nadszed³ czas, by ona i moje pozosta³e siostry nauczy³y siê, ¿e prawdziwe piêkno Wieloœwiata pochodzi z potêgi! ~
+@92   = ~Jeœli chcesz pomóc, to powinieneœ doprowadziæ moje siostry do wielkiego cierpienia.~ ~ Jeœli chcesz pomóc, to powinnaœ doprowadziæ moje siostry do wielkiego cierpienia.~
+@93   = ~Tak, jeœli oszustwo jest na rzeczy, zrobiê to z przyjemnoœci¹.~
+@94   = ~Tak po prawdzie, nie chcê siê sobie zawracaæ g³owy wasz¹ dziecinn¹ rywalizacj¹. Daj mi z³oto za ¿o³êdzie i skoñczmy z tym.~
+@95   = ~W³aœciwie, przechodz¹c do sedna. Mogê ciê zraniæ, zabraæ twoje z³oto i pójœæ do twoich sióstr! Ha ha!~
+@96   = ~Tak sobie myœlê, dlaczego w ogóle mam ci pomagaæ? Zaniosê ¿o³êdzie na Wzgórza Wichrowych W³óczni, taki by³ plan od samego pocz¹tku.~
+@97   = ~Och, naprawdê? A mog³abym wynagrodziæ ciê za twoj¹ pomoc, ale nie, ty musisz dotrzymaæ s³owa. Psuja!~
+@98   = ~Och, no có¿. Tym gorzej dla ciebie. Zap³acisz za swoje b³êdy prêdzej czy póŸniej.~
+@99   = ~Mam nadzieje, ¿e prêdzej.~
+@100  = ~Ach, ty masz z³oto, ja mam ¿o³êdzie. Szkoda, ¿e nie chcesz siê w to bardziej zaanga¿owaæ, ale uczciwa wymiana te¿ jest zadowalaj¹ca.~
+@101  = ~Moje urocze siostry znów s¹ na mojej ³asce. Dobrze, ¿e nie trzymasz siê uporczywie raz danego s³owa, bo inaczej nie dosta³<HESHE>byœ swojego z³ota, a ja nic nie zyska³abym na twojej chciwoœci.~
+@102  = ~W zamian za prawdziwe ¿o³êdzie moich sióstr dam ci te fa³szywe. Ty musisz zabraæ je do Vaelasy na Wzgórza Wichrowych W³óczni i do³o¿yæ wszelkich starañ, by uzna³a je za prawdziwe.~
+@103  = ~One s¹ uwiêzione, rozumiesz? A kiedy zostan¹ zasadzone w ogrodzie moich sióstr, rozwin¹ siê w okropn¹ niespodziankê!~
+@104  = ~Kiedy Vaelasa bêdzie martwa, mo¿esz ograbiæ jej cia³o - potraktuj to jako dodatkow¹ zap³atê - i powróæ do mnie. Obsypiê ciê z³otem, kiedy bêdê mia³a pewnoœæ, ¿e zw³oki moich sióstr obracaj¹ siê w py³.~
+@105  = ~Podoba mi siê ten plan. Umowa stoi.~
+@106  = ~Podoba mi siê ten plan, ale jest on niebezpieczny. Domagam siê zap³aty z góry.~
+@107  = ~Tak po prawdzie, nie chcê siê sobie zawracaæ g³owy wasz¹ dziecinn¹ rywalizacj¹. Daj mi z³oto za ¿o³êdzie i skoñczmy z tym.~
+@108  = ~Tak sobie myœlê, dlaczego w ogóle mam ci pomagaæ? Zaniosê ¿o³êdzie na Wzgórza Wichrowych W³óczni, taki by³ plan od samego pocz¹tku. Kto pierwszy, ten lepszy.~
+@109  = ~Ach, jak mnie to cieszy, kochany ch³opcze! Tutaj s¹ fa³szywe nasiona. Powodzenia, mój cudowny zwodzicielu!~ ~Ach, jak mnie to cieszy, kochana dziewczyno! Tutaj s¹ fa³szywe nasiona. Powodzenia, moja cudowna zwodzicielko!~
+@110  = ~Nie jestem nierozs¹dna. Czêœæ zap³aty z góry to rozs¹dny warunek umowy. Trzysta sztuk z³ota wystarczy?~
+@111  = ~Proszê. To zaliczka na twoje starania. Teraz idŸ i wywo³aj zamieszanie, drogi ch³opcze!~ ~Proszê. To zaliczka na twoje starania. Teraz idŸ i wywo³aj zamieszanie, droga dziewczyno!~
+@112  = ~Obcy? Nie jesteœ jedn¹ z moich piêknych! Co tu robisz?~
+@113  = ~Wybacz, ¿e ciê niepokojê. Odejdê st¹d jak najszybciej.~
+@114  = ~Przepraszam za wtargniêcie do twojego piêknego sanktuarium, ale mam ¿o³êdzie od twoich sióstr. By³y wiezione przez z³ego maga od wielu lat. Na szczêœcie uda³o mi siê im pomóc.~
+@115  = ~Przepraszam za wtargniecie. Przynoszê ¿o³êdzie od twoich sióstr. By³y wiezione przez z³ego maga od wielu lat, na szczêœcie uda³o mi siê im pomóc.~
+@116  = ~Wybacz, wybacz. Eee... Nie chcê ciê denerwowaæ, ale mam ¿o³êdzie, które dosta³em od driad spotkanych w lochu... By³y wiezione przez z³ego maga od wielu lat. Kiepsko, co? Szczêœcie, ¿e uda³o mi siê im pomóc!~
+@117  = ~IdŸ wiêc i opuœæ kr¹g. To miejsce nie jest przeznaczone na zwyk³ych podró¿nych. Nie wolno tu przychodziæ bez zaproszenia. OdejdŸ, œmiertelna istoto!~
+@118  = ~Zaiste jesteœ mê¿n¹ i dobr¹ osob¹, skoro chcesz uwolniæ moje siostry. Trzeba ponownie zasadziæ ich drzewa, by Ulene, Cania i Elyme mog³y byæ wolne. Daj mi te ¿o³êdzie, <BROTHERSISTER>.~
+@119  = ~Twoje s³owa jakoœ mnie niepokoj¹, jednak brzmi w nich sens i prawda. Moje biedne, biedne siostry, jak bardzo ¿eœcie usch³y.~
+@120  = ~Dziêkujê ci, mi³y nieznajomy, za twój szlachetny czyn!~ ~Dziêkujê ci, mi³a nieznajoma, za twój szlachetny czyn!~
+@121  = ~Czekaj. To dziwne.~
+@122  = ~Te ¿o³êdzie nie œpiewaj¹ z nieskalan¹ s³odycz¹ moich sióstr. Emanuje z nich skaza winy. Coœ mrocznego i bezdusznego.~
+@123  = ~Co to jest? Czy to naprawdê nasiona Canii, Elyme i Ulene?~
+@124  = ~Oczywiœcie, ¿e to one. Czemu mia³<HESHE>bym ciê ok³amywaæ?~
+@125  = ~Zapewniam ciê, ¿e to one. Na pewno rozumiesz jakie cierpienia twoje siostry musia³y znosiæ z r¹k swego oprawcy? Takie doœwiadczenia przygasi³yby najjaœniejszego ducha.~
+@126  = ~A niech to! Nie wytrzymam d³u¿ej tych uprzejmoœci! Twoja siostra, Fluafae, ma ich ¿o³êdzie. To ona je wczeœniej sprzeda³a jako na³o¿nice, a teraz chce twojej g³owy. Nie ruszaj siê, dopóki jej nie usunê, dobrze?~
+@127  = ~Ty nieudolny oszuœcie! Nie doœæ, ¿e moje siostry cierpi¹ z rak tego czarodzieja, który je zniewoli³... to ty próbujesz mnie zwieœæ swoimi k³amstwami?!~ ~Ty nieudolna oszustko! Nie doœæ, ¿e moje siostry cierpi¹ z rak tego czarodzieja, który je zniewoli³... to ty próbujesz mnie zwieœæ swoimi k³amstwami?!~
+@128  = ~Nie wiem, co siê sta³o z moimi siostrami, ale to... to nie s¹ ich ¿o³êdzie. Jakikolwiek by³ twój okrutny plan, œmiertelna istoto, sromotnie zawiód³.~
+@129  = ~Pomszczê ich stratê, pokonuj¹c ciebie! Za Caniê, Elyme i Ulene, bêdziesz cierpieæ!~
+@130  = ~Diable! Prawie mnie zwiod³eœ!~
+@131  = ~I pomyœleæ, ¿e nasza w³asna siostra mo¿e byæ tak fa³szywa, by tak okrutnie nas zdradziæ! To stanowczo zbyt ciê¿kie brzemiê, ale s¹d  nad Fluafae bêdzie szybki i surowy, obiecujê.~
+@132  = ~Ale najpierw TY musisz zostaæ ukarany! Za Caniê, Elyme i Ulene, bêdziesz cierpieæ!~ ~Ale najpierw TY musisz zostaæ ukarana! Za Caniê, Elyme i Ulene, bêdziesz cierpieæ!~
+@133  = ~<CHARNAME>, przez ciebie driady i ich las bêd¹ cierpieæ, Nastêpnym razem przemyœl bardziej swoje decyzje.~
+@134  = ~Co?!? Ty po prostu odda³eœ doskona³y harem driad? Ach! (Czy ktoœ tu móg³by pytaæ mnie o zdanie przy tak wa¿nych decyzjach?)~ ~Co?!? Ty po prostu odda³aœ doskona³y harem driad? Phi! (Czy ktoœ tu móg³by pytaæ mnie o zdanie przy tak wa¿nych decyzjach?)~
+@135  = ~<CHARNAME>, przez ciebie driady i ich las bêd¹ cierpieæ. Kto wie, co zjedzenie tych ¿o³êdzi mo¿e im zrobiæ. Nastêpnym razem, przemyœl bardziej swoje decyzje.~
+@136  = ~Co?!? Ty po prostu ZJAD£EŒ doskona³y harem driad? Ach! (Czy ktoœ tu móg³by pytaæ mnie o zdanie przy tak wa¿nych decyzjach?)~ ~Co?!? Ty po prostu ZJAD£AŒ doskona³y harem driad? Ach! (Czy ktoœ tu móg³by pytaæ mnie o zdanie przy tak wa¿nych decyzjach?)~
+@137  = ~Pomagam driadom wiezionym przez Irenicusa
+
+Po rozmowie z driad¹ niedaleko warowni De'Arnise, zgodziliœmy siê zdradziæ driady trzymane w niewoli przez Irenicusa i przekazaæ fa³szywe ¿o³êdzie ich siostrze Vaelasie na Wzgórzach Wichrowych W³óczni.~
+@138  = ~ Pomagam driadom wiezionym przez Irenicusa
+
+Vaelasa nabra³a siê na fa³szywe ¿o³êdzie, które jej daliœmy i w efekcie zginê³a. Fluafae powinna byæ zadowolona z takiego obrotu spraw.~
+@139  = ~ Pomagam driadom wiezionym przez Irenicusa
+
+Vaelasa nie uwierzy³a, ¿e fa³szywe ¿o³êdzie nale¿¹ do jej sióstr i zaatakowa³a nas. Fluafae raczej nie bêdzie zadowolona z takiego obrotu spraw.~
+@140  = ~ Pomagam driadom wiezionym przez Irenicusa
+
+Z³amaliœmy umowê z driadami wiezionymi przez Irenicusa i zamiast tego dostarczyliœmy fa³szywe ¿o³êdzie przygotowane przez jedn¹ z ich sióstr do Vaelasy na Wzgórzach Wichrowych W³óczni. W efekcie ona zginê³a, a my otrzymaliœmy nagrodê za nasz wysi³ek.~
+@141  = ~ Pomagam driadom wiezionym przez Irenicusa
+
+Z³amaliœmy umowê z driadami wiezionymi przez Irenicusa, przekazuj¹c ich ¿o³êdzie innej driadzie, któr¹ spotkaliœmy niedaleko warowni De'Arnise. Mówi³a ona o haremie driad, wiêc raczej siê im nie przys³u¿yliœmy.~
+@142  = ~ Pomagam driadom wiezionym przez Irenicusa
+
+Z³amaliœmy umowê z driadami wiezionymi przez Irenicusa, zamiast tego woleliœmy, eee... zjeœæ ¿o³êdzie. Driada, która podesz³a do nas niedaleko warowni De'Arnise wydawa³a siê tym najbardziej zaskoczona.~
+
+@999 = ~Skoro driady poprosi³y ciê, byœ zabra³ te ¿o³êdzie na Wzgórza, to tam powinny trafiæ, <CHARNAME>. To jest podstawowa zasada transportu - nigdy nie pozwól, by coœ ci stanê³o na drodze z punktu A do punktu B.~

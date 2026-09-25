@@ -1,4 +1,53 @@
-// -*- coding: utf-8 -*-
+// -*- coding: cp1252 -*-
 
+// Translators, please note well: please translate component names only of the components you plan to translate fully.
+// Untranslated components should retain their english titles to distinguish them from those which have been translated.
+// Components without TRAs should not be translated as their text is subject to change. Check "Fully TRAified components.txt".
+@1  = ~Quest Pack: Dodatkowa zawartosc zwiazana ze Zlodziejami Cienia~
+@2  = ~Quest Pack: Alternatywna fabula zwiazana z Harfiarzami/Xzarem~
+@3  = ~Quest Pack: Rozszerzona sekwencja Reynalda~
+@4  = ~Quest Pack: Intryga w Miedzianym Diademie~
+@5  = ~Quest Pack: Ucieczka z Brynnlaw~
+@6  = ~Quest Pack: Rozne ulepszenia~
+@8  = ~Quest Pack: Zadanie z eliksirem Rahula Kanakii~
+@9  = ~Quest Pack: Rozszerzona twierdza druida~
+@10 = ~Quest Pack: Poprawione Proby w Piekle~
+@11 = ~Ulepszenia zwiazane z dialogami i walka~
+@12 = ~Tylko ulepszenia zwiazane z dialogami~
+@13 = ~Quest Pack: Ulepszona Oaza II~
+@14 = ~Quest Pack: Ogolne usprawnienia SI~
+@15 = ~Quest Pack: Rozbudowany Budynek Rady~
+@16 = ~Quest Pack: Wojna Krwi w Tartarze~
+@17 = ~Quest Pack: Ocalenie Sanika w Brynnlaw~
+@18 = ~Quest Pack: Wlamanie u ksiegarza~
+@19 = ~Quest Pack: Nowy los zoledzi driad~
+@20 = ~Quest Pack: Tragedia Besamena~
+@21 = ~Quest Pack: Kolejna sprawa lowcow niewolnikow~
+@22 = ~Quest Pack: Wyslanie Rycerzy Solamnijskich do domu~
+@23 = ~Quest Pack: Lisz Nazariel~
+@24 = ~Quest Pack: Przyjazn z Quallo~
+@25 = ~Quest Pack: Slowo i Madrosc~
+@26 = ~Quest Pack: Skrot przez Podmrok~
+@27 = ~Tylko usprawnienia SI~
+@28 = ~Usprawnienia SI i ulepszone krzyki~
 
-@10 = ~Poprawione Proby W Piekle~
+@30 = ~Quest Pack: Piekielne zlodziejstwo~
+@31 = ~Quest Pack: Elfi Dwor~
+@32 = ~Tylko ulepszenia glownych przeciwnikow~
+@33 = ~Quest Pack: Negocjowanie nagrod~
+@34 = ~Quest Pack: Ulepszenia stworzen i obszarow~
+@35 = ~Ulepszenia wszystkich stworzen~
+@36 = ~Ulepszenia wszystkich stworzen i obszarow~
+@37 = ~Tylko tresc zwiazana z zadaniami~
+@38 = ~Tresc zwiazana z zadaniami i ulepszenia biesow~
+@39 = ~Z dodatkowymi losowymi spotkaniami~
+@40 = ~Bez dodatkowych losowych spotkan~
+
+@95 = ~[Y]es, [N]o?~
+@96 = ~Wyglada na to, ze nie masz zainstalowanego moda BG2 Fixpack. Fixpack dostÄ™pny jest na stronie http://www.gibberlings3.net/bg2fixpack/ i zalecanie jest, abys zainstalowal go, zanim przejdziesz dalej. Czy mimo wszystko chcesz kontynuowac instalacje tej zawartosci?~
+@97 = ~Pomijanie komponentu, dopoki nie zostanie zainstalowany BG2 Fixpack.~
+@98 = ~Quest Pack dostÄ™pny jest tylko dla BG II i BGT.~
+@99 = ~Wykryto BP, pomijanie ulepszen SI.~
+@100 = ~Pomijanie komponentow zwiazanych z dodatkiem Tron Bhaala.~
+
+// d0quest.tra starts at @101

@@ -1,0 +1,511 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Ej!  Od jakiegoœ czasu mam na ciebie oko, wiesz?  Wujek Gaelan powiedzia³, ¿ebym ci trochê pomóg³. S³uchaj no!~
+@1    = ~S³ysza³em o jakimœ lichwiarzu w okolicy, ale radzê ci siê trzymaæ od niego z daleka. Jeœli szukasz roboty, to mam parê pomys³ów.~
+@2    = ~B³agam, panie, zrobi to, gdy bêdzie mog³a.~ 
+@3    = ~Ale... ale... w porz¹dku. Dziêkujê, przeka¿ê jej to.~
+@4    = ~Och, dobry panie, dziêki bogom, ¿e tu jesteœ! Proszê, moja matka Moiya b³aga, byœ jak najszybciej odszuka³ j¹ w Slumsach. Sta³o siê coœ strasznego!~ ~Och, dobra pani, dziêki bogom, ¿e tu jesteœ! Proszê, moja matka Moiya b³aga, byœ jak najszybciej odszuka³a j¹ w Slumsach. Sta³o siê coœ strasznego!~
+@5    = ~Mamusiu!~
+@6    = ~Mamusiu! Co siê sta³o? Co to za ludzie? Wszystko w porz¹dku? (chlip)~
+@7    = ~Tak... tak, natychmiast pójdê!~
+@8    = ~Mamo! Mamusiu! Carla zniknê³a!~
+@9    = ~Inni mówi¹, ¿e jakiœ cz³owiek przyszed³ i j¹ zabra³. Wszyscy bardzo siê boj¹.~
+@10   = ~To nie do przyjêcia. Termin zosta³ ustalony i nie mam zamiaru robiæ ¿adnych wyj¹tków. Dostanê, co moje, albo podejmê odpowiednie kroki.~
+@11   = ~Ekhm. Czy móg³bym coœ dla ciebie zrobiæ?~ [d0lend01]
+@12   = ~A kim¿e ty jesteœ?~
+@13   = ~Co tu robisz?~
+@14   = ~Co zasz³o miêdzy tob¹ a tym dzieciakiem?~
+@15   = ~Nie wiem, jak¹ sprawê mia³eœ do tego dziecka, ale nie wygl¹da³o to mi³o. Czym siê tu zajmujesz?~
+@16   = ~S³ysza³em, ¿e w okolicy mo¿na znaleŸæ jakiegoœ lichwiarza. Wiesz coœ o tym?~ 
+@17   = ~Nie, muszê ju¿ iœæ.~
+@18   = ~Wygl¹dasz na bogacza. Natychmiast oddawaj ca³e swoje z³oto.~
+@19   = ~Wygl¹dasz na bogacza. Na dodatek wyraŸnie widaæ, ¿e nie masz dobrych zamiarów, wiêc oddaj mi ca³e swoje z³oto albo zawiadomiê w³adze.~
+@20   = ~Nie twój interes. Czy wygl¹dam, jakbym mia³ ochotê na pogawêdki? Proszê, odejdŸ.~
+@21   = ~To moja sprawa, nie twoja. Nie b¹dŸ wiêc taki natarczywy i idŸ ju¿.~ ~To moja sprawa, nie twoja. Nie b¹dŸ wiêc taka natarczywa i idŸ ju¿.~
+@22   = ~Dobrze. Nie mam czasu na pogaduszki.~
+@23   = ~Daj spokój. Naprawdê masz zamiar mnie tutaj zaatakowaæ? Powodzenia ¿yczê.~
+@24   = ~Daj spokój. Naprawdê s¹dzisz, ¿e masz jakikolwiek dowód, by móc mnie szanta¿owaæ?~
+@25   = ~A powinienem? Dalej chcesz marnowaæ mój czas durnymi pytaniami, czy masz jeszcze jakieœ inne sprawy?~
+@26   = ~Ponoæ ten lichwiarz ma na imiê Celile. S³ysza³eœ o nim?~
+@27   = ~Wygl¹dasz na kogoœ, kto nie ma sobie równych w sprawach finansów. Wiêc mo¿e coœ wiesz.~
+@28   = ~Wiem, kim jesteœ, skoñcz tê zabawê.~
+@29   = ~Có¿, rzeczywiœcie tylko marnowa³em twój czas. Pójdê ju¿.~ ~Có¿, rzeczywiœcie tylko marnowa³am twój czas. Pójdê ju¿.~
+@30   = ~Có¿, stara³em siê tylko prowadziæ uprzejm¹ konwersacjê. Poszerzanie krêgu znajomych to zawsze dobry pomys³. Ale pójdê ju¿, skoro jesteœ zajêty.~ ~Có¿, stara³am siê tylko prowadziæ uprzejm¹ konwersacjê. Poszerzanie krêgu znajomych to zawsze dobry pomys³. Ale pójdê ju¿, skoro jesteœ zajêty.~
+@31   = ~Wybacz. Pójdê ju¿.~
+@32   = ~Ja... eee... ach, wiêc s³ysza³eœ? Tak, jestem Celile. Wiêc, czego ode mnie chcesz?~ ~Ja... eee... ach, wiêc s³ysza³aœ? Tak, jestem Celile. Wiêc, czego ode mnie chcesz?~
+@33   = ~Wiêc czym siê dok³adnie zajmujesz?~
+@34   = ~Jak dzia³a ten twój system po¿yczek?~
+@35   = ~Mo¿e móg³byœ poszerzyæ nieco moj¹ wiedzê o po¿yczkach?~
+@36   = ~Jak¹ zabawê? O czym ty gadasz, g³upcze? Zostaw mnie albo bêdê zmuszony wezwaæ stra¿e.~
+@37   = ~Nie s¹dzê. Bêdê musia³<HESHE> skierowaæ uwagê w³adz na twoje interesy, jeœli nie zechcesz wspó³pracowaæ.~
+@38   = ~Nie s¹dzê. Bêdê musia³<HESHE> skierowaæ uwagê w³adz na twoje interesy, jeœli nie zechcesz wspó³pracowaæ, a teraz ju¿ wiem, czym siê zajmujesz, wiêc mam œwietne dowody, by ciê szanta¿owaæ.~
+@39   = ~Wiêc jesteœ Celile czy nie?~
+@40   = ~Wybacz, pójdê ju¿.~
+@41   = ~Nie... cii... no dobrze, jestem Celile. Czego chcesz?~
+@42   = ~Prawda, umiem zadbaæ o swoje finanse, ale nie s³ucham plotek rozpuszczanych na ulicach. No dobrze, nie mogê d³u¿ej marnowaæ czasu. Mi³ego dnia.~
+@43   = ~Zapewniam pieni¹dze potrzebuj¹cym, które musz¹ mi zwróciæ po pewnym czasie, oczywiœcie z niewielkim procentem.~
+@44   = ~A jeœli nie s¹ w stanie oddaæ ca³ej sumy?~
+@45   = ~To oburzaj¹ce! Wykorzystujesz ludzk¹ niedolê.~
+@46   = ~To strata czasu. Co oni ciê obchodz¹?~
+@47   = ~Rozumiem. Zastanawiam siê, czy mo¿e mi te¿ móg³byœ po¿yczyæ trochê z³ota?~
+@48   = ~W porz¹dku, to jest jasne, ale jak w³aœciwie prowadzisz jakiekolwiek interesy? Niespecjalnie chcesz powiedzieæ, czym siê zajmujesz.~
+@49   = ~Jak w ogóle robisz te swoje interesy? Niespecjalnie chcesz powiedzieæ, czym siê zajmujesz.~
+@50   = ~Nie martwi ciê, ¿e Z³odzieje Cienia mog¹ mieæ coœ przeciwko temu, ¿e dzia³asz na ich terenie?~
+@51   = ~Robi³eœ interesy z kobiet¹ o imieniu Moiya?~
+@52   = ~Ach. Có¿, pójdê ju¿.~
+@53   = ~Informacja mo¿e przebyæ d³ug¹ drogê. Jeœli dowiem siê, ¿e ktoœ potrzebuje pieniêdzy, czy to arystokrata czy ktoœ z pospólstwa, wysy³am do nich swoich wspó³pracowników z ofert¹.~
+@54   = ~Oczywiœcie, ostro¿noœæ jest nieodzowna, gdyby moje imiê dotar³o do nieodpowiednich uszu, moja dzia³alnoœæ nie potrwa³aby d³ugo.~
+@55   = ~Chodzi o Z³odziei Cienia, prawda? Nie spodoba³oby im siê, ¿e dzia³asz na ich terytorium?~
+@56   = ~Czemu obchodz¹ ciê k³opoty finansowe innych?~
+@57   = ~Rozumiem. No có¿, nie mam nic przeciwko szemranym interesom. Zastanawiam siê, czy mi te¿ móg³byœ po¿yczyæ trochê z³ota?~
+@58   = ~Prawdê mówi¹c zupe³nie mnie nie obchodz¹. Tak po prostu zarabiam na ¿ycie. Zupe³nym przypadkiem wzajemnie sobie pomagamy.~
+@59   = ~Z³odzieje Cienia? Ha! S¹ zbyt zajêci swoj¹ wojn¹ gildii. Stosuj¹ przereklamowane, czy nawet... archaiczne praktyki biznesowe.~
+@60   = ~Z³odzieje Cienia? Ha! S¹ zbyt zajêci lizaniem ran po tym, co ich ostatnio spotka³o. Stosuj¹ przereklamowane, czy nawet... archaiczne praktyki biznesowe.~
+@61   = ~Wtedy stosujê pewne... œrodki, by ich zmotywowaæ. Ale to ju¿ dzia³ka moich wspó³pracowników, nie moja.~
+@62   = ~Nie wypowiem siê na temat stosowanych metod. Jak mówi³em, to nie moja dzia³ka.~
+@63   = ~To jest biznes, przyjacielu. Jeœli w jego wyniku strac¹, to ju¿ nie moja wina.~ ~To jest biznes, przyjació³ko. Jeœli w jego wyniku strac¹, to ju¿ nie moja wina.~
+@64   = ~Co siê dzieje, kiedy nie s¹ w stanie zwróciæ po¿yczonych pieniêdzy?~
+@65   = ~Byæ mo¿e. To zale¿y. Ile chcesz po¿yczyæ?~
+@66   = ~1 sztukê z³ota.~
+@67   = ~100 sztuk z³ota.~
+@68   = ~1000 sztuk z³ota.~
+@69   = ~5000 sztuk z³ota.~
+@70   = ~10 000 sztuk z³ota.~
+@71   = ~25 000 sztuk z³ota.~
+@72   = ~50 000 sztuk z³ota.~
+@73   = ~A ile masz?~
+@74   = ~W³aœciwie w tej chwili wolê nic nie po¿yczaæ.~
+@75   = ~Wiêc nie marnuj mojego czasu. Nie mam czasu na bezsensowne pogaduszki.~
+@76   = ~COOO?! Nie marnuj mojego czasu. Nie cierpiê takich ¿artownisiów jak ty!~
+@77   = ~Dosyæ ¿a³osna sumka. Ale niech tak bêdzie, zapewniê ci j¹ bez przeszkód. Oczywiœcie, je¿eli przyjmujesz warunki umowy.~
+@78   = ~Po¿yczka ma zostaæ sp³acona w ci¹gu dwóch dni, wraz z procentem w wysokoœci 25 sztuk z³ota. Inaczej zostan¹ podjête kroki maj¹ce na celu... zachêcenie ciê do sp³aty.~
+@79   = ~Jeœli nadal bêdziesz przetrzymywaæ moje pieni¹dze, to najlepiej nie pokazuj siê wiêcej w tym mieœcie.~
+@80   = ~No dobrze. Daj mi pieni¹dze.~
+@81   = ~Zmieniam zdanie. Nie chcê tych pieniêdzy.~
+@82   = ~Sensowna suma. Oczywiœcie jestem w stanie ci j¹ po¿yczyæ. To znaczy, je¿eli przyjmujesz warunki umowy.~
+@83   = ~Po¿yczka ma zostaæ sp³acona w ci¹gu czterech dni, wraz z procentem w wysokoœci 250 sztuk z³ota. Inaczej zostan¹ podjête kroki maj¹ce na celu... zachêcenie ciê do sp³aty.~
+@84   = ~To znaczna suma. Ale mogê ci j¹ po¿yczyæ. To znaczy, jeœli rozumiesz warunki umowy.~
+@85   = ~Po¿yczka ma zostaæ sp³acona w ci¹gu szeœciu dni, wraz z procentem w wysokoœci 1250 sztuk z³ota. Inaczej zostan¹ podjête kroki maj¹ce na celu... zachêcenie ciê do sp³aty.~
+@86   = ~Zaraz, zaraz. Nie tak szybko. Ledwo ciê znam... Wydaje ci siê, ¿e ot tak po¿yczê ci tak wielk¹ sumê pieniêdzy?~
+@87   = ~Jestem gotów po¿yczyæ ci mniejsz¹ sumê, ale musisz mi udowodniæ, ¿e sp³acasz swoje d³ugi, zanim przejdziemy do wy¿szych kwot.~
+@88   = ~A zatem ile potrzebujesz?~
+@89   = ~Ha ha ha, mam nadziejê ¿e to by³ ¿art. Ledwo ciê znam... Wydaje ci siê, ¿e ot tak po¿yczê ci tak wielk¹ sumê pieniêdzy?~
+@90   = ~Ach, spryciarz z ciebie, co? Mam wystarczaj¹co. To wszystko co musisz wiedzieæ. Wiêc ile potrzebujesz?~
+@91   = ~Znowu tutaj? Potrzebujesz czegoœ ode mnie?~ [d0lend02]
+@92   = ~Chcê po¿yczyæ trochê pieniêdzy.~
+@93   = ~Nie, niewa¿ne.~
+@94   = ~Ile potrzebujesz?~
+@95   = ~Proszê, oto twoje pieni¹dze. Pamiêtaj, 125 sztuk z³ota w ci¹gu dwóch dni. Bywaj.~
+@96   = ~Proszê, oto twoje pieni¹dze. Pamiêtaj, 1250 sztuk z³ota w ci¹gu czterech dni. Bywaj.~
+@97   = ~Proszê, oto twoje pieni¹dze. Pamiêtaj, 6250 sztuk z³ota w ci¹gu szeœciu dni. Bywaj.~
+
+@98   = ~Ach, wiêc powracasz. Ufam, ¿e masz nale¿ne mi pieni¹dze?~ [d0lend03]
+@99   = ~Mo¿esz mi przypomnieæ, jak¹ sumê muszê ci zwróciæ?~
+@100  = ~Ile jeszcze dni do zwrotu mi zosta³o?~
+@101  = ~Tak, mam je.~
+@102  = ~Nie, jeszcze nie.~
+@103  = ~Wolê zatrzymaæ je na trochê d³u¿ej.~
+@104  = ~Mogê po¿yczyæ trochê wiêcej?~
+@105  = ~Musisz zwróciæ 125 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@106  = ~Musisz zwróciæ 1250 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@107  = ~Musisz zwróciæ 6250 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@108  = ~Musisz zwróciæ 12 500 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@109  = ~Musisz zwróciæ 31 250 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@110  = ~Musisz zwróciæ 62 500 sztuk z³ota. Naprawdê lepiej tego nie zapominaj.~
+@111  = ~Doskonale. Interesy z tob¹ to czysta przyjemnoœæ. Jeœli bêdziesz jeszcze czegoœ potrzebowaæ, nie wahaj siê pytaæ.~ [d0lend08]
+@112  = ~Mogê po¿yczyæ trochê wiêcej z³ota?~
+@113  = ~Na razie niczego nie potrzebujê.~
+@114  = ~W porz¹dku. Mam jednak nadziejê, ¿e zwrócisz je w terminie.~
+@115  = ~S³usznie zrobisz, jeœli w przysz³oœci sam<HESHE> bêdziesz pamiêtaæ o takich rzeczach. Chwilê, muszê sprawdziæ w zapiskach.~
+@116  = ~Zosta³o ci dziesiêæ dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@117  = ~Zosta³o ci dziewiêæ dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@118  = ~Zosta³o ci osiem dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@119  = ~Zosta³o ci siedem dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@120  = ~Zosta³o ci szeœæ dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@121  = ~Zosta³o ci piêæ dni. Du¿o czasu, by zebraæ fundusze na sp³atê.~
+@122  = ~Zosta³y ci cztery dni. To doœæ czasu, by zebraæ fundusze na sp³atê, mam nadziejê.~
+@123  = ~Zosta³y ci trzy dni. To doœæ czasu, by zebraæ fundusze na sp³atê, mam nadziejê.~
+@124  = ~Zosta³y ci dwa dni. Mam nadziejê, ¿e zdo³asz na czas zwróciæ mi moje pieni¹dze?~
+@125  = ~Zosta³ ci jeszcze tylko jeden dzieñ. Mam nadziejê, ¿e zdo³asz na czas zwróciæ mi moje pieni¹dze?~
+@126  = ~Nie mo¿esz po¿yczyæ ¿adnej kwoty, dopóki nie sp³acisz tej, któr¹ ju¿ ci po¿yczy³em. Jeœli dokonasz tego w wyznaczonym czasie, mo¿emy porozmawiaæ o dalszych transakcjach.~
+@127  = ~Jak sobie ¿yczysz. Mam nadziejê, ¿e bêdziesz w stanie zwróciæ pieni¹dze, kiedy nadejdzie czas. Inaczej bêdê musia³ wyci¹gn¹æ wobec ciebie... konsekwencje.~
+@128  = ~Zatem bywaj. Wróæ, jeœli bêdziesz chcia³<HESHE> prowadziæ dalsze interesy.~
+@129  = ~Ile zatem potrzebujesz, przyjacielu?~ ~Ile zatem potrzebujesz, przyjació³ko?~
+@130  = ~Obawiam siê, ¿e nie mogê po¿yczyæ ci takiej sumy
+ natychmiastowo. Wróæ jutro, wtedy omówimy tê sprawê. Ale mo¿e chcesz po¿yczyæ nieco mniejsz¹ iloœæ z³ota?~
+@131  = ~Obawiam siê, ¿e nie mogê po¿yczyæ ci takiej sumy natychmiastowo. Wróæ za dwa dni, wtedy omówimy tê sprawê. Ale mo¿e chcesz po¿yczyæ nieco mniejsz¹ iloœæ z³ota?~
+@132  = ~Obawiam siê, ¿e nie mogê po¿yczyæ ci takiej sumy natychmiastowo. Wróæ za trzy dni, wtedy omówimy tê sprawê. Ale mo¿e chcesz po¿yczyæ nieco mniejsz¹ iloœæ z³ota?~
+@133  = ~Powracasz? Mogê w czymœ s³u¿yæ? Mo¿e potrzeba ci wiêcej pieniêdzy?~ [d0lend04]
+@134  = ~Tak, chcia³<HESHE>bym po¿yczyæ wiêcej z³ota.~
+@135  = ~Nie rób sobie ze mnie ¿artów, przyjacielu. To, ¿e raz robiliœmy interesy, nie oznacza, ¿e mo¿esz marnowaæ mój czas.~ ~Nie rób sobie ze mnie ¿artów, przyjació³ko. To, ¿e raz robiliœmy interesy, nie oznacza, ¿e mo¿esz marnowaæ mój czas.~
+@136  = ~O, raczej skromna sumka, nie uwa¿asz? Ale oczywiœcie, zapewniê ci j¹.~
+@137  = ~Warunki s¹ takie jak wczeœniej. Masz dwa dni, a procent wynosi 25 sztuk z³ota. Mam nadziejê, ¿e nasze interesy pójd¹ tak dobrze jak poprzednio.~
+@138  = ~Niezbyt imponuj¹ca suma. Ale oczywiœcie zapewniê ci j¹.~
+@139  = ~Warunki s¹ takie jak wczeœniej. Masz cztery dni, a procent wynosi 250 sztuk z³ota. Mam nadziejê, ¿e nasze interesy pójd¹ tak dobrze jak poprzednio.~
+@140  = ~Nie jest to k³opotliwa suma. Po¿yczê ci j¹.~
+@141  = ~Warunki s¹ takie jak wczeœniej. Masz szeœæ dni, a procent wynosi 1250 sztuk z³ota. Mam nadziejê, ¿e nasze interesy pójd¹ tak dobrze jak poprzednio.~
+@142  = ~Ach, teraz mo¿emy zaj¹æ siê wiêkszymi sumami. To s¹ prawdziwe pieni¹dze.~
+@143  = ~Warunki s¹ takie jak wczeœniej. Masz osiem dni, a procent wynosi 2500 sztuk z³ota. Mam nadziejê, ¿e nasze interesy pójd¹ tak dobrze jak poprzednio.~
+@144  = ~Warunki s¹ takie jak wczeœniej. Masz dziesiêæ dni, a procent wynosi 6250 sztuk z³ota. Mam nadziejê, ¿e nasze interesy pójd¹ tak dobrze jak poprzednio.~
+@145  = ~Chcia³<HESHE>byœ po¿yczyæ tak ogromn¹ sumê? Ja... eee... obawiam siê, ¿e nie mogê zapewniæ ci tak wiele. Mam te¿ innych klientów.~
+@146  = ~Czy jest jakaœ mniejsza suma, która mog³aby ciê usatysfakcjonowaæ?~
+@147  = ~Poza tym, przyjacielu, i tak mojego z³ota na pewno wystarczy na wszystko, co zechcesz. Ile potrzebujesz?~
+@148  = ~Proszê bardzo. Pamiêtaj, 12 500 sztuk z³ota za osiem dni. Bywaj.~
+@149  = ~Proszê bardzo. Pamiêtaj, 31 250 sztuk z³ota za dziesiêæ dni. Bywaj.~
+@150  = ~Nadszed³ termin sp³aty. Mam nadziejê, ¿e masz przy sobie pieni¹dze.~ [d0lend05]
+@151  = ~D³ug wynosi 125 sztuk z³ota. Masz tak¹ kwotê?~
+@152  = ~D³ug wynosi 1250 sztuk z³ota. Masz tak¹ kwotê?~
+@153  = ~D³ug wynosi 6250 sztuk z³ota. Masz tak¹ kwotê?~
+@154  = ~D³ug wynosi 12 500 sztuk z³ota. Masz tak¹ kwotê?~
+@155  = ~D³ug wynosi 31 250 sztuk z³ota. Masz tak¹ kwotê?~
+@156  = ~D³ug wynosi 62 500 sztuk z³ota. Masz tak¹ kwotê?~
+@157  = ~Najwy¿szy czas. Czy potrzeba ci czegoœ jeszcze?~
+@158  = ~Wiêc je zdob¹dŸ albo nie pokazuj mi siê na oczy! Ba, ¿eby tak bezczelnie kraœæ moje pieni¹dze!~
+@159  = ~I tak przetrzymujesz je d³u¿ej, ni¿ obowi¹zywa³a umowa. Zdob¹dŸ je albo nie pokazuj mi siê na oczy! Ba, ¿eby tak bezczelnie kraœæ moje pieni¹dze!~
+@160  = ~Masz tupet, ¿eby prosiæ o wiêcej. Oddaj mi, coœ winien albo nie pokazuj mi siê na oczy! Ba, ¿eby tak bezczelnie kraœæ moje pieni¹dze!~ ~Masz tupet, ¿eby prosiæ o wiêcej. Oddaj mi, coœ winna albo nie pokazuj mi siê na oczy! Ba, ¿eby tak bezczelnie kraœæ moje pieni¹dze!~
+@161  = ~Moja cierpliwoœæ siê koñczy. Masz moje pieni¹dze?~ [d0lend06]
+@162  = ~Byæ mo¿e tak by³o, ale nie powinno ciê to interesowaæ. Nie zwyk³em rozmawiaæ o moich innych klientach.~
+@163  = ~A wiêc znasz j¹. Rozumiem, ¿e jest ci winna pewn¹ sumê pieniêdzy, której nie jest w stanie sp³aciæ?~
+@164  = ~Radzê ci jednak porozmawiaæ, poniewa¿ ja nie zwyk³em przyjmowaæ odmownych odpowiedzi.~ ~Radzê ci jednak porozmawiaæ, poniewa¿ ja nie zwyk³am przyjmowaæ odmownych odpowiedzi.~
+@165  = ~Mam rozumieæ, ¿e zaznajomi³a ciê w jakimœ stopniu z sytuacj¹? Niech ci bêdzie. Udzieli³em jej po¿yczki w wysokoœci 5000 sztuk z³ota. Dosta³a szeœæ dni na zwrot 6250 sztuk z³ota, a teraz mówi mi, ¿e nie jest w stanie.~
+@166  = ~Co mia³em zrobiæ? Nie mogê pozwalaæ ludziom tak sobie przetrzymywaæ moich pieniêdzy, czasami jestem zmuszony ostrzej domagaæ siê zwrotu.~
+@167  = ~A co jeœli wci¹¿ nie ma z czego ci oddaæ?~
+@168  = ~Spokojnie. Zak³adam, ¿e nakreœli³a ci ju¿ nieco swoje po³o¿enie, zatem nie widzê przeszkód, by opowiedzieæ ci wiêcej.~
+@169  = ~Dobrze wiêc. Po¿yczy³em jej 5000 sztuk z³ota. Otrzyma³a szeœæ dni na sp³atê ³¹cznej kwoty 6250 sztuk z³ota, a teraz mówi, ¿e nie ma tyle.~
+@170  = ~W takiej sytuacji moi wspó³pracownicy sk³adaj¹ jej wizytê, przypominaj¹ o koniecznoœci sp³aty i ustalaj¹, czy posiada coœ wartoœciowego, co mo¿e pójœæ na poczet uregulowania rachunków ze mn¹.~
+@171  = ~Poza tym, nic jej nie grozi, jeœli tego siê obawia. Nie jestem potworem. Za to jestem bardzo zapracowanym cz³owiekiem i nie mogê ca³ymi dniami konwersowaæ.~
+@172  = ~Ponawiam pytanie, czy masz moj¹ nale¿noœæ? Mam doœæ twojego zwlekania.~
+@173  = ~Ponawiam pytanie, czy masz moj¹ nale¿noœæ? Nadszed³ termin sp³aty.~
+@174  = ~Mi³ego dnia. Nie zapomnij, ¿e masz u mnie d³ug. Bo ja z pewnoœci¹ nie zapomnê.~
+@175  = ~Mi³ego dnia. I nie zawracaj mi wiêcej g³owy ka¿d¹ przypadkow¹ kobiet¹, która prosi ciê o pomoc. Mam nadziejê, ¿e weŸmiesz to sobie do serca.~
+@176  = ~TY?! Jakim cudem uda³o ci siê œledziæ mnie a¿ tutaj? Niech to szlag! ¯ywcem mnie nie weŸmiesz!~ [d0lend07]
+@177  = ~Pozwolisz, ¿e przedstawiê ci swoj¹ now¹ ekipê. Braæ ich!~
+@178  = ~Mordobicie za z³oto, co? A tak na wypadek, jakby ta grupa pomagierów siê rozpad³a, jakie s¹ z tego pieni¹dze?~
+@179  = ~Oczywiœcie! Nie martw siê o pieni¹dze! Minsc i Boo prêdzej wspiêliby siê na najwy¿sze szczyty Rashemenu w samej bieliŸnie ni¿ zapomnieli ci sp³aciæ d³ug!~
+
+@180 = ~Myœlisz, ¿e uda ci siê wywin¹æ bez sp³acania d³ugu? Lepiej siê nad tym jeszcze raz zastanów! Przybyliœmy, ¿eby zabraæ to, co nale¿y siê naszemu szefowi.~
+@181 = ~Myœlisz, ¿e skoro Celile nie ¿yje, nie musisz sp³acaæ swojego d³ugu? Lepiej siê nad tym jeszcze raz zastanów! Przybyliœmy, ¿eby zabraæ to, co nale¿y siê naszemu szefowi.~
+@182 = ~Przeka¿esz nam teraz 125 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@183 = ~W porz¹dku. Trzymaj.~
+@184 = ~Proszê, weŸcie to! Nie róbcie mi krzywdy!~
+@185 = ~Nic nie dostaniesz. Radzê, ¿ebyœ w tej chwili odwróci³ siê na piêcie i st¹d znikn¹³.~
+@186 = ~Wybacz, nie mam tyle! Mo¿e siê jakoœ dogadamy?~
+@187 = ~Obawiam siê, ¿e w tej chwili nie dysponujê tak¹ sum¹. Daj mi trochê czasu, a wrócê do ciebie z pieniêdzmi.~
+@188 = ~Przeka¿esz nam teraz 1250 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@189 = ~Nic nie dostaniesz. Radzê, ¿ebyœ w tej chwili przesta³ mi groziæ i odszed³.~
+@190 = ~Przeka¿esz nam teraz 6250 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@191 = ~Przeka¿esz nam teraz 12 500 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@192 = ~Przeka¿esz nam teraz 31 250 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@193 = ~Przeka¿esz nam teraz 62 500 sztuk z³ota albo zabierzemy je z twoich krwawi¹cych zw³ok.~
+@194 = ~Dobrze czynisz nie sprzeciwiaj¹c siê. Nasze interesy dobieg³y koñca. Mi³ego dnia.~
+@195 = ~Nie jesteœ w pozycji do negocjacji. Jeœli nie dasz nam pieniêdzy, sami je weŸmiemy.~
+@196 = ~Nie bêdzie ¿adnych negocjacji. Jeœli nie dasz nam pieniêdzy, sami je weŸmiemy.~
+@197 = ~Em, witaj. Czy pomo¿esz kobiecie w potrzebie?~ [d0moiya0] 
+@198 = ~Oczywiœcie. Czego ode mnie chcesz?~
+@199 = ~Zale¿y, co mi z tego przyjdzie.~
+@200 = ~Przykro mi, ale nie mam teraz czasu.~ 
+@201 = ~Dlaczego mam pomagaæ takiemu œmieciowi jak ty?~
+@202 = ~Jeœli przez "pomoc" rozumiesz "rozprucie flaków", to tak, oczywiœcie.~ 
+@203 = ~Och, niech bogowie ci sprzyjaj¹, <PRO_LADYLORD>! Pozwól, ¿e wyjaœniê, o co mi chodzi.~ [d0moiya1]
+@204 = ~Na imiê mam Moiya... Jestem biedn¹ kobiet¹. Mój m¹¿ przez jakiœ czas studiowa³ sztuki magiczne, zarabia³ doœæ, byœmy mogli siê razem utrzymaæ. Ale potem pojawili siê Zakapturzeni Czarodzieje.~
+@205 = ~Pewnego dnia go zabrali. Powiedzieli, ¿e jest "dewiantem" i zamknêli go w Czarowiêzach. To by³o cztery lata temu, od tej pory go nie widzia³am.~ 
+@206 = ~I zosta³am sama, matka z piêciorgiem dzieci. Samiutka. By³o mi ciê¿ko, ale kap³ani ze œwi¹tyni Ilmatera mi pomagali.~
+@207 = ~To jednak nie wystarcza³o. Wychowanie dzieci w mieœcie kosztuje, na pewno to rozumiesz. Bardzo potrzebowa³am pieniêdzy, wiêc posz³am do pewnego mê¿czyzny imieniem Celile, ¿eby po¿yczyæ pieni¹dze.~ 
+@208 = ~Da³ mi po¿yczkê. Ale nie mam z czego jej sp³aciæ, a on nie jest zbyt ¿yczliwym cz³owiekiem, delikatnie mówi¹c. Nie wiem, co siê stanie, jeœli go nie sp³acê.~
+@209 = ~Ile jesteœ mu d³u¿na?~
+@210 = ~Có¿ za przypadek. Tak siê sk³ada, ¿e ju¿ go zabi³em.~ ~Có¿ za przypadek. Tak siê sk³ada, ¿e ju¿ go zabi³am.~
+@211 = ~Có¿, to nie mój problem. RadŸ sobie sama.~ 
+@212 = ~On... nie ¿yje? Nie myœla³am o takim rozwi¹zaniu, <PRO_LADYLORD>. Chyba powinnam ci podziêkowaæ, ale... nie chcê mieæ z tym nic wspólnego. ¯egnaj.~
+@213 = ~Chyba nie mam zbyt wiele do zaoferowania. Czy mimo wszystko mnie wys³uchasz?~ 
+@214 = ~Oczywiœcie, <PRO_LADYLORD>. Nie chcia³am przeszkadzaæ. Poszukam pomocy gdzie indziej.~ 
+@215 = ~Wybacz, <PRO_LADYLORD>. Nie chcia³am przeszkadzaæ. Poszukam pomocy gdzie indziej.~
+@216 = ~Proszê, <PRO_LADYLORD>, nie krzywdŸ mnie! Jestem matk¹ z piêciorgiem dzieci! Aaaach!~ 
+@217 = ~Po¿yczy³am od niego 5000 sztuk z³ota, a do tego dochodzi jeszcze 1250 sztuk z³ota lichwy. To razem bêdzie...~
+@218 = ~Jestem prost¹ kobiet¹! Mój m¹¿ by³ magiem! Ja... eee... 6250 sztuk z³ota razem!~
+@219 = ~Mam tyle z³ota, ile potrzebujesz. WeŸ je.~
+@220 = ~Nie ma siê o co martwiæ. Tak siê sk³ada, ¿e ju¿ go zabi³em.~ ~Nie ma siê o co martwiæ. Tak siê sk³ada, ¿e ju¿ go zabi³am.~
+@221 = ~To ca³kiem sporo. Czego oczekujesz ode mnie?~
+@222 = ~Mo¿e uda mi siê z nim porozmawiaæ i dojœæ do jakiegoœ porozumienia?~
+@223 = ~Mo¿e... Mo¿e uda³oby ci siê coœ z nim wynegocjowaæ? Sama nie wiem. Mo¿e przekonasz go do wyd³u¿enia terminu? B³agam!~
+@224 = ~W porz¹dku, porozmawiam z nim.~
+@225 = ~To nie moja sprawa. Sama z nim porozmawiaj.~
+@226 = ~Och, dziêkujê! Mo¿e przekonasz go, ¿eby wyd³u¿y³ termin sp³aty?~
+@227 = ~To nie brzmi jak trudne zadanie. Dlaczego sama tego nie zrobisz?~
+@228 = ~Naprawdê? Dziêki bogom i dziêki tobie za tw¹ szczodroœæ, <PRO_LADYLORD>! Jestem twoj¹ d³u¿niczk¹ na wieki!~
+@229 = ~Od razu ruszam, ¿eby pozbyæ siê tego okropnego d³ugu.~ [d0moiya2]
+@230 = ~Có¿ za ulga! Celile'a znajdziesz w Miedzianym Diademie. Och, mam nadziejê, ¿e ci siê uda. Tak bardzo siê ba³am... nie mia³am serca powiedzieæ o tym moim dzieciom.~
+@231 = ~Nie mogê! Za bardzo siê bojê! Celile to z³y cz³owiek, a ty wygl¹dasz na osobê, która da sobie z nim radê.~
+@232 = ~Ciê¿ka sprawa. Nie pomogê ci.~
+@233 = ~Ja te¿ nie jestem zbyt ¿yczliw¹ osob¹, wiêc lepiej siê pilnuj!~
+@234 = ~Dobra, dobra. Pójdê z nim pogadaæ.~
+@235 = ~Nie ma siê czym martwiæ. Tak siê sk³ada, ¿e ju¿ go zabi³em.~ ~Nie ma siê czym martwiæ. Tak siê sk³ada, ¿e ju¿ go zabi³am.~
+@236 = ~Och, po prostu weŸ z³oto i idŸ siê z nim zobaczyæ. Ja mam ju¿ doœæ.~
+@237 = ~Proszê, pospiesz siê, <PRO_LADYLORD>, porozmawiaj z Celilem.~
+@238 = ~Czy uda³o siê porozmawiaæ z Celilem? Co powiedzia³? Czy wszystko jest w porz¹dku?~ [d0moiya3]
+@239 = ~Tak, rozmawialiœmy. Mówi, ¿e nie masz siê czego obawiaæ.~
+@240 = ~Zmarnowa³aœ mój czas, kobieto. Nie ma ¿adnego problemu. Teraz lepiej zabieraj siê do roboty, ¿eby mieæ z czego sp³aciæ d³ug.~
+@241 = ~Naprawdê? Och, wspaniale! Czuje siê teraz znacznie lepiej. Pójdê i bêdê pracowaæ na sp³atê d³ugu. Jeszcze raz dziêkujê!~
+@242 = ~Ja... Przepraszam, ¿e zmarnowa³am twój czas. Ale czujê siê lepiej, wiedz¹c, ¿e nie ma problemu. Pójdê i bêdê pracowaæ na sp³atê d³ugu. Jeszcze raz dziêkujê!~
+@243 = ~<PRO_LADYLORD>! Pomocy!~
+@244 = ~Aaach... uuuch...~
+@245 = ~Tak... w... w porz¹dku. To... to byli ludzie Celile'a.~
+@246 = ~Eian, biegnij do domu i upewnij siê, czy twoje siostry s¹ bezpieczne. Och, tak mi przykro! Po co w ogóle zadawa³am siê z nim. Biegnij!~
+@247 = ~Dobrze. Jestem pewna, ¿e nic im nie jest, ale i tak lepiej ju¿ idŸ. Muszê porozmawiaæ z <MANWOMAN>¹.~
+@248 = ~NajwyraŸniej Celile sk³ama³, mówi¹c, ¿e nie mam siê czego obawiaæ. Widzisz z kim mamy tu do czynienia, <PRO_LADYLORD>?~ [d0moiya4]
+@249 = ~Powinnam od razu zdaæ sobie sprawê z tego, co z niego za cz³owiek. Powiedzia³ mi o konsekwencjach w przypadku, gdy nie zap³acê. Jestem pewna, ¿e to nie ostatni raz... Och, tak bardzo martwiê siê o moje dzieci!~
+@250 = ~Mam Eiana i cztery piêkne dziewczynki. Nie wiem, co zrobiê, jeœli coœ im siê stanie! I co one zrobi¹, jeœli ja zginê? Najpierw ich ojciec, a teraz to!~
+@251 = ~Zniknê³a? Jak to mo¿liwe? Na bogów, mam nadziejê, ¿e nic siê jej nie sta³o!~
+@252 = ~Jest tak, jak siê obawia³am. (chlip) Celile zna czu³y punkt mojej matki. Có¿ mo¿na zrobiæ? Proszê, <PRO_LADYLORD>, czy pomo¿esz znaleŸæ ma³¹ Carlê? (chlip)~
+@253 = ~B³agam, idŸ i porozmawiaj z Celilem, zobacz, czego on chce. Muszê odnaleŸæ moje dziecko!~
+@254 = ~Czy... Czy wiadomo coœ ju¿ o mojej Carli, <PRO_LADYLORD>? B³agam, powiedz, ¿e ju¿ coœ wiesz!~ [d0moiya5]
+@255 = ~Jeden ze zbirów Celile'a poda³ warunki. Mam jeden dzieñ na sp³atê d³ugu 6250 sztuk z³ota albo dziewczynka zginie.~
+@256 = ~D³ug zosta³ sp³acony, odbiorê twoj¹ córkê ze wskazanej kryjówki w jednej z krypt na cmentarzu.~
+@257 = ~Uda³o mi siê wydusiæ si³¹ informacjê od jednego ze zbirów Celile'a. Twoja córka jest ukryta w jednej z krypt na cmentarzu.~
+@258 = ~D³ug nie zosta³ sp³acony we wskazanym czasie, zbir powiedzia³, ¿e twoja córka ju¿ nie ¿yje.~
+@259 = ~Obawiam siê, ¿e twoja córka nie ¿yje. Nie uda³o nam siê jej uratowaæ.~
+@260 = ~Przykro mi, jeszcze nic nie wiem.~
+@261 = ~Proszê, nie poddawaj siê. Jesteœ jedyn¹ nadziej¹ zrozpaczonej matki! Co wiêcej mogê zrobiæ?~
+@262 = ~Zabij¹ j¹? Och... och... musisz ich powstrzymaæ! Jakkolwiek! Zrób, co tylko bêdzie trzeba, proszê!~
+@263 = ~W jednej z krypt? Jest martwa? Och... och... mówisz, ¿e tam j¹ tylko przetrzymuj¹. Ach. Dziêki ci! Dziêki ci, <PRO_LADYLORD>!~
+@264 = ~Jest martwa? Nie... Nie... Jak powiem o tym reszcie? Tak mi przykro! To wszystko moja wina!~ [d0moiya6]
+@265 = ~Dziêki ci, <PRO_LADYLORD>. Wiem, ¿e nic wiêcej nie mo¿na by³o zrobiæ... Teraz jesteœmy rozbit¹ rodzin¹. Muszê ju¿ iœæ, zaj¹æ siê moimi pozosta³ymi dzieæmi. ¯egnaj. (³ka)~ [d0moiya7]
+@266 = ~Och, jestem taka szczêœliwa, ¿e Carla jest ca³a i zdrowa! Dziêki ci, <PRO_LADYLORD>. Wybacz, ale nie mam nic, czym mog³abym ci siê odwdziêczyæ za twe czyny. Uda³o ci siê zdj¹æ wielki ciê¿ar z moich barków.~ [d0moiya8]
+@267 = ~Skoro Celile'a ju¿ nie ma, moje problemy tak¿e powinny siê skoñczyæ. Znów jesteœmy rodzin¹. Có¿... Prawie. Musze ju¿ iœæ. Jeszcze raz ci dziêkujê!~ [d0moiya9]
+@268 = ~¯a³osne. Naziemcy jak zwykle trac¹ czas i œrodki na beznadziejnie s³abe osobniki.~
+@269 = ~Szybciej, braæ j¹!~
+
+@270  = ~Ach, <CHARNAME>, jak mniemam? Celile wspomina³, ¿e mo¿esz siê zjawiæ. Chodzi o sprawê tej kobiety, Moiyi, tak?~
+@271  = ~Wobec tego pos³uchaj naszych ¿¹dañ. Nale¿ne nam z³oto ma zostaæ zwrócone w ci¹gu dwudziestu czterech godzin albo dziewczynka zginie. Suma, jak zapewne dobrze wiesz, wynosi 6250 sztuk z³ota.~
+@272  = ~Bêdê czeka³ w po³udniowej czêœci slumsów, a¿ dostarczysz z³oto. Nie próbuj ¿adnych sztuczek.~
+@273  = ~Och, a je¿eli szukasz samego Celile'a, daruj sobie. Nie znajdziesz go w Diademie.~
+@274  = ~A wiêc jesteœ. Masz pieni¹dze? Dla dobra tej dziewczynki mam nadziejê, ¿e odpowiedŸ brzmi "tak".~
+@275  = ~(Sk³am) Tak, mam je tutaj.~
+@276  = ~Nie, ale nied³ugo je zdobêdê.~
+@277  = ~Nie dostaniesz ode mnie ¿adnych pieniêdzy!~
+@278  = ~Mów, gdzie jest dziewczynka albo ciê zabijê.~
+@279  = ~Dobrze. Rych³o w czas. Wobec tego, przeka¿ mi je.~
+@280  = ~Oto one.~
+@281  = ~W³aœciwie wcale ich nie mam.~
+@282  = ~Jak¹ mam gwarancjê, ¿e wypuœcisz dziewczynkê, kiedy oddam ci z³oto?~
+@283  = ~Mam tak¹ nadziejê. Tylko dlaczego tu stoisz i ze mn¹ rozmawiasz? Lepiej postaraj siê jak najszybciej uzyskaæ potrzebn¹ sumê.~
+@284  = ~Radzê ci to przemyœleæ, jeœli naprawdê zale¿y ci na losie tej dziewczyny. Skoro nie masz pieniêdzy, sugerujê ci nie wracaæ, dopóki to siê nie zmieni.~
+@285  = ~Daj spokój. Zabicie mnie nie u³atwi twoich poszukiwañ. Zaatakuj mnie, jeœli chcesz, ale w ten sposób tylko przyspieszysz jej œmieræ.~
+@286  = ~W takim razie nie marnuj mojego czasu. Lepiej szukaj funduszy, zamiast urz¹dzaæ sobie pogawêdki.~
+@287  = ~To ju¿ twój problem, nie mój. Jednak¿e jestem sk³onny pójœæ na kompromis. Zdradzê ci, ¿e trzymamy j¹ gdzieœ pod ziemi¹. Daj mi z³oto, a powiem gdzie dok³adnie.~
+@288  = ~Ach, tak, wszystko siê zgadza. Teraz mo¿emy przejœæ do konkretów. Dziewczyna znajduje siê w Dzielnicy cmentarnej, w jednej z krypt. Poinformujê resztê, ¿eby j¹ uwolnili. Dalej szukaj jej na w³asn¹ rêkê.~
+@289  = ~Doœæ! Doœæ! Powiem ci wszystko, co wiem!~
+@290  = ~Dziewczynka jest przetrzymywana w jednej z krypt w Dzielnicy cmentarnej! Pilnuj¹ jej przez ca³y czas inni wspó³pracownicy Celile'a.~
+@291  = ~A teraz wynoszê siê st¹d!~
+@292  = ~Pojawiasz siê zbyt póŸno. Dziewczyna teraz umrze. Tragiczny los, ale mo¿esz winiæ tylko siebie.~
+@293  = ~Co do... jak uda³o ci siê nas tu znaleŸæ?~
+@294  = ~Ba, a co to w ogóle ma za znaczenie? Zabijmy ich, zanim narobi¹ ha³asu.~
+@295 = ~Eee, czeœæ. Kim jesteœ? Czy mama ciê przys³a³a?~
+@296 = ~Tak, mo¿esz odejœæ.~
+@297 = ~IdŸ, znajdŸ swoj¹ matkê i podziêkuj bogom, ¿e jeszcze ¿yjesz.~
+@298 = ~Och, dziêkujê! Tak bardzo siê ba³am...~
+@299  = ~Znów bêdzie moja! Nie zabierzecie mi ich!~
+@300  = ~Moiya! Moiya!~
+@301  = ~Czy ty jesteœ mê¿em Moiyi?~
+@302  = ~Znam kobietê imieniem Moiya.~
+@303  = ~Moiya! Uuch... (Mê¿czyzna zdaje siê nieœwiadomy s³ów, które do niego kierujesz.) Muszê st¹d uciec. Muszê do niej dotrzeæ... potrzebuj¹ mnie. S¹ w niebezpieczeñstwie!~
+@304  = ~Moiya! Wci¹¿ s¹ w moim zasiêgu. Dotrê do nich!~
+@305  = ~Hehehe. (beka) Czo³em, kole¿ko. Pomóc w czymœ?~
+@306  = ~Kim jesteœ?~
+@307  = ~Czyli podaj¹ tu niez³e napitki?~
+@308  = ~Um, nie, muszê ju¿ iœæ.~
+@309  = ~Ach, tym siê ani trochê nie przejmuj, kole¿ko. Opowiem ci jedn¹ historiê... na pewno zrobi wra¿enie.~
+@310  = ~W porz¹dku, zamieniam siê w s³uch.~
+@311  = ~W³aœciwie, raczej nie chcê tego s³uchaæ. ¯egnaj.~
+@312  = ~Tak jest, kole¿ko. I mocne na dok³adkê. Ale tym siê nie przejmuj. Pozwól, ¿e opowiem ci historiê...zapewniam, ¿e bêdzie epicka.~
+@313  = ~Zaczekaj chwilê, kole¿ko. Opowiem ci jedn¹ historiê... na pewno zrobi wra¿enie.~
+@314  = ~Dawaj, oby rzeczywiœcie by³a warta mojego czasu.~
+@315  = ~Nie, naprawdê muszê ju¿ iœæ.~
+@316  = ~Ekhem. (beka) Ach... to by³o kilka nocy temu. Wraca³em sobie w³aœnie po spotkaniu z... eee... kole¿ank¹.~
+@317  = ~By³o ciemno. Stra¿nicy w oddali byli zajêci rozmow¹, nie ¿eby kiedykolwiek zajmowali siê pilnowaniem porz¹dku. Skrêca³em za róg, by³em ju¿ mo¿e ze sto kroków od drzwi Diademu, kiedy nagle pojawi³ siê ten goœciu.~
+@318  = ~Musia³ mieæ dwa metry, do tego budowê cia³a ogra. Uzna³em, ¿e nie spyta mnie, czy mam jakiœ problem, wiêc po prostu przesz³em obok. Ale, uwa¿aj, on mruczy coœ o zap³aceniu mu tego, co mu siê nale¿y i wali mnie w dziób!~
+@319  = ~Zarêczam, nie chcesz oberwaæ od tego goœcia. Krasnoludzki m³ot bêdzie po tym miêkki jak poduszka. Odwróci³em siê akurat ¿eby zobaczyæ, ¿e podbiega jeszcze dwóch kolejnych.~
+@320  = ~Ale ¿aden z nich, powtarzam, ¿aden, nie wiedzia³ z kim w³aœnie zadarli. Robi³em uniki i piruety, zadaj¹c szybkie ciosy. By³em gibki jak elf, giêtki jak krêgos³up moralny urzêdnika, dopóki jeden z nich mnie nie z³apa³.~
+@321  = ~Mia³ si³ê dziesiêciu mê¿czyzn, tak¿e nawet ja nie mog³em drgn¹æ w jego ¿elaznym uœcisku. Zaczêli biæ...twarz mia³em ca³¹ we krwi. Zobaczy³em, ¿e jeden ze stra¿ników zmierza w nasz¹ stronê, oni uciekli, zostawiaj¹c mnie w b³ocie.~
+@322  = ~Jakoœ tu siê doczo³ga³em i musia³em siê trochê wzmocniæ tutejszymi specja³ami, ¿eby stan¹æ na nogi. Ale nigdy wiêcej... Nie ruszam siê st¹d, dopóki mnie nie wyrzuc¹.~
+@323  = ~To by³o, hmm, bardzo interesuj¹ce. Wiesz coœ o ludziach, którzy ciê zaatakowali?~
+@324  = ~Co za bzdury! Siedzia³em tu dla czegoœ takiego?~ ~Co za bzdury! Siedzia³am tu dla czegoœ takiego?~
+@325  = ~Jak tam chcesz. Twoja strata.~
+@326  = ~Hmm...Moja opowieœæ bêdzie potrzebowaæ tytu³u, jeœli bêdê chcia³ j¹ wydaæ. Ach... (beka)~
+@327  = ~Zauwa¿y³eœ mo¿e coœ podejrzanego w okolicy?~
+@328  = ~Co podejrzanego? Ja nic nie zrobi³em, jeœli o to ci siê rozchodzi.~
+@329  = ~Nie zgrywaj idioty! Co tu siê, na Dziewiêæ Piekie³, dzieje! Odpowiadaj!~
+@330  = ~Szukam dziewczynki. Zosta³a porwana i ukryta w jednej z krypt.~
+@331  = ~Nic konkretnego, niewa¿ne.~
+@332  = ~Och, to nie ma nic wspólnego ze mn¹. Po prostu zjawili siê jednej nocy i grozili mi. Bêdê bardzo rad, jeœli ktoœ siê nimi zajmie.~
+@333  = ~Zdaje siê, ¿e s¹ w jednej z mniejszych krypt. Zapomnia³em w której dok³adnie. Stara³em siê trzymaæ jak najdalej od nich.~
+@334  = ~Nie potrzebujê czegoœ takiego na moim cmentarzu... o nie. Dobrego dnia, <LADYLORD>.~
+@335  = ~Lehtinana ju¿ tu nie ma, nikt nie ochroni twojego ma³ego biznesu, Gburze.~
+@336  = ~Gbur nie potrzebuje ¿adnej przeklêtej ochrony.  To jest interes... który sam siê prowadzi.~
+@337  = ~Który nie bêdzie prowadzi³ siê ju¿ zbyt d³ugo. Nowy zarz¹d nie jest zachwycony twoimi niemoralnymi praktykami.~
+@338  = ~Brzmi imponuj¹co. Chcê dostawaæ dzia³kê z tego, ile na tym zarabiasz.~
+@339  = ~Masz piêæ sekund na znalezienie siê za drzwiami, albo bêdziesz mia³ do czynienia ze mn¹ i stra¿nikami na dodatek.~
+@340  = ~Och, no dobrze. Nie przeszkadzam.~
+@341  = ~Nie masz g³owy do interesów, panieneczko? Jak ju¿ mówi³em, ten tu interes idzie a¿ mi³o.~
+@342  = ~W takim razie nowy zarz¹d jest zwyczajnie têpy, jeœli zamyka dochodowe przedsiêwziêcie.  Gbur bêdzie musia³ zacz¹æ od nowa gdzieœ indziej.~
+@343  = ~Jest mnóstwo miejsc w mieœcie, w którym mo¿na rozkrêciæ taki biznes. Ludzie o tym us³ysz¹, zapewniam ciê.~
+@344  = ~Wiem, ¿e istnieje zapotrzebowanie na takie... plebejskie formy rozrywki, ale czy musimy braæ w nich udzia³?~
+@345  = ~Niemoralna szumowino! Zabieraj siê st¹d, zanim zostaniesz ostatnim psem pokonanym na twojej arenie!~
+@346  = ~I tak trzeba postêpowaæ ze bardzo z³ymi ludŸmi! Boo mówi, ¿e zawsze musimy mieæ siê na bacznoœci, bo z³o nigdy nie œpi!~
+@347  = ~Natura obdarza ciê uœmiechem, a ja jestem z ciebie dumny, <CHARNAME>.~
+@348  = ~Czy tobie coœ wy¿ar³o mózg?  Chcesz czêœæ moich zysków?  Wynoœ siê.~
+@349  = ~Obawiam siê, ¿e nic z tego. Nowy zarz¹d nie jest zachwycony twoimi niemoralnymi praktykami, wiêc jeœli mnie nie przekonasz, ¿e siê do czegoœ nadajesz, bêdziesz musia³ st¹d znikn¹æ.~
+@350  = ~W takim wypadku masz piêæ sekund na znalezienie siê za drzwiami albo bêdziesz mia³ do czynienia ze mn¹ i stra¿nikami na dodatek.~
+@351  = ~Phi!  Po¿a³ujesz tego. To legalnie dzia³aj¹ce miejsce... ludzie siê dowiedz¹.  Jest wiele innych miejsc w mieœcie, w których bêdê móg³ kontynuowaæ dzia³alnoœæ.~
+@352  = ~Phi! Masz tupet, przychodz¹c tutaj i ¿¹daj¹c czegoœ takiego od szanowanego sponsora. Ale niech ci bêdzie, odpalê jedn¹ czwart¹ moich zysków.~
+@353  = ~Jedn¹ czwart¹? To œmieszne. Chcê jedn¹ trzeci¹.~
+@354  = ~Nie biorê pod uwagê mniej ni¿ po³owy zysków.~
+@355  = ~Niech bêdzie. Bêdê zjawiaæ siê tutaj regularnie, ¿eby odebraæ pieni¹dze. Nie zawiedŸ mnie albo ju¿ po tobie.~
+@356  = ~Zapomnij.  Wolê ¿ebyœ st¹d znikn¹³.~
+@357  = ~Nie ma szans!  Prêdzej przeniosê siê w inne miejsce... To miasto daje du¿e mo¿liwoœci. Ludzie siê o tym dowiedz¹!~
+@358  = ~Ju¿ bez przesady. Jedna trzecia, nie wiêcej.~
+@359  = ~W zasadzie, usatysfakcjonuje mnie tylko nie mniej ni¿ po³owa zysków.~
+@360  = ~Niech bêdzie. Bêdê zjawiaæ siê tutaj regularnie, ¿eby odebraæ pieni¹dze. Nie zawiedŸ mnie albo ju¿ po tobie.~
+@361  = ~W takim razie niewa¿ne, wolê ¿ebyœ siê wynosi³.~
+@362  = ~No dobra, ale daj mi ju¿ spokój! PrzyjdŸ za tydzieñ po swoje przeklête z³oto. I nie myœl, ¿e bêdziesz móg³ jeszcze obstawiaæ jakieœ walki.~
+@363  = ~Chcesz sprzymierzyæ siê z takim okrutnikiem? Nie pozwolê na to!~
+@364  = ~Chcesz... chcesz zarabiaæ na takim cierpieniu innych? Twoje serce jest czarniejsze, ni¿ podejrzewa³am w swoich najgorszych myœlach. Harfiarze nie popieraj¹ takiego okrucieñstwa.~
+@365  = ~Krzywdziciel bezbronnych zwierz¹tek ma zostaæ naszym przyjacielem? Boo mówi, ¿e tak siê nie godzi, a Minsc siê zgadza!~
+@366  = ~Jestem przera¿ony tym, co tu widzê, <CHARNAME>. Jeœli nie opowiesz siê po stronie Natury, nie stanê wiêcej u twego boku.~
+@367  = ~Trochê cierpliwoœci, miêczaku. Zaczekaj, a¿ minie tydzieñ.~
+@368  = ~Trzymaj... 130 sztuk z³ota, jedna trzecia tygodniowych zysków.  Jak ci nie pasuje, to ¿yczê powodzenia gdzie indziej.~
+@369  = ~Obawiam siê, ¿e jedna trzecia przesta³a byæ dla mnie wystarczaj¹ca. Chcê po najmniej po³owê.~
+@370  = ~Znudzi³o mi siê robienie z tob¹ interesów. Chcê, ¿ebyœ st¹d znikn¹³.~
+@371  = ~Dobrze. Dawaj.~
+@372  = ~Trzymaj... 100 sztuk z³ota, jedna czwarta tygodniowych zysków. Jak ci nie pasuje, ¿yczê powodzenia gdzie indziej.~
+@373  = ~To jest wszystko?  To niedorzeczne.  Chcê jedn¹ trzeci¹.~
+@374  = ~Obawiam siê, ¿e jedna czwarta przesta³a byæ dla mnie wystarczaj¹ca. Chcê co najmniej po³owê zysków.~
+@375  = ~Trzymaj... 90 sztuk z³ota, jedna trzecia tygodniowych zysków.  Interes nie idzie ostatnio zbyt dobrze. Jak ci nie pasuje, ¿yczê powodzenia gdzie indziej.~
+@376  = ~Obawiam siê, ¿e jedna trzecia ju¿ mnie nie satysfakcjonuje, szczególnie bior¹c pod uwagê, jak kiepsko ostatnio idzie. Chcê co najmniej po³owê.~
+@377  = ~To wystarczy. Dawaj.~
+@378  = ~Trzymaj... 65 sztuk z³ota, jedna trzecia tygodniowych zysków.  Interes nie idzie ostatnio zbyt dobrze. Jeœli ci siê nie podoba, to masz pecha.~
+@379  = ~Trzymaj... 150 sztuk z³ota, jedna trzecia tygodniowych zysków.  Interes ostatnio siê krêci, twoje szczêœcie. Jeœli nadal ci nie pasuje, ¿yczê powodzenia gdzie indziej.~
+@380  = ~W zwi¹zku z tym, ¿e wyraŸnie op³ywasz w z³oto, uwa¿am ¿e jedna trzecia dla mnie to stanowczo za ma³o. Chcê co najmniej po³owê zysków.~
+@381  = ~To wspania³a wiadomoœæ. Dawaj.~
+@382  = ~Trzymaj... 110 sztuk z³ota, jedna trzecia tygodniowych zysków. Interes ostatnio siê krêci, twoje szczêœcie.  Jeœli nadal ci nie pasuje, ¿yczê powodzenia gdzie indziej.~
+@383  = ~Interes siê krêci, a to jest wszystko? To oburzaj¹ce. Chcê jedn¹ trzeci¹.~
+@384  = ~Och, jak ja siê cieszê, ¿e ty siê cieszysz... Za tydzieñ mo¿esz zgarn¹æ kolejne monety, które i tak zmarnujesz.~
+@385  = ~Ty chciwy draniu. Dostaniesz swoj¹ jedn¹ trzeci¹ za tydzieñ, ale na razie tylko jedna czwarta. Jeœli ci siê nie podoba, mo¿esz spadaæ.~ ~Ty chciwa babo. Dostaniesz swoj¹ jedn¹ trzeci¹ za tydzieñ, ale na razie tylko jedna czwarta. Jeœli ci siê nie podoba, mo¿esz spadaæ.~
+@386  = ~A mo¿e nastêpnym razem po prostu zechcê po³owê.~
+@387  = ~Dobra, jedna czwarta wystarczy.~
+@388  = ~Wiêc tyle na razie wystarczy... Ale nastêpnym razem biorê jedn¹ trzeci¹.~
+@389  = ~Zmêczy³y mnie interesy z tob¹. Chcê ¿ebyœ st¹d znikn¹³.~
+@390  = ~Och, dostaniesz swoj¹ jedn¹ trzeci¹ nastêpnym razem. Teraz siê odwal. Za tydzieñ bêdziesz móg³ przepuœciæ kolejne monety.~
+@391  = ~Powinniœmy porozmawiaæ z kimœ, kto tu rz¹dzi, <CHARNAME>, jeœli mam siê zmierzyæ z tym Gorfem.~
+@392  = ~Hej tam! Chcê walczyæ z ogrem, Gorfem, na twojej arenie. Gdzie on jest?~
+@393  = ~Jeœli chcesz walczyæ, masz moje pozwolenie. Ale nie wiem, gdzie jest ten twój ogr.~
+@394  = ~Mo¿esz zapytaæ Bunkin.  Jest przy wejœciu, ubrana na ¿ó³to. Mo¿e ona bêdzie wiedzieæ, gdzie jest.~
+@395  = ~(Hrrrm).  Chcesz walczyæ?  Proszê bardzo, ale nie mogê pomóc w znalezieniu Gorfa.~
+@396  = ~Mo¿esz spytaæ Bunkin.  (hrrrm)  Jest... o tam, ta w ¿ó³tym. Mo¿liwe, ¿e bêdzie w stanie pomóc ci go znaleŸæ.~
+@397  = ~Niech ciê szlag! Musisz za mn¹ ³aziæ i ci¹gle sprawiaæ k³opoty? Phi! Nie masz nic lepszego do roboty? Trzymaj siê z daleka!~
+@398  = ~No wiêc. Zdaje siê, ¿e nie mo¿liwoœci, by wyrzuciæ mnie drugi raz. Zje¿d¿aj st¹d! Mam tu interesy do zrobienia.~
+@399  = ~Znowu ty? Masz 10 sekund, by znikn¹æ mi z oczu albo zapoznasz siê bli¿ej z ostrzem mego miecza.~
+@400  = ~Jak sobie chcesz. Tylko zejdŸ mi ju¿ z oczu.~
+@401  = ~Zysk to zysk. Mam gdzieœ twoje gadanie o „naturze”.~
+@402  = ~No w³aœnie. Nie mo¿esz tak sobie zaatakowaæ takiego biznesmena jak Gbur. Pokrzycz sobie gdzie indziej, pó³g³ówku.~
+@403  = ~Nie tak szybko. Masz 10 sekund, by znikn¹æ mi z oczu albo zapoznasz siê z ostrzem MOJEGO miecza.~
+@404  = ~Krzycz na kogoœ innego, pó³g³ówku. Ja...~
+@405  = ~Daj spokój. Nie mo¿esz mnie zaatakowaæ publicznie, a w¹tpiê, ¿eby w³aœciciel mnie wyrzuci³. Zje¿d¿aj.~
+@406  = ~Niczego bardziej nie pragnê.~
+@407  = ~To ten, który mêczy zwierzêta dla zabawy? Znowu?! Boo chce wiedzieæ, czemu PO PROSTU SIÊ NIE PODDASZ! Jeœli nie przestaniesz, Minsc i Boo ciê powstrzymaj¹! RAAARGH!~
+@408  = ~Minsc, sugerujê, byœ grzecznie poprosi³ Boo, ¿eby rzuci³ mu siê do oczu.~
+@409  = ~Spokojnie! Zaatakowanie go na œrodku karczmy w niczym nie pomo¿e.~
+@410  = ~Boo mówi, ¿e jak zwykle masz racjê, <CHARNAME>. Musimy zakraœæ siê za plecy z³a, po czym S£USZNIE SKOPAÆ MU TY£EK! Taki w³aœnie by³ plan, prawda?~
+@411  = ~PO OCZACH GO, BOO! RRRARGH!!~
+@412  = ~Aaaach!~
+@413  = ~Mog³em siê spodziewaæ, ¿e nie podda siê tak ³atwo, <CHARNAME>. Wrogowie Natury nie odpuszczaj¹ szybko.~
+@414  = ~Jaki masz interes z Gburem?~
+@415  = ~Jakie sprawy mia³eœ z Gburem?~
+@416  = ~Ach, Paluch nie papla o swoich sprawach. Nic niew³aœciwego, to tylko kwestia prywatnoœci. (Puszcza do ciebie oko.) Ale tak miêdzy nami, szuka on miejsca, w którym mo¿e organizowaæ swoje wydarzenia.~
+@417  = ~A ty chcia³eœ zaoferowaæ mu sekretn¹ jaskiniê pod tym lokalem?~
+@418  = ~Rozumiem. Dziêki za informacjê.~
+@419  = ~Có¿, mocno odradzam robienie jakichkolwiek interesów z Gburem. To typ spod ciemnej gwiazdy.~
+@420  = ~Ach. Ehe. Jak na to wpad³eœ? Nale¿¹ ci siê gratulacje, ¿e tu trafi³eœ. Tak, to o to miejsce chodzi.~ ~Ach. Ehe. Jak na to wpad³aœ? Nale¿¹ ci siê gratulacje, ¿e tu trafi³aœ. Tak, to o to miejsce chodzi.~
+@421  = ~Tak czy owak, za du¿o gadam. Mo¿e kielicha?~
+@422  = ~Powiedzia³eœ ca³kiem du¿o, zgadzam siê. Pos³uchaj, co ty na to? Pozbêdziesz siê Gbura albo zawiadomiê stra¿, o tym co tu siê odbywa i to bêdzie koniec tego lokalu.~
+@423  = ~Nie ma sprawy, kole¿ko. Mo¿e coœ do picia?~
+@424  = ~Dziêki za radê, kole¿ko, ale Paluch radzi³ ju¿ sobie z gorszymi. A mo¿e coœ do picia?~
+@425  = ~Aaa, wykrêcasz mi rêkê. Niech ci bêdzie. Mo¿e coœ do picia, tak dla rozluŸnienia atmosfery?~
+
+@426 = ~Moiya i problem z d³ugiem
+
+Jedno z dzieci Moiyi przekaza³o wiadomoœæ z proœb¹ o pilne spotkanie w Slumsach. Ponoæ sta³o siê coœ strasznego, prawdopodobnie jakieœ szemrane interesy.~
+@427 = ~Po¿yczki od Celile'a
+
+Lichwiarz Celile po¿yczy³ nam 100 sztuk z³ota. Sp³ata wynosi 125 sztuk z³ota i musi byæ dorêczona w przeci¹gu dwóch dni.~
+@428 = ~Po¿yczki od Celile'a
+
+Lichwiarz Celile po¿yczy³ nam 1000 sztuk z³ota. Sp³ata wynosi 1250 sztuk z³ota i musi byæ dorêczona w przeci¹gu dwóch dni.~
+@429 = ~Po¿yczki od Celile'a
+
+Lichwiarz Celile po¿yczy³ nam 5000 sztuk z³ota. Sp³ata wynosi 6250 sztuk z³ota i musi byæ dorêczona w przeci¹gu dwóch dni.~
+@430 = ~Po¿yczki od Celile'a
+
+Lichwiarz Celile po¿yczy³ nam 10000 sztuk z³ota. Sp³ata wynosi 12500 sztuk z³ota i musi byæ dorêczona w przeci¹gu dwóch dni.~
+@431 = ~Po¿yczki od Celile'a
+
+Lichwiarz Celile po¿yczy³ nam 25000 sztuk z³ota. Sp³ata wynosi 31250 sztuk z³ota i musi byæ dorêczona w przeci¹gu dwóch dni.~
+@432 = ~Moiya i problem z d³ugiem
+
+Celile powiedzia³, ¿e Moiya nie musi siê go obawiaæ. Powiedzia³ te¿, ¿e przyœle do niej swojego pracownika, gdy trzeba bêdzie sp³aciæ d³ug, ale zaprzeczy³, by grozi³a jej jakakolwiek krzywda.~
+@433 = ~Moiya i problem z d³ugiem
+
+Kobieta imieniem Moiya ze Slumsów powiedzia³a mi, ¿e ma problem z lichwiarzem Celilem, który przesiaduje w Miedzianym Diademie. Nie ma z czego sp³aciæ d³ugu i obawia siê mo¿liwych konsekwencji. Muszê pomówiæ z Celilem i znaleŸæ rozwi¹zanie tego problemu.~
+@434 = ~Moiya i problem z d³ugiem
+
+Kobieta imieniem Moiya ze Slumsów powiedzia³a mi, ¿e ma problem z lichwiarzem Celilem. Problem znikn¹³ wraz ze œmierci¹ Celile'a, ale kobieta nie by³a zadowolona z takiego obrotu wydarzeñ.~
+@435 = ~Moiya i problem z d³ugiem
+
+Celile powiedzia³, ¿e Moiya nie musi siê niczego obawiaæ. Powiedzia³, ¿e przyœle do niej swojego pracownika, gdy trzeba bêdzie sp³aciæ d³ug. Teraz Moiya czuje siê bezpieczniej.~
+@436 = ~Moiya i problem z d³ugiem
+
+Jedna z córek Moiyi - Carla, zosta³a porwana przez Celile'a z powodu niesp³acenia d³ugi. Celile oszuka³ nas, mówi¹c, ¿e kobieta nie musi siê niczego obawiaæ. Musimy porozmawiaæ z Celilem o tej sytuacji.~
+@437 = ~Moiya i problem z d³ugiem
+
+Jeden ze zbirów Celile'a ujawni³, ¿e w przypadku niesp³acenia d³ugu, Carla zostanie zabita. Mamy siê z nim spotkaæ w po³udniowej czêœci Slumsów, ¿eby sp³aciæ d³ug. ~
+@438 = ~Moiya i problem z d³ugiem
+
+Cz³owiek Celile'a zdradzi³, gdzie mo¿na znaleŸæ córkê Moiyi. Powiedzia³, ¿e "to gdzieœ pod ziemi¹", ale zastrzeg³, ¿e nie zdradzi wiêcej szczegó³ów a¿ do momentu zap³aty.~
+@439 = ~Moiya i problem z d³ugiem
+
+Sp³aciliœmy d³ug u Celile'a w wysokoœci 6250 sztuk z³ota, a on zdradzi³ mi, ¿e córka Moiyi jest przetrzymywana w jednej z krypt w Dzielnicy cmentarnej. Musimy j¹ odszukaæ.~
+@440 = ~Moiya i problem z d³ugiem
+
+Jeden ze zbirów Celile'a zdradzi³, gdzie znaleŸæ córkê Moiyi. Jest przetrzymywana w jednej z krypt w Dzielnicy Cmentarnej. Musimy j¹ znaleŸæ i oswobodziæ, na pewno bêdzie pilnowana.~
+@441 = ~Moiya i problem z d³ugiem
+
+Jeden ze zbirów Celile'a znalaz³ nas i powiedzia³, ¿e czas min¹³, a w konsekwencji córka Moiyi umrze. Mo¿e jednak nie jest jeszcze za póŸno, ¿eby coœ zrobiæ.~
+@442 = ~Moiya i problem z d³ugiem
+
+Uratowaliœmy córkê Moiyi z krypty, w której by³a przetrzymywana. By³a bardzo uradowana z odzyskanej wolnoœci, teraz jej matka mo¿e odetchn¹æ z ulg¹.~
+@443 = ~Moiya i problem z d³ugiem
+
+Przybyliœmy za póŸno i zbiry zabi³y córkê Moiyi na naszych oczach. Musimy jakoœ przekazaæ rozpaczaj¹cej matce te z³e wieœci.~
+@444 = ~Moiya i problem z d³ugiem
+
+Kobieta o imieniu Moiya prosi³a nas o pomoc w sp³acie d³ugu lichwiarza Celile'a. Niestety, sprawy potoczy³y siê Ÿle i zbiry lichwiarz w odwecie zabi³y jej córkê. Moiya jest zrozpaczona.~
+@445 = ~Moiya i problem z d³ugiem.
+
+Kobieta o imieniu Moiya prosi³a nas o pomoc w sp³acie d³ugu lichwiarza Celile'a. Lichwiarz posun¹³ siê do porwania i szanta¿u, ale uda³o nam siê rozwi¹zaæ sytuacjê.~
+
+// Kelsey
+@446  = ~<CHARNAME>, uczciwi finansiœci nie robi¹ interesów pod os³on¹ ciemnoœci. Od tego cz³owieka nie po¿ycza³bym nawet marnych miedziaków na czyszczenie butów.~
+@447  = ~Ufam, ¿e ktoœ w Amn zauwa¿y ten problem, i to szybko. Wyrwanie czarodzieja prosto z ulicy i pozostawienie jego rodziny na œmieræ g³odow¹ nikogo nie chroni - to jedynie przysporzy wiêcej biedy!~
+@448  = ~Zastanawia mnie, jakie potrzeby mo¿e mieæ wieœniaczka na sumê 5000 z³otych monet. Ceny domów w Athkatli musia³y staæ siê jeszcze bardziej nieprzystêpne.~
+@449  = ~<CHARNAME>! W mieœcie na pewno s¹ uczciwsze sposoby zdobycia pieniêdzy! Przecie¿ to siê praktycznie nie ró¿ni od pozwolenia Lehtinanowi na prowadzenie walk gladiatorów!~
+@450  = ~Tak w³aœciwie to... hmm.  Po³owa to najmniej, co mogê zaakceptowaæ.~
+@451  = ~Jedna trzecia mo¿e byæ, Gburze. Bêdê regularnie przychodziæ, by zebraæ od ciebie op³atê. Nie rozczaruj mnie, jeœli nie chcesz zgin¹æ.~
+@452  = ~Zapomnij o tym.  I tak wola³<HESHE>bym, ¿eby sobie poszed³.~
+
+// Keto
+@453  = ~Chyba widzia³am ten rodzaj motywacji kilka razy. Wszystko, co mogê o nim powiedzieæ, to "a³a".~
+@454  = ~Czy poza mn¹ ktoœ jeszcze odnosi wra¿enie, ¿e nie za bardzo przeszkadzaj¹ mu "konsekwencje"?~
+@455  = ~Ech... <CHARNAME>? To by³o s³odkie, ale... w³aœnie odda³eœ komuœ fortunê, kto nawet nie potrafi³ wymyœliæ jakiejœ bardziej oryginalnej historyjki. Ja mogê wymyœliæ coœ znacznie lepszego! A policzê ci tylko za dobry obiad!~
+@456  = ~Niewa¿ne. Miejmy nadziejê, ¿e mówi³a prawdê.~
+@457  = ~"Szczekaj¹ca Bardka", historia kundla, który wierzy³, ¿e jest dziewczyn¹, która wierzy³a, ¿e potrafi œpiewaæ?~
+@458  = ~Nie, mia³am raczej na myœli "Wielkie Przypiekanie Drowa". Taka historyjka o alternatywnej przesz³oœci.~
+@459  = ~Nigdy nie zapominaj, dziewczyno, ¿e maj¹c piêtnaœcie sekund i mackowe ber³o, mog³abym na sta³e zmieniæ twoje postrzeganie rzeczywistoœci.~

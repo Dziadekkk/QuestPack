@@ -1,0 +1,47 @@
+// -*- coding: cp1252 -*-
+
+@0  = ~Podró¿nicy, poszukiwacze przygód, najemnicy - kimkolwiek jesteœcie - przystañcie na moment, chcia³bym zamieniæ z wami s³owo.~ 
+@1  = ~Wygl¹dasz na zasapanego. Co robi³eœ?~
+@2  = ~Kim jesteœ?~
+@3  = ~Dlaczego ja? ZnajdŸ sobie innego rozmówcê.~
+@4  = ~Nie mam czasu na pytania. Z³o¿ê wam ofertê i albo j¹ przyjmiecie, albo nie.~ 
+@5  = ~Mój ojciec le¿y w³aœnie teraz na ³o¿u œmierci. Jeden z zakapturzonych mo¿e go uzdrowiæ, lecz tylko za op³at¹, na któr¹ ledwie mnie staæ.~
+@6  = ~Mam tylko jeden przedmiot, dziêki któremu móg³bym szybko tak¹ kwotê uzyskaæ. Zerknij proszê, czy ciê on zainteresuje.~
+@7  = ~Naprawdê ¿a³ujê twojej decyzji. Teraz jednak muszê ju¿ lecieæ. ¯egnaj!~ 
+@8  = ~M¹dra decyzja. Jestem ci bardzo wdziêczny. Teraz jednak muszê ju¿ lecieæ. ¯egnaj.~
+@9  = ~Transcendentna nieprawoœæ wymusza dokuczliw¹ podró¿. Prowadzisz niebezpieczn¹ grê, pierwszaku.~ [d0nosnd] 
+@10 = ~Co do...~
+@11 = ~Skazi³eœ me ostrze swoim dotykiem, plugawa œmiertelna istoto. Wyczuwam, ¿e nie jesteœ z³odziejem, zwróæ wiêc co moje, a oszczêdzê twe nêdzne ¿ycie.~
+@12 = ~Chodzi ci pewnie o miecz, który da³ mi Wilbur. Obawiam siê, ¿e ju¿ go nie mam.~ 
+@13 = ~Ten dziwny czerwony sejmitar? Ale¿ oczywiœcie, proszê bardzo.~
+@14 = ~Nie mam bladego pojêcia, o co ci chodzi. Jakie ostrze?~
+@15 = ~Stój, demonie. Zanim zechcesz mnie zg³adziæ, powiedz chocia¿, co tu zasz³o.~ 
+@16 = ~Opuœæ tê sferê, twój gatunek nie jest tu mile widziany.~
+@17 = ~Zjawiaj¹c siê tu tak otwarcie, te¿ prowadzisz niebezpieczn¹ grê. Nie mo¿esz siê mierzyæ z tymi, którzy rz¹dz¹ tym miejscem.~
+@18 = ~Wola³<HESHE>bym ci jednak niczego nie oddawaæ.~
+@19 = ~Giñ, biesie!~ 
+@20 = ~Mówisz prawdê. Grr! Masz mi go natychmiast przynieœæ. Nie. NIE. Sama go sobie przyniosê, ty zaœ zap³acisz za tê niedogodnoœæ.~
+@21 = ~Okradanie demona
+
+Okaza³o siê, i¿ miecz kupiony u mê¿czyzny o imieniu Wilbur zosta³ w jakiœ sposób skradziony potê¿nej demonicy, marilithowi. Gdy nas odnalaz³a, nie mieliœmy ju¿ miecza ze sob¹, co bardzo j¹ rozsierdzi³o.~
+@22 = ~£¿esz. Grr! Oddasz mi go natychmiast. Nie. NIE. Sama go wezmê, ty zaœ zap³acisz mi za tê zniewagê.~ 
+@23 = ~Okradanie demona
+
+Okaza³o siê, i¿ miecz kupiony u mê¿czyzny o imieniu Wilbur zosta³ w jakiœ sposób skradziony potê¿nej demonicy, marilithowi. Nie mieliœmy jednak zamiaru oddawaæ tak wspania³ej broni bez walki.~
+@24 = ~Z rozkosz¹ rozedrê ciê na strzêpy, pierwszaku.~ 
+@25 = ~M¹drze, pierwszaku. Oszczêdzê ciê wiêc i wyruszê w poszukiwaniu krwawej zemsty.~
+@26 = ~Okradanie demona
+
+Okaza³o siê, i¿ miecz kupiony u mê¿czyzny o imieniu Wilbur zosta³ w jakiœ sposób skradziony potê¿nej demonicy, marilithowi. Zwróciliœmy jej orê¿, lecz mimo to by³a wielce niezadowolona.~
+@27 = ~G³upi pierwszaku. Z rozkosz¹ rozedrê ciê na strzêpy.~
+@28 = ~Tak. P³aszcz siê przede mn¹ jak na pierwszaka przysta³o, a mo¿e w zamian rzucê ci jakiœ k¹sek. Albo mo¿e jednak nie, gdy¿ moja cierpliwoœæ siê koñczy. Oddaj mi tê broñ, natychmiast.~
+@29 = ~Nie mam bladego pojêcia, o co ci chodzi. Jak¹ broñ?~
+@30 = ~Byæ mo¿e, jednak wci¹¿ tu stojê. Nie oci¹gaj siê, bo moja cierpliwoœæ zaraz siê skoñczy. Oddaj tê broñ, natychmiast.~
+@31 = ~Tak. P³aszcz siê przede mn¹ jak na pierwszaka przysta³o, a mo¿e w zamian rzucê ci jakiœ k¹sek. Albo mo¿e jednak nie. Kolejny raz nie poproszê, masz i tak szczêœcie, ¿e ¿yjesz tak d³ugo.~
+@32 = ~Jeœli szukasz miecza, który podarowa³ mi Wilbur, obawiam siê, ¿e ju¿ go nie mam.~
+@33 = ~Chcesz dostaæ ten dziwny czerwony sejmitar? Ale¿ oczywiœcie, proszê bardzo.~
+@34 = ~Nie wystawiaj na próbê mej cierpliwoœci, g³upcze. Karmazynowe ostrze. Oddaj je, natychmiast.~ ~Nie wystawiaj na próbê mej cierpliwoœci, g³upia dziewczyno. Karmazynowe ostrze. Oddaj je, natychmiast.~
+@35 = ~Och, miecz, który podarowa³ mi Wilbur. Obawiam siê, ¿e ju¿ go nie mam.~
+@36 = ~Tak jakbym chcia³a w ogóle wracaæ do tego cuchn¹cego miejsca. Moje s³owo? Nie dam ci go, rycerzu, módl siê i miej wiarê, gdy¿ nic wiêcej nie mo¿esz zrobiæ.~
+@37 = ~Zaczekaj, demonie. Zanim odejdziesz, musisz daæ mi s³owo, ¿e nie wrócisz wiêcej do pierwszej sfery materialnej.~
+@38 = ~Ty imbecylu! Co ciê na Dziewiêæ Piekie³ opêta³o, by zwabiaæ marilitha do centrum Athkatli?! Phi! Dla twojego w³asnego dobra lepiej by by³o, ¿ebyœ nie wywo³ywa³<HESHE> ju¿ wiêcej takich *zajœæ*. Konsekwencje tego zostan¹ zapamiêtane. ¯egnaj.~

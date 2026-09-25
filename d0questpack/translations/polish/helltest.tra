@@ -1,76 +1,76 @@
-// -*- coding: cp1250 -*-
+// -*- coding: cp1252 -*-
 
-// Dumny Srebrny Smok
+//Srebrny Smok Pychy
 
-@1 = ~Dzieciê umar³ych przyby³o wreszcie, jak widzê, bez cienia w¹tpliwoœci po to by zg³adziæ straszn¹ bestiê, która ma przy sobie ojcowsk¹ £zê.  Bardzo dobrze, zatem zacznijmy ten bój.~
-@2 = ~Przygotuj siê by zasmakowaæ stali, jaszczurze!~
-@3 = ~Czekaj! Nie powinnyœmy wpierw o tym porozmawiaæ?~
-@4 = ~Rozmowa? Nie spodziewa³em siê takiego wahania po tobie. O czym chcesz porozmawiaæ? A mo¿e chcesz siê wpierw powyœmiewaæ by odwlec nieunikniony bój?~
-@5 = ~Przyby³em jedynie po £zê Bhaala, nie po to by walczyæ. Z pewnoœi¹ tak m¹dra istota jak ty nie chce bezsensownej walki.~
-@6 = ~Twoje s³owa maj¹ pewn¹ wartoœæ. Nie ma powodu, dla którego nie móg³bym daæ ci tej ³zy.~
-@7 = ~Nie s¹dzi³em, ¿e z³o¿ysz mi tak¹ propozycjê. Oto klejnot, którego szukasz. Jako œmietelny <RACE>, okaza³eœ siê ca³kiem rozs¹dny. IdŸ wiêc.~
-@8 = ~Czekaj ... Co to jest?~
-@9 = ~Zabi³eœ wczeœniej innych z mojego rodzaju, czy¿ nie? Odór ich œmierci jest g³êboko wpisany w tw¹ duszê. Nie wierzê, ¿e pozwoli³byœ mi ¿yæ, œmiertelniku. Mia³eœ nadziejê na zmylenie mnie twymi piêknymi s³owami, twoimi k³amstwami, maj¹c nadziejê, ¿e siê ods³oniê?~
-@10 = ~Moim przeznaczeniem jest zmierzyæ siê z tob¹ w boju. Zobaczmy wiêc, kto bêdzie zwyciêzc¹.~
+@1  = ~Oto przyby³ pomiot martwego boga, by zg³adziæ straszliw¹ bestiê strzeg¹c¹ ³zy Ojca. ¯yczê ci powodzenia, dumne dzieciê.~ 
+@2  = ~Czas posmakowaæ stali, gadzie!~
+@3  = ~Stój! Có¿ z ciebie za bestia? Mo¿e moglibyœmy o tym porozmawiaæ.~ 
+@4  = ~Nigdy bym siê po tobie nie spodziewa³ takiej chwili zawahania, Dzieciê Bhaala. O czym chcia³<HESHE>byœ podyskutowaæ? A mo¿e chcesz jedynie ze mnie zadrwiæ, by odroczyæ tê nieuchronn¹ rzeŸniê?~
+@5  = ~Nie przyby³em tu by walczyæ, chcê jedynie £zy Bhaala. Z pewnoœci¹ istota twego rodzaju nie ma powodu mieszaæ siê w bezsensowny konflikt.~ ~Nie przyby³am tu by walczyæ, chcê jedynie £zy Bhaala. Z pewnoœci¹ istota twego rodzaju nie ma powodu mieszaæ siê w bezsensowny konflikt.~ 
+@6  = ~Twym s³owom nie brakuje sensu. Nie widzê powodu, dla którego mia³bym nie oddawaæ ci ³zy.~
+@7  = ~Nie s¹dzi³em, ¿e przyjmiesz tak¹ ofertê, wygl¹da jednak na to, ¿e nie rz¹dzi tob¹ duma. Oto kamieñ, którego szukasz. IdŸ w pokoju.~
+@8  = ~Zaczekaj... przejrza³em ciê oszuœcie.~ ~Zaczekaj... przejrza³em ciê oszustko.~ 
+@9  = ~Czujê silny odór œmierci innych z mego gatunku na ca³ym twoim orê¿u. Widzê, zabija³eœ ich ju¿ przed mn¹. S¹dzi³eœ, ¿e twoje piêkne s³ówka i wymyœlne k³amstwa os³abi¹ moj¹ czujnoœæ?~ ~Czujê silny odór œmierci innych z mego gatunku na ca³ym twoim orê¿u. Widzê, zabija³aœ ich ju¿ przed mn¹. S¹dzi³aœ, ¿e twoje piêkne s³ówka i wymyœlne k³amstwa os³abi¹ moj¹ czujnoœæ?~
+@10 = ~Wygl¹da na to, ¿e dope³niê mego losu, bowiem walka z tob¹ jest sensem mego istnienia, Zmierzê siê z tw¹ g³upi¹ pych¹.~ 
 
-// Demon Strachu
+//Demon Strachu
 
-@11 = ~... tak jak ten p³aszcz, na przyk³ad. Zszyty razem ze skór zdartych ze œlicznych nimf. Za³ó¿ go i bêdziesz chroniony przez potê¿n¹ magiê ... panika ju¿ nigdy wiêcej ciê nie ogarnie.~ [HELFEA13]
-@12 = ~Powiedz mi, demonie, czy nimfy, z których skór zosta³ zrobiony ten p³aszcz by³y ju¿ martwe? Czy mo¿e zosta³y zabite tylko po to by zrobiæ z nich ten p³aszcz specjalnie dla mnie?~
-@13 = ~Dziwne pytanie. Dlaczego o to pytasz?~
-@14 = ~Niewa¿ne. I tak nie chcê tak z³ego przedmiotu. Moja w³asna odwaga mi w zupe³noœci wystarczy.~
-@15 = ~Po prostu by³em ciekaw. Daj mi ten p³aszcz.~
-@16 = ~Jeœli nimfy zosta³y zabite przeze mnie, nie wzi¹³bym tego p³aszcza. Ale jeœli by³y juz martwe, móg³bym go wzi¹æ, bo i tak by nic to nie zmieni³o.~
-@17 = ~Ach tak. Interesuj¹cy punkt widzenia. A jeœli chodzi o twoje pytanie, to tak, zosta³y one zabite dawno temu. Dam ci ten p³aszcz.~
+@11 = ~...na przyk³ad ten p³aszcz. Zosta³ on zszyty ze skór zdartych ze œlicznych nimf. Noœ go i niech ukoi ciê jego potê¿na magia... nigdy ju¿ nie ogarnie ciê panika.~ [HELFEA13]
+@12 = ~ZdradŸ mi demonie, czy nimfy, z cia³ których uszyto ten p³aszcz, ju¿ nie ¿yj¹? A mo¿e zostan¹ zg³adzone dopiero, gdy zgodzê siê go przyj¹æ?~
+@13 = ~Czemu zadajesz tak dziwne pytanie? Zreszt¹ niewa¿ne. Ju¿ wkrótce, Dzieciê Bhaala, wyzwolisz siê od strachu.~ 
+@14 = ~Niewa¿ne, nie potrzebujê zreszt¹ tak niegodziwej rzeczy. Moja odwaga wystarczy.~
+@15 = ~Nieistotne, pyta³em z ciekawoœci. Daj mi pelerynê.~ 
+@16 = ~Nie wezmê p³aszcza, jeœli nimfy mia³yby zostaæ przez to zabite. Jeœli jednak s¹ ju¿ martwe, mogê siê na niego skusiæ - i tak by to wówczas nic nie zmieni³o.~
+@17 = ~Niecodzienny punkt widzenia. Wiedz, ¿e nimfy ju¿ od dawna s¹ martwe, a ich œmieræ by³a wynikiem gniewu twego Ojca. P³aszcz nale¿y do ciebie i nic nie ulega zmianie.~
 
-// Chciwy D¿in
+//D¿in Chciwoœci
 
-@18 = ~Ale ja naprawdê bêdê potrzebowa³ tego miecza, kiedy ponownie zmierzê siê z Irenicusem! A tak¿e nie chcia³bym zabiæ ciê dla tej ³zy. Jesteœ pewien, ¿e nie ma innej drogi?~
-@19 = ~Rozmyœli³em siê nad tw¹ ofert¹ i jestem gotowy wzi¹æ na siebie geas.~
+@18 = ~Mimo i¿ mogê potrzebowaæ tak potê¿nego miecza podczas bitwy, która wkrótce mnie czeka, nie jestem sk³onny zabijaæ ciê dla tej ³zy. Pewien jesteœ, ¿e nie ma innego rozwi¹zania?~ ~Mimo i¿ mogê potrzebowaæ tak potê¿nego miecza podczas bitwy, która wkrótce mnie czeka, nie jestem sk³onna zabijaæ ciê dla tej ³zy. Pewien jesteœ, ¿e nie ma innego rozwi¹zania?~
+@19 = ~Zastanowi³em siê nieco na twoj¹ ofert¹ i myœlê, i¿ jestem gotów daæ siê zwi¹zaæ zaklêciem geas.~ ~Zastanowi³am siê nieco na twoj¹ ofert¹ i myœlê, i¿ jestem gotowa daæ siê zwi¹zaæ zaklêciem geas.~
 @20 = ~Nie mogê ci tego powiedzieæ, <PRO_LADYLORD>.~
-@21 = ~Zdaje siê, ¿e muszê wiêc zrobiæ to bez tego miecza. WeŸ go.~
-@22 = ~Ale nie móg³bym zatrzymaæ miecza na jakiœ czas i powróciæ poŸniej by ci go oddaæ?~
-@23 = ~Bez obrazy, <PRO_LADYLORD>, ale nie wiem czy twoje zamiary s¹ prawdziwe. Zbyt du¿o zale¿y od tego dla mnie. Nie zaryzykowa³bym tej jedynej szansy, która mo¿e zakoñczyæ moj¹ mêkê.~ 
-@24 = ~A co jeœli z³o¿ê przysiêgê? Pozwoli³bym ci nawet rzuciæ na mnie czar geas!~
-@25 = ~Tak, to mog³oby byæ rozwi¹zanie. Rzucê geas by zapieczêtowaæ tw¹ obietnicê. Jeœli j¹ z³amiesz, umrzesz. Jesteœ absolutnie pewny, ¿e chcesz tego, <PRO_LADYLORD>?~
-@26 = ~Po krótkim namyœle, wola³bym od razu nie odpowiadaæ. Pozwól mi pomyœleæ chwilê d³u¿ej.~
-@27 = ~Jestem gotowy. Zaczynaj rzucaæ zaklêcie.~
-@28 = ~Jak sobie ¿yczysz, <PRO_LADYLORD>.~
-@29 = ~Ju¿ po wszystkim, <PRO_LADYLORD>. ¯yczê ci szczêœcia i szybkiego powrotu. Jeszcze siê spotkamy.~
-@30 = ~Szukanie Irenicusa W Piekle
+@21 = ~Wychodzi na to, ¿e bêdê musia³<HESHE> siê obejœæ bez miecza. WeŸ go.~
+@22 = ~A nie móg³bym zatrzymaæ miecza na jakiœ czas? Wróci³bym póŸniej by ci go oddaæ.~ ~A nie mog³abym zatrzymaæ miecza na jakiœ czas? Wróci³abym póŸniej by ci go oddaæ.~ 
+@23 = ~Nie znam twoich prawdziwych zamiarów, <PRO_LADYLORD>. Nie zaryzykujê utraty mej jedynej szansy na zakoñczenie tego cierpienia.~
+@24 = ~A gdybym tak z³o¿y³<HESHE> przysiêgê, ¿e zwrócê ci miecz? Pozwoli³<HESHE>bym nawet za³o¿yæ na siebie geas.~
+@25 = ~Zostaniesz wówczas zwi¹zany przysiêg¹, gwarantuj¹c mi tym samym wolnoœæ. Dobrze wiêc, zaklêcie geas, które rzucê, zmusi ciê do dotrzymania obietnicy, Jeœli j¹ z³amiesz, umrzesz. Jesteœ absolutnie pewien, ¿e tego chcesz, panie?~ ~Zostaniesz wówczas zwi¹zana przysiêg¹, gwarantuj¹c mi tym samym wolnoœæ. Dobrze wiêc, zaklêcie geas, które rzucê, zmusi ciê do dotrzymania obietnicy, Jeœli j¹ z³amiesz, umrzesz. Jesteœ absolutnie pewna, ¿e tego chcesz, pani?~
+@26 = ~Z drugiej strony, wola³<HESHE>bym jednak, byœ nie nak³ada³ na mnie takiej obro¿y. Daj mi siê jeszcze chwilê nad tym zastanowiæ.~
+@27 = ~Jestem gotów, zaczynaj swoje czary.~ ~Jestem gotowa, zaczynaj swoje czary.~
+@28 = ~Wedle ¿yczenia, <PRO_LADYLORD>.~
+@29 = ~Gotowe, <PRO_LADYLORD>. ¯yczê ci powodzenia w przebrniêciu przez próby, które na ciebie czekaj¹. Do nastêpnego spotkania.~
+@30 = ~Poszukiwania Irenicusa w Piekle
 
-Miecz demonów, 'Czarna Brzytwa', by³a kluczem, który mia³ mi pozwoliæ uwolniæ d¿ina od jego niewolnictwa tu w Piekle. Pozwoli³ mi zatrzymaæ miecz tak d³ugo jak bêdê go potrzebowa³ do zniszczenia Irenicusa i rzuci³ na mnie geas by upewniæ siê, ¿e zwrócê ostrze jak ju¿ bêdzie po wszystkim. Mam tylko nadziejê, ¿e znajdê drogê by tu ponownie powróciæ.~
-@31 = ~Proszê, <PRO_LADYLORD>, spiesz siê ze swoim zadaniem. Nie chcê d³u¿ej bez potrzeby pozostawaæ w tym miejscu.~
-@32 = ~Powróci³eœ, <PRO_LADYLORD>, a czarodziej nie ¿yje! Ufam, ¿e dotrzymasz obietnicy i oddasz miecz, t¹ Czarn¹ Brzytwê mi? Chcia³bym ju¿ opuœciæ t¹ piekieln¹ sferê.~
-@33 = ~Oczywiœcie. WeŸ j¹.~
-@34 = ~Zapomnij o tym. Miecz jest mój, i nie obchodzi mnie to co powiedzia³em wczeœniej.~
-@35 = ~Nie mogê. Zdaje siê, ¿e go gdzieœ po drodze zgubi³em.~
-@36 = ~Nie mo¿esz chcieæ tego, <PRO_LADYLORD>! Nawet jeœli nie obchodzi ciê moja mêka, z³amianie obietnicy bêdzie oznacza³o tw¹ œmieræ!~
-@37 = ~Oczywiœcie, zapomnij co powiedzia³em. WeŸ miecz.~
-@38 = ~S³ysza³eœ mnie za pierwszym razem. WeŸ swoje zaklêcia i idŸ precz, zanim zdecydujê siê u¿yæ miecza na tobie.~
-@39 = ~Czu³em, ¿e nie mogê ci ufaæ. Œmieræ by³aby teraz mile witana, ale jest ju¿ za póŸno. Przynajmniej myœl o twojej œmierci bêdzie ma³ym komfortem podczas wiecznej katorgi, która mnie czeka. Wiedz tylko, ¿e bêdê przeklina³ twe imiê przez ca³¹ resztê wiecznoœci.~
-@40 = ~Ty ... zgubi³eœ to? Ale ... czy wiesz co to oznacza? Jak mog³eœ byæ taki nierozs¹dny?~
+Wygl¹da na to, ¿e miecz zwany Czarn¹ Brzytw¹ stanowi³ klucz do uwolnienia d¿ina z niewoli w Piekle. Istota pozwoli³a mi zatrzymaæ broñ, dopóki nie zniszczê Irenicusa, rzucaj¹c przy tym na mnie geas, by zapewniæ sobie zwrot ostrza, gdy bêdzie ju¿ po wszystkim. Mam tylko nadziejê, ¿e znajdê sposób, by powróciæ póŸniej w to miejsce. ~
+@31 = ~Proszê, <PRO_LADYLORD>, nie zwlekaj z wykonaniem zadania. Nie chcê tu pozostawaæ d³u¿ej, ni¿ to konieczne.~
+@32 = ~Wracasz, <PRO_LADYLORD>. Czarodziej poleg³, widzê te¿, ¿e uda³o ci siê ukszta³towaæ to miejsce pod³ug w³asnej woli. Ufam, ¿e zamierzasz dotrzymaæ naszej umowy i zwróciæ mi Czarn¹ Brzytwê. Nie mogê doczekaæ siê opuszczenia tego piekielnego wiêzienia.~
+@33 = ~Oczywiœcie, weŸ go.~
+@34 = ~Zapomnij. Miecz nale¿y do mnie i mam gdzieœ, co mówi³em wczeœniej.~ ~Zapomnij. Miecz nale¿y do mnie i mam gdzieœ, co mówi³am wczeœniej.~
+@35 = ~Niestety nie mogê. Wygl¹da na to, ¿e jakimœ cudem j¹ zgubi³em.~ ~Niestety nie mogê. Wygl¹da na to, ¿e jakimœ cudem j¹ zgubi³am.~
+@36 = ~W takim razie, Ÿle odebra³em twe intencje, <PRO_LADYLORD>, powinienem by³ siê tego domyœliæ. Zdajesz sobie jednak sprawê, ¿e z³amanie ci¹¿¹cego na tobie geas oznacza dla ciebie œmieræ?~
+@37 = ~Racja, zapomnij, co mówi³em. Zabierz miecz.~ ~Racja, zapomnij, co mówi³am. Zabierz miecz.~
+@38 = ~Nie mam zamiaru siê powtarzaæ. Zabieraj swe groŸby i idŸ precz, zanim zdecydujê siê potraktowaæ ciê tym mieczem.~
+@39 = ~Myœl o twej œmierci bêdzie wiêc dla mnie choæ niewielk¹ pociech¹ podczas czekaj¹cej mnie po wsze czasy udrêki. Wiedz, ¿e przeklinam ciê na wieki, zdrajco.~ ~Myœl o twej œmierci bêdzie wiêc dla mnie choæ niewielk¹ pociech¹ podczas czekaj¹cej mnie po wsze czasy udrêki. Wiedz, ¿e przeklinam ciê na wieki, zdrajczyni.~
+@40 = ~Zgubi³eœ miecz? Czy zdajesz sobie w ogóle sprawê, co to oznacza? Jak mo¿na byæ tak nieodpowiedzialnym?~ ~Zgubi³aœ miecz? Czy zdajesz sobie w ogóle sprawê, co to oznacza? Jak mo¿na byæ tak nieodpowiedzialn¹?~
 
-// Upiór Sarevoka
+//Widmo Sarevoka
 
-@41 = ~Czy naprawdê myœla³eœ, ¿e bêdê tak g³upi by przyj¹æ twoj¹ ofertê? Nie ufam niczemu co mo¿esz mi daæ, Sarevok, a poza tym nieczego nie potrzebujê.~
-@42 = ~Czymkolwiek nie by³oby to przeznaczenie, które chcesz ofiarowaæ, obojêtnie czy by³oby moc¹ czy te¿ nie, jedna rzecz jest pewna. To ta, ¿e nie przyjmê niczego co móg³byœ ofiarowaæ.~
+@41 = ~Naprawdê uwa¿asz, ¿e jestem na tyle g³upi<HESHE>, by przystaæ na tw¹ ofertê? Nigdy nie zaufa³<HESHE>bym niczemu, co móg³byœ mi zaoferowaæ, Sarevoku, i z ca³¹ pewnoœci¹ tego nie potrzebujê.~
+@42 = ~Bez wzglêdu na to, co przyniesie mi los -  czy to potêgê, czy te¿ ubóstwo - pewien jestem, ¿e nigdy nie przyjmê niczego, co móg³byœ mi zaoferowaæ.~ ~Bez wzglêdu na to, co przyniesie mi los -  czy to potêgê, czy te¿ ubóstwo - pewna jestem, ¿e nigdy nie przyjmê niczego, co móg³byœ mi zaoferowaæ.~
 
-// Samolubny Demon
+//Samolub
 
-@43 = ~Zatem jak widzê muszê poœwiêciæ siebie. Nie chcê by przeze mnie sta³a siê komuœ krzywda.~
-@44 = ~Rób co musisz. Zabij j¹. Nie zale¿y mi na tym.~
-@45 = ~Nie jestem zdecydowany co powinienem zrobiæ.~
-@46 = ~Nie! Nie poœwiêcê niczego, ale nie chcê te¿ przynieœæ krzywdy komukolwiek innemu! Przygotuj siê na œmieræ, demonie!~
-@47 = ~Rób co musisz. Zabij go. Nie zale¿y mi na tym.~
-@48 = ~To twoja decyzja, Dzieciê Bhaala. Rozwa¿ j¹ ostro¿nie i przejdŸ przez drzwi, które wybierzesz.~
-@49 = ~Nie b¹dŸ g³upim dzieckiem. Chyba nie myœlisz powa¿nie by stan¹æ przeciw mnie? Mimo wszystko, wci¹¿ jesteœ œmiertelnikiem i nie mo¿esz mnie zniszczyæ, kreacjê twej w³asnej podœwiadomoœci. Istniejê tak d³ugo jak i ty istniejesz.  Walka ze mn¹ jest bezsensowna, jeœli tak siê stanie niezwykle szybko znikniesz, a tak¿e wszyscy, których mia³eœ nadziejê ochroniæ.~
-@50 = ~W twoich s³owach jest trochê racji, jak przypuszczam. Zatem sam muszê upaœæ.~
-@51 = ~Co¿ ... teraz myœlê, ¿e mia³eœ ca³kowit¹ racjê. Zabij zak³adnika i zapomnij o tym co powiedzia³em.~
-@52 = ~Zabi³em wiele potê¿niejszych istot ni¿ ty. Mów co sobie chcesz, ale nie uciekniesz przed t¹ walk¹.~
-@53 = ~Bardzo dobrze, jeœli tego sobie ¿yczysz, to nie bêdê siê sprzeciwia³. To mo¿e byæ nawet interesuj¹ce.~
-@54 = ~Wystarczy. Myœlê, ¿e tak bêdzie najlepiej. Dowiod³eœ swej odwagi by podj¹æ nawet najbardziej beznadziejn¹ walkê w celu zatrzymania tych, którzy próbuj¹ wp³ywaæ na przeznaczenie innych. Niewinny zostanie ci zwrócony.~
-@55 = ~Szukanie Irenicusa W Piekle
+@43 = ~Wobec tego bêdê musia³<HESHE> siê poœwiêciæ. Nie chcê, by ktokolwiek przeze mnie cierpia³.~ ~Bêdê wobec tego musia³a siê poœwiêciæ. Nie chcê, by ktokolwiek przeze mnie cierpia³.~
+@44 = ~Rób co musisz. Zabij j¹, nie dbam o to.~
+@45 = ~Nie potrafiê zdecydowaæ, co powinienem teraz uczyniæ.~ ~Nie potrafiê zdecydowaæ, co powinnam teraz uczyniæ.~
+@46 = ~Nie! Niczego nie bêdê poœwiêca³<HESHE>, lecz nie pozwolê ci te¿ wyrz¹dziæ komukolwiek krzywdy! Gotuj siê na œmieræ, biesie!~
+@47 = ~Rób co musisz. Zabij go, nie dbam o to.~
+@48 = ~Decyzja nale¿y do ciebie, Dzieciê Bhaala. Rozwa¿ j¹ starannie i przekrocz wybrane drzwi.~
+@49 = ~Nie b¹dŸ niem¹dry, Dziecko. Nie s¹dzisz chyba, ¿e mnie pokonasz. Jestem wytworem twego sumienia, nie jesteœ w stanie MNIE zniszczyæ. Bêdê istnia³ tak d³ugo jak ty. Walka ze mn¹ jest daremna, sprawi tylko, ¿e zginiesz wraz ze wszystkimi, których starasz siê chroniæ.~ ~Nie b¹dŸ niem¹dra, Dziecko. Nie s¹dzisz chyba, ¿e mnie pokonasz. Jestem wytworem twego sumienia, nie jesteœ w stanie MNIE zniszczyæ. Bêdê istnia³ tak d³ugo jak ty. Walka ze mn¹ jest daremna, sprawi tylko, ¿e zginiesz wraz ze wszystkimi, których starasz siê chroniæ.~
+@50 = ~Twe s³owa maj¹ sens, jak s¹dzê. Wezmê zatem ten ciê¿ar na siebie.~
+@51 = ~Có¿, jak siê nad tym zastanowiæ, masz absolutn¹ racjê. Zabij wiêc zak³adnika i zapomnij o wszystkim, co powiedzia³em.~ ~Có¿, jak siê nad tym zastanowiæ, masz absolutn¹ racjê. Zabij wiêc zak³adnika i zapomnij o wszystkim, co powiedzia³am.~
+@52 = ~Skoro ciê stworzy³em, mogê ciê te¿ zniszczyæ. Gadaj zdrów, nie umkniesz jednak przed t¹ walk¹.~ ~Skoro ciê stworzy³am, mogê ciê te¿ zniszczyæ. Gadaj zdrów, nie umkniesz jednak przed t¹ walk¹.~
+@53 = ~Skoro taka jest twa wola, nie bêdê siê sprzeciwia³. Ty jesteœ tu panem, Dzieciê Bhaala. Bez twej wspó³pracy nie zmuszê ciê do pe³nego poœwiêcenia. Zarówno ty, jak i ta druga istota bêdziecie cierpieæ!~ ~Skoro taka jest twa wola, nie bêdê siê sprzeciwia³. Ty jesteœ tu pani¹, Dzieciê Bhaala. Bez twej wspó³pracy nie zmuszê ciê do pe³nego poœwiêcenia. Zarówno ty, jak i ta druga istota bêdziecie cierpieæ!~
+@54 = ~Dosyæ. Dowiod³eœ swej chêci stawienia czo³a nawet najbardziej beznadziejnym sytuacjom, by chroniæ przeznaczenie innych. Wypuszczê tego nieszczêœnika i skierujê go tam, sk¹d przyszed³.~ ~Dosyæ. Dowiod³aœ swej chêci stawienia czo³a nawet najbardziej beznadziejnym sytuacjom, by chroniæ przeznaczenie innych. Wypuszczê tego nieszczêœnika i skierujê go tam, sk¹d przyszed³.~
+@55 = ~Poszukiwania Irenicusa w Piekle
 
-Odmówi³em przejœcia przez jakiekolwiek drzwi i podj¹³em walkê z demonem. Pomimo, ¿e walka by³a d³uga i nie mog³em zabiæ potwora, podda³ mi on £zê Bhaala. Zdaje siê, ¿e nie wiem jeszcze wszystkiego o demonach.~
-@56 = ~Wystarczy. Myœlê, ¿e tak bêdzie najlepiej. Dowiod³eœ swej odwagi by podj¹æ nawet najbardziej beznadziejn¹ walkê w celu zatrzymania tych, którzy próbuj¹ wp³ywaæ na przeznaczenie innych. Niewinny zostanie ci zwrócony.~
+Po mojej odmowie przejœcia przez którekolwiek z drzwi, Samolub niechêtnie stan¹³ do walki ze mn¹. Choæ starcie by³o d³ugie, a bestii nie sposób by³o zg³adziæ bestii, odda³a mi ona jednak £zê Bhaala. Demonowi uda³o siê jednak wywrzeæ du¿y wp³yw na psychice mojej i wiêzionego przezeñ biedaka. Jest to byæ mo¿e niewielka cena w porównaniu z ogromn¹ osobist¹ strat¹ lub œmierci¹ innej osoby.~
+@56 = ~Dosyæ. Dowiod³eœ swej chêci stawienia czo³a nawet najbardziej beznadziejnym sytuacjom, by chroniæ przeznaczenie innych. Zwrócê ci tego nieszczêœnika.~ ~Dosyæ. Dowiod³aœ swej chêci stawienia czo³a nawet najbardziej beznadziejnym sytuacjom, by chroniæ przeznaczenie innych. Zwrócê ci tego nieszczêœnika.~

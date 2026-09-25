@@ -1,0 +1,300 @@
+// -*- coding: cp1252 -*-
+
+@0    = ~Witaj! Rzadko ktoœ odwiedza Jadarada w jego laboratorium.~
+@1    = ~Nie mam nic przeciwko pogawêdce, ale nie próbuj utrudniaæ mi pracy. Roger tego nie cierpi i podejrzewam, ¿e w rezultacie twoje naszpikowane strza³ami cia³o zosta³oby znalezione w jakimœ rynsztoku.~
+@2    = ~Ojej! Nie jesteœ dziœ w przyjaznym nastroju. Nie zrobi³em ci nic z³ego.~ ~Ojej! Nie jesteœ dziœ w przyjaznym nastroju. Nie zrobi³am ci nic z³ego.~  
+@3    = ~O jakim laboratorium mówisz? Nie widzê tu niczego podobnego. Co robisz w tym pustym szambie?~
+@4    = ~Laboratorium? Jesteœ jakimœ czarodziejem czy alchemikiem?~
+@5    = ~Jak¹¿ to pracê mo¿na wykonywaæ w takim miejscu?~
+@6    = ~Co za interesy prowadzisz z Rogerem?~
+@7    = ~Kim jest Roger?~
+@8    = ~Um, zdajesz sobie sprawê, ¿e zaraz za tob¹ stoi morski troll?~
+@9    = ~Um, zdajesz sobie sprawê, ¿e przy naszym pierwszym spotkaniu zaraz za tob¹ sta³ morski troll?~
+@10   = ~Mi³o. Pójdê ju¿ sobie.~
+@11   = ~A, tak. Nie musisz siê baæ, bli¿ej nie podejdzie. Zapach chemikaliów odstrasza wszystkie ¿yj¹ce tu nieprzyjemne istoty.~
+@12   = ~Czekaj, masz odstraszacz na trolle?! A nie odst¹pi³byœ odrobiny?~
+@13   = ~Przed chwil¹ by³eœ doœæ nieprzyjazny. Nie zrobi³em ci nic z³ego.~ ~Przed chwil¹ by³eœ doœæ nieprzyjazny. Nie zrobi³am ci nic z³ego.~
+@14   = ~Nie widzê tu ¿adnego laboratorium. Co robisz w tym pustym szambie?~
+@15   = ~Jesteœ zatem jakimœ czarodziejem czy alchemikiem?~
+@16   = ~Ciekawe. To ja sobie ju¿ pójdê.~
+@17   = ~Nie pamiêtam dok³adnie, który odczynnik tak na nie dzia³a. Odstraszanie szkodników nie jest niestety moim priorytetem.~
+@18   = ~Rozumiem. Jesteœ zatem jakimœ czarodziejem czy alchemikiem?~
+@19   = ~W takim razie niewa¿ne. To ja ju¿ sobie pójdê.~
+@20   = ~Pos³uchaj, nie mam nic przeciwko pogawêdce, ale nie próbuj utrudniaæ mi pracy. Roger tego nie cierpi i podejrzewam, ¿e w rezultacie naszpikowane strza³ami cia³o twojego przyjaciela zosta³oby znalezione w jakimœ rynsztoku.~
+@21   = ~Pos³uchaj, nie mam nic przeciwko pogawêdce, ale nie próbuj utrudniaæ mi pracy. Roger tego nie cierpi i podejrzewam, ¿e w rezultacie twoje naszpikowane strza³ami cia³o zosta³oby znalezione w jakimœ rynsztoku.~
+@22   = ~Ale móg³byœ. Ka¿dy mo¿e potencjalnie zaszkodziæ. Nie mogê pozwoliæ na ¿adne zak³ócenia w mojej pracy. Nie przeszkadzaj mi, a bêdziemy przyjació³mi. Dobrymi przyjació³mi. Najlepszymi.~ ~Ale mog³abyœ. Ka¿dy mo¿e potencjalnie zaszkodziæ. Nie mogê pozwoliæ na ¿adne zak³ócenia w mojej pracy. Nie przeszkadzaj mi, a bêdziemy przyjació³mi. Dobrymi przyjació³mi. Najlepszymi.~
+@23   = ~W ka¿dym razie nie widzê tu ¿adnego laboratorium. Co robisz w tym pustym szambie?~
+@24   = ~Rozumiem. Có¿, chyba sobie ju¿ pójdê.~
+@25   = ~Czynsz jest tani, a dobre jad³odajnie s¹ zaledwie na odleg³oœæ drabiny. Jestem tu z tego samego powodu co wszyscy!~
+@26   = ~Jestem zapracowany i nie lubiê, kiedy inni przeszkadzaj¹ mi w pracy. Niepotrzebne mi laboratorium bardziej z³o¿one ni¿ ludzki umys³ i cia³o. Jest to fakt, którego nie zauwa¿a wielu moich kolegów po fachu.~
+@27   = ~Chocia¿ przy ostatnich dziwnych wydarzeniach zrobi³o siê tu trochê t³oczno... wiêc staraj siê mnie nie dra¿niæ!~
+@28   = ~Jesteœ kimœ w rodzaju maga? Móg³byœ uwarzyæ dla mnie jakieœ mikstury?~
+@29   = ~W porz¹dku. To ja ju¿ sobie pójdê.~
+@30   = ~Nie jestem mêdrcem ani czarodziejem, zaledwie skromnym zielarzem znaj¹cym kilka pomniejszych zaklêæ. Ca³¹ nadwy¿kê mikstur sprzedajê Rogerowi, który ma dobrze zaopatrzony sk³ad. Czemu nie kupisz u niego?~
+@31   = ~Ciekawi mnie, co dok³adnie tutaj robisz, oprócz warzenia mikstur.~
+@32   = ~Mo¿e da³bym siê przekonaæ do podzielenia siê z tob¹ owocami mojej pracy. A mo¿e nie. Najpierw bêdziesz musia³ dla mnie coœ zrobiæ.~ ~Mo¿e da³bym siê przekonaæ do podzielenia siê z tob¹ owocami mojej pracy. A mo¿e nie. Najpierw bêdziesz musia³a dla mnie coœ zrobiæ.~
+@33   = ~Roger nie jest w stanie zaopatrzyæ mnie we wszystkie niezbêdne materia³y. Potrzebny mi jest ktoœ bardziej mobilny, kto móg³by je dostarczyæ. Móg³byœ w ten sposób wesprzeæ postêp i rozwój nauki.~ ~Roger nie jest w stanie zaopatrzyæ mnie we wszystkie niezbêdne materia³y. Potrzebny mi jest ktoœ bardziej mobilny, kto móg³by je dostarczyæ. Mog³abyœ w ten sposób wesprzeæ postêp i rozwój wiedzy.~
+@34   = ~Z chêci¹ wykonam dla ciebie to zadanie.~
+@35   = ~Co bêdê z tego mia³? Wiedza jest bardzo fajna, ale potrzebna bêdzie lepsza zachêta od odrobiny treningu i edukacji.~ ~Co bêdê z tego mia³a? Wiedza jest bardzo fajna, ale potrzebna bêdzie lepsza zachêta od odrobiny treningu i edukacji.~
+@36   = ~Mam byæ ch³opcem na posy³ki dla szaleñca mieszkaj¹cego w kana³ach? Co za niesamowity sposób na spêdzenie wolnego czasu. Mi³ego dnia ¿yczê.~ ~Mam byæ dziewk¹ na posy³ki dla szaleñca mieszkaj¹cego w kana³ach? Co za niesamowity sposób na spêdzenie wolnego czasu. Mi³ego dnia ¿yczê.~
+@37   = ~A mo¿e zamiast tego zaraz ciê zabijê?~
+@38   = ~Daruj. Nie mam czasu na wys³uchiwanie pustych gróŸb. Zapewniam ciê, ¿e kontakty Rogera bez trudu poradz¹ sobie z tob¹.~
+@39   = ~Sprzedajê mu wytwarzane przeze mnie mikstury, a on dostarcza mi tych, których potrzebujê do pracy. Oczywiœcie s¹ te¿ sk³adniki, których ten obibok nijak nie potrafi zdobyæ.~
+@40   = ~Potrzebujesz mikstur? Mo¿e bêdê w stanie ci pomóc?~
+@41   = ~Och, w zasadzie jest sprzedawc¹ mikstur. Prawdopodobnie znajdziesz go gdzieœ w pobli¿u. Zapomnia³em, w którym miejscu dok³adnie przebywa.~
+@42   = ~Nie jest mo¿e wzorem cnót wszelakich, ale w tym miejscu jest dla mnie jedynym towarzystwem. Z tego co rozumiem, ma kontakty w którejœ z gildii... Nie, ¿eby mnie to specjalnie obchodzi³o.~
+@43   = ~Przed chwil¹ by³eœ doœæ nieprzyjazny. Nie zrobi³em ci nic z³ego.~ ~Przed chwil¹ by³eœ doœæ nieprzyjazny. Nie zrobi³am ci nic z³ego.~
+@44   = ~Jak¹ pracê móg³byœ tu wykonywaæ?~
+@45   = ~Zaczekaj! Nie odchodŸ jeszcze! Roger nie jest idealnym dostawc¹. Przyda³aby mi siê pomoc doœwiadczonego poszukiwacza przygód.~ ~Zaczekaj! Nie odchodŸ jeszcze! Roger nie jest idealnym dostawc¹. Przyda³aby mi siê pomoc doœwiadczonej poszukiwaczki przygód.~
+@46   = ~Pomoc osoby, która mog³aby opuœciæ kana³y i dostarczyæ mi zestaw brakuj¹cych mikstur, by³aby dla mnie bardzo cenna. Dziêki niej móg³bym posun¹æ siê mocno do przodu z moimi badaniami.~
+@47   = ~Dam ci listê potrzebnych mikstur. Za ka¿d¹, któr¹ mi dostarczysz, otrzymasz godn¹ zap³atê.~
+@48   = ~He he! Kto wie. Jeœli bêdziesz mia³ szczêœcie, mo¿esz byæ œwiadkiem zakoñczenia moich badañ i otrzymaæ niesamowit¹ nagrodê - wiedzê i moc!~ ~He he! Kto wie. Jeœli bêdziesz mia³a szczêœcie, mo¿esz byæ œwiadkiem zakoñczenia moich badañ i otrzymaæ niesamowit¹ nagrodê - wiedzê i moc!~
+@49   = ~Zgoda, dostarczê ci to, czego potrzebujesz.~
+@50   = ~Nie pomogê ci. ¯egnaj, szaleñcze. ¯a³ujê, ¿e trafi³em do twojej ¿a³osnej dziury.~ ~Nie pomogê ci. ¯egnaj, szaleñcze. ¯a³ujê, ¿e trafi³am do twojej ¿a³osnej dziury.~
+@51   = ~Widzê to w twoich oczach. Te¿ jej pragniesz. To podstawowa ¿¹dza, która tkwi w ka¿dym, choæ nieliczni siê do niej przyznaj¹. Mam rzecz jasna na myœli moc.~
+@52   = ~S¹dzê, ¿e jestem bliski uwolnienia mocy, która mog³aby powaliæ ca³y Faerûn na kolana. Przynieœ mi to, czego potrzebujê, a podzielê siê ni¹ z tob¹.~
+@53   = ~By³byœ g³upcem, oczekuj¹c równego podzia³u, tak samo jak ja by³bym g³upcem, gdybym ci taki zaproponowa³. Mimo wszystko otrzymasz moc, której po¿¹dasz.~ ~By³abyœ g³upia, oczekuj¹c równego podzia³u, tak samo jak ja by³bym g³upcem, gdybym ci taki zaproponowa³. Mimo wszystko otrzymasz moc, której po¿¹dasz.~
+@54   = ~Zgoda, zrobiê, jak sobie ¿yczysz. Lepiej jednak, ¿ebyœ mówi³ prawdê albo po¿a³ujesz.~
+@55   = ~Powiedz mi, co wiesz albo poniesiesz srogie konsekwencje!~
+@56   = ~Nie pragnê mocy. Chcê bogactwa. To te¿ mo¿esz mi daæ?~
+@57   = ~Mam byæ ch³opcem na posy³ki dla szaleñca mieszkaj¹cego w kana³ach? Co za niesamowity sposób na spêdzenie wolnego czasu. Mi³ego dnia ¿yczê.~ ~Mam byæ dziewk¹ na posy³ki dla szaleñca mieszkaj¹cego w kana³ach? Co za niesamowity sposób na spêdzenie wolnego czasu. Mi³ego dnia ¿yczê.~
+@58   = ~Brzmisz jak z³owrogi szaleniec... A ja zajmujê siê têpieniem takich jak ty!~
+@59   = ~Jak zd¹¿y³em siê przekonaæ, prawdziwy geniusz rzadko jest doceniany. Twoja strata. Je¿eli zmienisz zdanie, mo¿esz oczywiœcie do mnie wróciæ.~
+@60   = ~Bardzo siê cieszê, ¿e zgodzi³eœ siê pomóc. Z pewnoœci¹ nie po¿a³ujesz tej decyzji. Oto lista potrzebnych mikstur.~ ~Bardzo siê cieszê, ¿e zgodzi³aœ siê pomóc. Z pewnoœci¹ nie po¿a³ujesz tej decyzji. Oto lista potrzebnych mikstur.~
+@61   = ~No, no... Te obelgi s¹ zupe³nie niepotrzebne. Jeœli zdecydujesz, ¿e jednak chcesz ze mn¹ wspó³pracowaæ, mo¿esz oczywiœcie wróciæ.~
+@62   = ~Je¿eli jednak twoim jedynym zamiarem jest przeszkadzanie mi w pracy, bêdê wdziêczny, je¿eli bêdziesz siê trzymaæ z daleko od mojego laboratorium. Mog¹ siê tu zdarzyæ rozmaite "wypadki", o których nie dowie siê nikt z powierzchni.~
+@63   = ~Och, groŸby. Odwieczny sygna³ ni¿szoœci intelektualnej. Mimo tego nadal nie mam zamiaru dzieliæ siê z tob¹ moimi odkryciami. Twoja przewaga jest pozorna.~
+@64   = ~Jak mi³o. I tak ciê zabijê.~
+@65   = ~Zgoda, wykonam dla ciebie to nudne zadanie. Lepiej, ¿ebyœ mówi³ prawdê. W innym wypadku po¿a³ujesz.~
+@66   = ~W takim razie ci nie pomogê. ¯egnaj, szaleñcze. ¯a³ujê, ¿e trafi³em do twojej ¿a³osnej dziury.~ ~W takim razie ci nie pomogê. ¯egnaj, szaleñcze. ¯a³ujê, ¿e trafi³am do twojej ¿a³osnej dziury.~
+@67   = ~Nie s¹dzê. W ka¿dym razie bêdzie to decyzja, której po¿a³ujesz.~
+@68   = ~Mój goœæ powraca. Rozwa¿y³eœ wykonanie dla mnie tego prostego zadania, czy przyszed³eœ napawaæ siê gnilnymi aromatami mojego laboratorium?~ ~Mój goœæ powraca. Rozwa¿y³aœ wykonanie dla mnie tego prostego zadania, czy przysz³aœ napawaæ siê gnilnymi aromatami mojego laboratorium?~
+@69   = ~Zgoda, przyniosê ci te mikstury.~
+@70   = ~Jesteœ wiêc jakimœ czarodziejem czy alchemikiem?~
+@71   = ~Tylko przechodzi³em. Ju¿ sobie idê.~ ~Tylko przechodzi³am. Ju¿ sobie idê.~
+@72   = ~Jak idzie zbieranie mikstur, mój sêpie?~ ~Jak idzie zbieranie mikstur, moja sêpico?~
+@73   = ~Mam dla ciebie Miksturê niewidzialnoœci.~
+@74   = ~Mam dla ciebie Olej szybkoœci.~
+@75   = ~Mam dla ciebie Miksturê odpornoœci na zimno.~
+@76   = ~Mam dla ciebie Miksturê wybuchów.~
+@77   = ~Mam dla ciebie Miksturê izolacji.~
+@78   = ~Mam dla ciebie Miksturê wzmocnienia.~
+@79   = ~Mam dla ciebie Miksturê t³umienia magii.~
+@80   = ~Mam dla ciebie Miksturê lustrzanych oczu.~
+@81   = ~Mam dla ciebie Miksturê mocy.~
+@82   = ~Mam dla ciebie Miksturê intuicji.~
+@83   = ~Mam dla ciebie Miksturê wolnoœci.~
+@84   = ~Mam dla ciebie Miksturê kamiennego cia³a.~
+@85   = ~Obieca³eœ mi nagrodê cenniejsz¹ od pieniêdzy.~
+@86   = ~Twoja praca posuwa siê do przodu, ale moim zdaniem z ka¿d¹ nasz¹ rozmow¹ stajesz siê coraz bardziej szalony.~
+@87   = ~Wspomina³eœ coœ o rodzinie, ¿onie i dziecku. Co siê z nimi sta³o?~
+@88   = ~Chyba znalaz³em twoj¹ rodzinê, Jadaradzie. Niedawno spotka³em ich w Dzielnicy Mostów.~ ~Chyba znalaz³am twoj¹ rodzinê, Jadaradzie. Niedawno spotka³am ich w Dzielnicy Mostów.~
+@89   = ~Na pewno nie chcesz porozmawiaæ ze swoimi bliskimi?~
+@90   = ~Nic dla ciebie nie mam.~
+@91   = ~Jak idzie zbieranie moich mikstur, sêpy?~
+@92   = ~Masz mo¿e jeszcze jakieœ mikstury?~
+@93   = ~Och, krok naprzód ku doskona³oœci! Oto zap³ata, tak jak obieca³em.~
+@94   = ~Co w takim razie tutaj robisz?! To niezwykle istotna sprawa. Musisz mi przynieœæ mikstury!~
+@95   = ~Aaach, w koñcu posuwam siê do przodu. Po tak d³ugim tkwieniu w tym zatêch³ym kanale... Ju¿ niebawem moc bêdzie nale¿eæ do mnie. Ju¿ nied³ugo.~
+@96   = ~Wygl¹da na to, ¿e jesteœmy w stanie wspó³pracowaæ. Dobrze uzupe³niasz wysi³ki Rogera. I chyba czeka³eœ ju¿ dostatecznie d³ugo, ¿ebym wyjaœni³ ci, co zamierzam.~ ~Wygl¹da na to, ¿e jesteœmy w stanie wspó³pracowaæ. Dobrze uzupe³niasz wysi³ki Rogera. I chyba czeka³aœ ju¿ dostatecznie d³ugo, ¿ebym wyjaœni³ ci, co zamierzam.~
+@97   = ~Ju¿ powinieneœ to rozumieæ, przyjacielu, poniewa¿ chêtnie rzucasz siê w wir przygody i walki. Czy zdarzy³o ci siê kiedyœ wypiæ wiele mikstur... powiedzmy tuzin, jedn¹ po drugiej? Pewnie nie, gdy¿ mówi siê, ¿e zmieszanie zbyt wielu magicznych efektów naraz powoduje œmieræ.~ ~Ju¿ powinnaœ to rozumieæ, przyjació³ko, poniewa¿ chêtnie rzucasz siê w wir przygody i walki. Czy zdarzy³o ci siê kiedyœ wypiæ wiele mikstur... powiedzmy tuzin, jedn¹ po drugiej? Pewnie nie, gdy¿ mówi siê, ¿e zmieszanie zbyt wielu magicznych efektów naraz powoduje œmieræ.~
+@98   = ~Kiedyœ wierzy³em w to, czego mnie uczono... Niez³y by³ ze mnie g³upiec. Mieszka³em wtedy w Imnesvale, po³o¿onym w pobli¿u miasteczku. Musisz wiedzieæ, ¿e kiedy z³odzieje atakuj¹ twój sklep, kiedy gro¿¹ twojej ¿onie i dziecku, nie masz wyboru.~
+@99   = ~Zmiesza³em wtedy ze sob¹ tyle mikstur, ile tylko mia³em pod rêk¹. Wedle wszelkich teorii powinienem by³ tej nocy umrzeæ. Zamiast tego sta³em siê kimœ wiêcej ni¿ cz³owiekiem. Bandyci nie byli dla mnie ¿adn¹ przeszkod¹... Mia³em wra¿enie, jakby ¿adna si³a w Krainach nie by³a zdolna mnie powstrzymaæ.~
+@100  = ~Jak powiedzia³em, nic nie mog³o mnie zatrzymaæ! Wiêc bieg³em. W nastêpnych dniach biega³em po ca³ym Amn. Biega³em dla p³yn¹cej z tego przyjemnoœci, zabijaj¹c wszystko na swojej drodze. Takie s¹ pokusy zwi¹zane z posiadaniem mocy.~
+@101  = ~Jak mog³eœ zauwa¿yæ, poci¹ga ona za sob¹ szaleñstwo. A jednak odda³bym wszystko, by ponownie posmakowaæ tak czystej rozkoszy. A w³aœciwie ju¿ to zrobi³em, by zakosztowaæ jej po raz ostatni.~ ~Jak mog³aœ zauwa¿yæ, poci¹ga ona za sob¹ szaleñstwo. A jednak odda³bym wszystko, by ponownie posmakowaæ tak czystej rozkoszy. A w³aœciwie ju¿ to zrobi³em, by zakosztowaæ jej po raz ostatni.~
+@102  = ~Rozum podpowiada³ mi, ¿e by³ to czysty przypadek... ¯e nigdy wiêcej nie uda mi siê powtórzyæ tego doœwiadczenia. Teraz jednak wierzê, ¿e jestem na dobrej drodze do rozwik³ania tej tajemnicy, dziêki twojej pomocy.~
+@103  = ~Kiedy dokona³em mojego odkrycia, okolicznoœci nie pozwoli³y mi zapisaæ dok³adnej kombinacji potrzebnych mikstur. Nied³ugo jednak stanê przed problemem identyfikacji kluczowego substratu.~
+@104  = ~Co, je¿eli komuœ uda siê powtórzyæ moje odkrycie? Musimy dzia³aæ szybko! Moja bêdzie chwa³a, a imiê me bêdzie powa¿ane w ca³ych Krainach! Stanie siê jasne, ¿e Jadarad nie jest szaleñcem!~
+@105  = ~Ach, ale¿ bêdê drwi³ z moich przeœmiewców, kiedy im udowodniê, ¿e siê mylili. Jadarad triumfalnie powróci na powierzchniê!~
+@106  = ~Mówi³em ci, co siê sta³o z moj¹ rodzin¹?~
+@107  = ~Kiedy moja moc wygas³a, powróci³em do Imnesvale, do ruiny, która kiedyœ by³a moim domem. Ku rozpaczy i obrzydzeniu odkry³em, ¿e uciekli.~
+@108  = ~Powinienem by³ ich odszukaæ, ale nie maj¹ ju¿ ¿adnego znaczenia. Nie potrzebujê ich do ukoñczenia moich eksperymentów. Po¿a³uj¹ swojej straty!~
+@109  = ~Zamierzam wróciæ do Imnesvale, kiedy moje dzie³o zostanie ukoñczone. Przez lata wegetowa³em w tej plugawej dziurze. Kana³y w porównaniu z ni¹ s¹ prawdziw¹ oaz¹ œwie¿oœci.~
+@110  = ~A jednak odkrycie, ¿e ta osada by³a zaledwie siedliskiem pospolitych z³odziei i bandytów, by³o upokarzaj¹ce. Zap³ac¹ za to, co mnie spotka³o.~
+@111  = ~Chocia¿... Chyba jestem im winien wdziêcznoœæ. Nie s¹dzê, ¿eby ten atak by³ przypadkowy. To by³o dzia³anie przeznaczenia, bo moim przeznaczeniem jest dokonaæ tego odkrycia!~
+@112  = ~HAHAHAHAHA! Skoñczy³em! W koñcu i *ja* bêdê kompletny! A ty, mój przyjacielu... zostaniesz wynagrodzony za twoj¹ pomoc.~ ~HAHAHAHAHA! Skoñczy³em! W koñcu i *ja* bêdê kompletny! A ty, moja przyjació³ko... zostaniesz wynagrodzona za twoj¹ pomoc.~
+@113  = ~Teraz, kiedy mam ju¿ przepis na w³aœciw¹ mieszankê, pozostaje tylko proste zadanie napojenia siê miksturami i...~
+@114  = ~I co? Kaza³eœ mi ganiaæ za tymi miksturami po ca³ym œwiecie. Pij i miejmy to ju¿ za sob¹.~
+@115  = ~Skoro to mo¿e byæ zabójcze, mo¿e powinieneœ zachowaæ ostro¿noœæ?~
+@116  = ~Stój! Nie mogê pozwoliæ, abyœ kontynuowa³ swój plan. To jasne, ¿e jesteœ ob³¹kany i nie powinieneœ mieæ dostêpu do takiej mocy. Powstrzymam ciê si³¹, jeœli to konieczne!~
+@117  = ~Nie! Po tak d³ugim czekaniu nie dam sobie przeszkodziæ! Kiedy wst¹pi we mnie moc mikstur, nie zdo³asz mnie powstrzymaæ.~
+@118  = ~Nie ma sensu d³u¿ej zwlekaæ. Ju¿ za chwilê znów bêdê wolny!~
+@119  = ~Obawiam siê, ¿e to nie takie proste. Nie mam pewnoœci, co siê stanie. D³ugie ¿ycie w tych warunkach nie odbi³o siê zbyt dobrze na moim zdrowiu. Podejrzewam, ¿e nawet najmniejszy b³¹d móg³by doprowadziæ do mojej œmierci.~
+@120  = ~Konieczne jest przetestowanie dzia³ania mieszanki. Muszê przyjrzeæ siê jej dzia³aniu, kiedy zostanie podana w ma³ej iloœci... Podana komuœ innemu.~
+@121  = ~Tylko wtedy bêdê pewien, ¿e jest to taka sama mikstura, jak ta, która stworzy³em za pierwszym razem. Och, có¿ za frustracja, byæ tak blisko celu, a jednak wci¹¿ tkwiæ w niepewnoœci.~
+@122  = ~Nie ma mowy! Nie bêdê twoim królikiem doœwiadczalnym. Sk¹d mam wiedzieæ, ¿e mnie to nie zabije?~ ~Nie ma mowy! Nie bêdê twoj¹ mysz¹ doœwiadczaln¹. Sk¹d mam wiedzieæ, ¿e mnie to nie zabije?~
+@123  = ~Zgoda, zrobiê to. Lepiej jednak ¿eby zap³ata by³a tego warta.~
+@124  = ~Nie by³byœ sk³onny jeszcze tego rozwa¿yæ? Twoja obsesja wyprowadzi³a ciê z równowagi. Zrezygnuj z tego wyœcigu donik¹d i wróæ na powierzchniê.~
+@125  = ~W niewielkiej dawce powinna mieæ ledwie zauwa¿alny efekt na kogoœ tak twardego jak ty.~
+@126  = ~Mo¿e jednak zmienisz zdanie? To jest to... koñcowy efekt lat mojej pracy!~
+@127  = ~Zgoda, zrobiê to. Ale dla mocy, nie dla z³ota! Chocia¿ oczywiœcie z³oto te¿ wezmê.~
+@128  = ~Zapomnij. Przetestuj na sobie.~
+@129  = ~Nie mogê pozwoliæ na kontynuacjê tego planu. To jasne, ¿e jesteœ ob³¹kany i nie powinieneœ mieæ dostêpu do takiej mocy. Powstrzymam ciê si³¹, jeœli to konieczne!~
+@130  = ~Dobrze, wspaniale! Twoje imiê zapisze siê w anna³ach historii za ten chwalebny czyn! Dopilnujê tego!~
+@131  = ~Musisz wypiæ te mikstury szybko jedn¹ po drugiej i w kolejnoœci, w jakiej je ustawi³em. Zrób to natychmiast, zanim siê rozmyœlisz!~
+@132  = ~Chwileczkê, nie jestem pewien, czy powinienem. To mo¿e...~ ~Chwileczkê, nie jestem pewna, czy powinnam. To mo¿e...~
+@133  = ~Dobrze... Miejmy to ju¿ za sob¹. ~
+@134  = ~W takim razie zrobiê to sam. Dziêkujê ci za pomoc, szkoda jednak, ¿e na koniec w twoim umyœle zagoœci³o zw¹tpienie. Mimo to otrzymasz obiecan¹ zap³atê.~
+@135  = ~Zrobi³eœ to! I ¿yjesz! Szybko, pozwól mi pobraæ kroplê krwi do badañ.~ ~Zrobi³aœ to! I ¿yjesz! Szybko, pozwól mi pobraæ kroplê krwi do badañ.~
+@136  = ~Czujê siê dziwnie... Silniejszy, a zarazem s³abszy. Nie jestem pewien, co mi zrobi³eœ.~ ~Czujê siê dziwnie... Silniejsza, a zarazem s³absza. Nie jestem pewna, co mi zrobi³eœ.~
+@137  = ~Co siê sta³o? To bola³o!~
+@138  = ~Ha! Moja magiczna analiza ujawni³a tajemnicê skryt¹ w twojej krwi! To by³o tak oczywiste. Takie proste.~
+@139  = ~Daj mi tylko chwilê... i... Tak, to w³aœciwa kombinacja! Nie, nie poka¿ê ci jej. Nie obierzesz mi mojej tajemnicy!~
+@140  = ~Wynagrodzê ciê jednak. O tak, zostaniesz wynagrodzony za twoj¹ bezcenn¹ pomoc. Bez niej to chwalebne przebudzenie nie by³oby mo¿liwe.~ ~Wynagrodzê ciê jednak. O tak, zostaniesz wynagrodzona za twoj¹ bezcenn¹ pomoc. Bez niej to chwalebne przebudzenie nie by³oby mo¿liwe.~
+@141  = ~Nie dostaniesz jednak formu³y! Ona nale¿y do mnie i bêdzie na zawsze moja! Na zawsze!~
+@142  = ~Jestem... znów sob¹. Brakuj¹ca moc zosta³a przywrócona i w koñcu czujê siê kompletny. Znów jasno myœlê i rozumiem, dlaczego wczeœniej uzna³eœ mnie za szalonego.~ ~Jestem... znów sob¹. Brakuj¹ca moc zosta³a przywrócona i w koñcu czujê siê kompletny. Znów jasno myœlê i rozumiem, dlaczego wczeœniej uzna³aœ mnie za szalonego.~
+@143  = ~Ten ob³êd spe³ni³ jednak swój cel, uczyniwszy mnie tym, kim jestem. Nie, nie sta³em siê bogiem. Nie jestem jednak ju¿ cz³owiekiem.~
+@144  = ~Z szacunku za hart i ¿elazn¹ wytrwa³oœæ, dziêki której przetrwa³eœ próbê, której ja sam bym nie sprosta³, dajê ci to. Niech ten pas bêdzie symbolem ci¹g³ej ochrony, na któr¹ zas³u¿y³eœ.~ ~Z szacunku za hart i ¿elazn¹ wytrwa³oœæ, dziêki której przetrwa³aœ próbê, której ja sam bym nie sprosta³, dajê ci to. Niech ten pas bêdzie symbolem ci¹g³ej ochrony, na któr¹ zas³u¿y³aœ.~
+@145  = ~Byæ mo¿e spotkamy siê znowu w innym miejscu. Mam teraz do naprawienia z³o, którego wiele uczyni³em w moim ¿yciu. ¯egnaj, przyjacielu, i powodzenia.~ ~Byæ mo¿e spotkamy siê znowu w innym miejscu. Mam teraz do naprawienia z³o, którego wiele uczyni³em w moim ¿yciu. ¯egnaj, przyjació³ko, i powodzenia.~
+@146  = ~Moja rodzina mnie porzuci³a! Nie obchodzi mnie ich los! Ich ¿ycie lub œmieræ nie jest moj¹ spraw¹.~
+@147  = ~Ale to ty ich porzuci³eœ, ruszaj¹c na wycieczkê wyposa¿ony w nowe moce.~
+@148  = ~Nie chcesz siê dowiedzieæ, co siê z nimi sta³o? ZdradŸ mi przynajmniej ich imiona. Mo¿e uda mi siê ich odnaleŸæ.~
+@149  = ~Niech tak bêdzie. Twoje osobiste sprawy mnie nie dotycz¹. Kontynuujmy nasz¹ pracê.~
+@150  = ~Rozumiem. W takim razie idê sobie, a ty tu zostañ.~
+@151  = ~Nie twoj¹ rzecz¹ jest kwestionowaæ moje decyzje, najemniku! Dokoñcz swoje zlecenie! Obieca³em ci ju¿ fantastyczn¹ nagrodê. Obieca³em podzieliæ siê z tob¹ moc¹! Mojej duszy te¿ po¿¹dasz?~ ~Nie twoj¹ rzecz¹ jest kwestionowaæ moje decyzje, najemniczko! Dokoñcz swoje zlecenie! Obieca³em ci ju¿ fantastyczn¹ nagrodê. Obieca³em podzieliæ siê z tob¹ moc¹! Mojej duszy te¿ po¿¹dasz?~
+@152  = ~Dobrze, dobrze. To ja ju¿ sobie pójdê.~
+@153  = ~Zgoda, jeœli dziêki temu przestaniesz wierciæ mi dziurê w brzuchu, idŸ i przetrz¹œnij Krainy w poszukiwaniu tej niewiernej kobiety i mojego przeklêtego dziecka. Kobieta mia³a na imiê Sidhe, a dziewczynka Janie. Kiedy osi¹gnê mój cel, obie otrzymaj¹ swoj¹ zap³atê! Kiedy znów bêdê potê¿ny! Taaaak!~
+@154  = ~¯artujesz? Przetrz¹sn¹æ Krainy? One s¹ w mieœcie. Niedawno spotka³em je w Dzielnicy Mostów.~ ~¯artujesz? Przetrz¹sn¹æ Krainy? One s¹ w mieœcie. Niedawno spotka³am je w Dzielnicy Mostów.~
+@155  = ~Jeœli ciebie nie obchodz¹, to mnie te¿ nie. Twoja praca jest znacznie wa¿niejsza.~
+@156  = ~Ciekawe. W takim razie ju¿ sobie pójdê.~
+@157  = ~W koñcu ktoœ, kto ma prawid³owo u³o¿one priorytety!~
+@158  = ~Wrêcz przeciwnie, tryskam radoœci¹. Zbli¿am siê do celu, do którego d¹¿y³em od wielu lat. Wrêcz promieniejê szczêœciem!~
+@159  = ~Od jak dawna tu jesteœ?~
+@160  = ~Skoro tak mówisz. Lepiej, ¿eby to wszystko by³o warte mojego wysi³ku.~
+@161  = ~To ja ju¿ sobie pójdê.~
+@162  = ~Bardzo dobrze pamiêtam dzieñ, kiedy przydarzy³ mi siê ten cud. Dzieñ, kiedy sta³em siê kimœ wiêcej, ni¿ by³em wczeœniej. To by³o piêæ lat i dwa miesi¹ce temu.~
+@163  = ~Moje uniesienie trwa³o zaledwie trzy tygodnie. Te kana³y natomiast s¹ moim domem ju¿ prawie cztery lata.~
+@164  = ~W³aœciwie bêdzie mi trochê ¿al opuœciæ to miejsce. Wiele siê tu dzieje. Wiele rzeczy, o których nie wiedz¹ na powierzchni. Mo¿na tu liczyæ zarówno na przygody, jak i na spokój. To naprawdê wspania³y œwiat!~
+@165  = ~Có¿... zapewne tak jest. Wróæmy do interesów.~
+@166  = ~To z pewnoœci¹ niezwyk³e. W ka¿dym razie ja ju¿ sobie idê.~
+@167  = ~B¹dŸ cierpliwy! Kiedy zakoñczê moje eksperymenty, bêdê niemal wszechmocny! Bêdê zdolny sterowaæ niezwykle potê¿nymi si³ami magii sam¹ myœl¹! Bêdê móg³ stworzyæ niezwykle potê¿ne przedmioty jednym skinieniem!~ ~B¹dŸ cierpliwa! Kiedy zakoñczê moje eksperymenty, bêdê niemal wszechmocny! Bêdê zdolny sterowaæ niezwykle potê¿nymi si³ami magii sam¹ myœl¹! Bêdê móg³ stworzyæ niezwykle potê¿ne przedmioty jednym skinieniem!~
+@168  = ~Poza tym za ka¿d¹ z tych mikstur p³acê ci niez³¹ sumkê.~
+@169  = ~Lepiej, ¿ebyœ spe³ni³ swoje obietnice.~
+@170  = ~Doskonale, idŸ i zdob¹dŸ potrzebne mi mikstury!~
+@171  = ~Co? S¹ tak blisko? Zawsze wyobra¿a³em sobie, ¿e wyl¹dowa³y gdzieœ daleko, na przyk³ad jako niewolnice w Thay albo kolonistki w Maztice. Nie, ¿e s¹ kilkaset metrów st¹d...~
+@172  = ~To bez znaczenia! Nic mnie ju¿ nie obchodz¹. Moja praca! Wróæmy do mojej pracy!~
+@173  = ~Nie powinieneœ chocia¿ z nimi porozmawiaæ?~
+@174  = ~Lepiej ci bêdzie bez nich. S¹ biedne i wyg³odzone. Zawadza³yby ci tylko w drodze do wielkoœci.~
+@175  = ~Tak, masz racjê. Moje dzie³o jest istotniejsze ni¿ osobiste problemy jednego cz³owieka.~
+@176  = ~Nie! Moja praca jest wa¿niejsza. Nie potrzebujê ich, ani nie chcê. Odrzuci³yby mnie, tak samo jak wszyscy inni!~
+@177  = ~A teraz przestañ mnie wypytywaæ! Wynaj¹³em ciê do konkretnego zadania, nie ¿ebyœ by³ moim spowiednikiem. Dostarcz to, o co ciê poprosi³em!~ ~A teraz przestañ mnie wypytywaæ! Wynaj¹³em ciê do konkretnego zadania, nie ¿ebyœ by³a moj¹ spowiedniczk¹. Dostarcz to, o co ciê poprosi³em!~
+@178  = ~Nie. Nie przyniosê ci ¿adnych mikstur, dopóki chocia¿ nie porozmawiasz z ¿on¹ i córk¹, które opuœci³eœ.~
+@179  = ~Niech tak bêdzie. Twoje prywatne sprawy mnie nie dotycz¹.~
+@180  = ~Wiedzia³em, ¿e dobrze zrobi³em, zapominaj¹c o nich. A teraz wracam do pracy.~
+@181  = ~Zrezygnowa³byœ z mocy? Z niezmierzonej potêgi, któr¹ mogê ci daæ... dla dwóch kobiet, które nic dla mnie nie znacz¹?~ ~Zrezygnowa³abyœ z mocy? Z niezmierzonej potêgi, któr¹ mogê ci daæ... dla dwóch kobiet, które nic dla mnie nie znacz¹?~
+@182  = ~To, ¿e ukrywasz siê w takim miejscu, nie jest dobre. Nie jest normalne. Musisz powróciæ do spo³eczeñstwa. A przynajmniej musisz z nimi porozmawiaæ.~
+@183  = ~Ach, teraz ju¿ rozumiem. Dobrze.~
+@184  = ~Zgoda, g³upcze! Porozmawiam z nimi.~ ~Zgoda, g³upia kobieto! Porozmawiam z nimi.~
+@185  = ~Mówisz, ¿e przebywaj¹ w Dzielnicy Mostów? Chocia¿ powrót na powierzchniê bêdzie dla mnie bolesny, porozmawiam z nimi. Powiem tej szlochaj¹cej smarkuli i zrzêdliwej babie, co o nich myœlê.~
+@186  = ~Kiedy to bêdzie ju¿ za³atwione, wrócimy tutaj i pomo¿esz mi dokoñczyæ jedno z najwspanialszych przedsiêwziêæ podjêtych kiedykolwiek przez œmiertelników!~
+@187  = ~Przepraszam, rzuci pan grosik dla mojej ma³ej Janie? Jest bardzo g³odna.~ ~Przepraszam, rzuci pani grosik dla mojej ma³ej Janie? Jest bardzo g³odna.~
+@188  = ~Janie? Jesteœ ¿on¹ Jadarada, Sidhe? Mam wieœci o twoim mê¿u!~
+@189  = ~Dlaczego w³adze nie zrobi¹ porz¹dku z tymi ¿ebrakami na ulicach?~
+@190  = ~Proszê, weŸ to.~
+@191  = ~Przykro mi, nie mam ci czego daæ.~
+@192  = ~Tak, proszê, weŸ ca³e moje z³oto. Mo¿e jeszcze dorzucê ci kilka magicznych przedmiotów? No proszê, bierz.~
+@193  = ~My... ech, proszê zostawiæ mnie w spokoju. Ja... nie wdajê siê w rozmowy z nieznajomymi... zw³aszcza je¿eli mia³yby dotyczyæ przesz³oœci.~
+@194  = ~My... ech, proszê zostawiæ mnie w spokoju. Jest pan bardzo uprzejmy, ale ja... nie wdajê siê w rozmowy z nieznajomymi... zw³aszcza je¿eli mia³yby dotyczyæ przesz³oœci.~ ~My... ech, proszê zostawiæ mnie w spokoju. Jest pani bardzo uprzejma, ale ja... nie wdajê siê w rozmowy z nieznajomymi... zw³aszcza je¿eli mia³yby dotyczyæ przesz³oœci.~
+@195  = ~W³adze nie interesuj¹ siê ulicznymi ¿ebrakami. Maj¹ chyba powa¿niejsze problemy. Proszenie obcych o z³oto wcale nie sprawia mi przyjemnoœci.~
+@196  = ~Och, bardzo panu dziêkujê! Jest pan niezwykle hojny!~ ~Och, bardzo pani dziêkujê! Jest pani niezwykle hojna!~
+@197  = ~Doceniam twój gest, mi³y panie.~ ~Doceniam twój gest, mi³a pani.~
+@198  = ~Nie ma sprawy.~
+@199  = ~I powinnaœ. Nie wydaj wszystkiego na czarny lotos.~
+@200  = ~Dziêkujê!~
+@201  = ~Mo¿esz byæ pewny, ¿e tego nie zrobiê. Dziêkujê!~ ~Mo¿esz byæ pewna, ¿e tego nie zrobiê. Dziêkujê!~
+@202  = ~(wzdycha) Niewa¿ne. Nie spodziewam siê niczego dobrego po obcych.~
+@203  = ~Nie wolno mi rozmawiaæ z obcymi.~
+@204  = ~Sidhe, ty niewierna latawico! Bezmyœlna kwoko! Bezwstydna babo! Zdradziecka dziwko!~
+@205  = ~Opuœci³aœ mnie, kiedy ciê potrzebowa³em! Zas³u¿y³aœ sobie na to nêdzne ¿ycie!~
+@206  = ~Ty? Nie zbli¿aj siê! Nie dopuszczê ciê do Janie!~
+@207  = ~Cz³owiek staje w obronie rodziny, a póŸniej znika, a ty go porzucasz? Sprzedajesz wszystko, co do niego nale¿a³o, i odbierasz mu dziecko?!~
+@208  = ~W obronie rodziny?! OdejdŸ, potworze!~
+@209  = ~Mamusiu? Czy to jest...?~
+@210  = ~Nie podchodŸ, Janie. B¹dŸ gotowa do ucieczki.~
+@211  = ~Milcz, wyw³oko. Nie potrzebujê ani ciebie, ani jej! Zajê³o mi to piêæ d³ugich lat, ale w koñcu wyrzuci³em ciê z mego serca. Moja praca da mnie znacznie wiêcej, ni¿ kiedykolwiek da³a niewierna ¿ona.~
+@212  = ~To dlaczego wróci³eœ? ¯eby otworzyæ stare rany? Masz tupet, pokazywaæ siê Janie na oczy po tym, co zrobi³eœ!~
+@213  = ~Co *ja* zrobi³em? Broni³em swojej rodziny i co z tego mam? Zdradzi³aœ mnie!~
+@214  = ~Ty... Ty naprawdê w to wierzysz, prawda? Nic nie pamiêtasz.~
+@215  = ~Co mam pamiêtaæ? Dzieñ, w którym ci bandyci odebrali nam Leah? To masz na myœli?~
+@216  = ~Pamiêtam to a¿ za dobrze, Sidhe. Pamiêtam swoj¹ bezradnoœæ.~
+@217  = ~(chlip) Ty... nie pamiêtasz.~
+@218  = ~Nie by³o ¿adnych z³odziei, Jadaradzie.~
+@219  = ~Ty to wszystko zrobi³eœ... przez twoje przeklête mikstury. Postrada³eœ zmys³y. Zniszczy³eœ dom. Ty... zamordowa³eœ ma³¹ Leah na oczach Janie.~
+@220  = ~Co? Nie! K³amiesz! Uratowa³em was, niewdziêczna suko!~
+@221  = ~(chlip) Jak mog³eœ zapomnieæ o czymœ takim? (chlip) Jak mog³eœ zapomnieæ o swojej drugiej córce?~
+@222  = ~Nigdy nie mia³em drugiej córki, podstêpna babo!~
+@223  = ~Mamusiu! Bojê siê!~
+@224  = ~Janie? Nie bój siê, malutka.~
+@225  = ~Maaamooo!~
+@226  = ~Uciekaj, Janie! Ju¿!~
+@227  = ~Czekajcie! Sidhe! Janie!~
+@228  = ~Co powinienem zrobiæ? Praca jest dla mnie... wszystkim! Wszystkim! A jednak tu na powierzchni czujê, ¿e powinienem pobiec za moj¹ rodzin¹ i rozwi¹zaæ tê tajemnicê.~
+@229  = ~Brzydzê siê tob¹! Nie chcê mieæ z tob¹ nic wspólnego! Jak dla mnie mo¿esz sobie zgniæ w tych kana³ach.~
+@230  = ~Do Otch³ani z twoj¹ prac¹! Biegnij za nimi. Mo¿e bêdziesz mia³ szansê odkupiæ swoje winy.~
+@231  = ~Lepiej daj im spokój. Ju¿ za póŸno na naprawê relacji.~
+@232  = ~Jesteœ o krok od zdobycia chwa³y! Pamiêtasz, jak bardzo by³eœ niezadowolony ze swego dawnego ¿ycia? Jak pogardza³eœ jego bezcelowoœci¹? Twoja rodzina i tak jest ju¿ dla ciebie stracona... Zostaw to.~
+@233  = ~Nie podejmê tej decyzji za ciebie.~
+@234  = ~Brzydzê ciê? Wierzysz w opowieœæ Sidhe? Muszê to przemyœleæ. Nic wiêcej ci nie powiem.~
+@235  = ~Czy samotny bóg nie zazdroœci kochanemu cz³owiekowi?~
+@236  = ~Zostanê tutaj, gdy¿ wolê byæ tym drugim. Wybacz, nie bêdê w stanie zaoferowaæ ci obiecanej mocy. Jako rekompensatê weŸ chocia¿ zapas moich mikstur.~
+@237  = ~Podejrzewam... ¿e nie bêd¹ mi ju¿ potrzebne.~
+@238  = ~Moc jest warta ka¿dej ceny. Moje badania s¹ wa¿niejsze.~
+@239  = ~¯egnaj, Sidhe. ¯egnaj, Janie. Nie bójcie siê... w kana³ach widzê wszystko! Byæ mo¿e pewnego dnia po was wrócê.~
+@240  = ~ChodŸ, <CHARNAME>. Bêdê na ciebie czeka³ w laboratorium. Zbierz brakuj¹ce mikstury!~
+@241  = ~Mo¿e masz racjê, <CHARNAME>. Kobiety nie posiadaj¹ rozumu, a moje badania s¹ wa¿niejsze.~
+@242  = ~Tak. To decyzja, któr¹ muszê podj¹æ sam.~
+@243  = ~Kim jest ten niezrównowa¿ony mê¿czyzna? Czy to Jadarad?~
+@244  = ~On? A, natkn¹³em siê na niego w kana³ach. By³ wyg³odzony, be³kota³ coœ, a wokó³ niego by³y porozrzucane najró¿niejsze mikstury.~
+@245  = ~Da³em mu trochê zapasów i w koñcu zdoby³em jego zaufanie. Otworzyliœmy tu sklep. Sprzedaje mi mikstury w zamian za ¿ywnoœæ i komponenty.~
+@246  = ~Po ca³ym czasie tutaj nadal nie chce mi powiedzieæ, nad czym pracuje. Parê razy wymknê³o mu siê coœ o rodzinie, któr¹ ma na górze, ale nic wiêcej siê nie dowiedzia³em. ~
+@247  = ~Czekam na nich.~
+@248  = ~Jesteœ karczmarzem, wiêc musisz wiedzieæ, co siê dzieje w miasteczku. S³ysza³eœ coœ na temat mê¿czyzny o imieniu Jadarad?~
+@249  = ~Obawiam siê, ¿e nie przypominam sobie nikogo o tym imieniu. Przykro mi, nie mogê ci pomóc.~
+@250  = ~Tak, chyba go sobie przypominam. Niektórzy mówi¹, ¿e to by³a robota czarownicy. Powróci³a, a Jadarad w jakiœ sposób j¹ urazi³.~
+@251  = ~Pff! Nie s³uchaj tych bzdur, mój panie. Ch³opiec nie ma pojêcia, o czym mówi. Czy mogê ci s³u¿yæ czymœ jeszcze?~ ~Pff! Nie s³uchaj tych bzdur, moja pani. Ch³opiec nie ma pojêcia, o czym mówi. Czy mogê ci s³u¿yæ czymœ jeszcze?~
+@252  = ~Vinny, przecie¿ ty siê zupe³nie nie orientujesz w wa¿nych wydarzeniach w okolicy. Panie, mogê ci co nieco opowiedzieæ na temat Jadarada, jeœli chcesz.~ ~Vinny, przecie¿ ty siê zupe³nie nie orientujesz w wa¿nych wydarzeniach w okolicy. Pani, mogê ci co nieco opowiedzieæ na temat Jadarada, jeœli chcesz.~
+@253  = ~Mieszka³ tu kiedyœ ze swoj¹ rodzin¹ w ma³ej chatce. Mia³ tam pe³no mikstur. Mo¿na by³o pomyœleæ, ¿e to porz¹dny goœæ, ale pewnego dnia on i jego rodzina zniknêli. Dom by³ zdewastowany. Zaczê³y siê plotki, ¿e Jadarad zamordowa³ swoich krewnych, hehehe.~
+@254  = ~S³ysza³em te¿ jednak, ¿e widziano, jak opuszczaj¹ miasteczko. Podobno udali siê na po³udnie, do Tethyru. Chocia¿ niektórzy twierdzili, ¿e skierowali siê na zachód, do Athkatli. Kto wie...~
+@255  = ~Nie wydaje mi siê, Vinny. To by³o dawno temu, znacznie wczeœniej ni¿ powróci³a ta przeklêta wiedŸma.~
+@256  = ~Rodzina Jadarada
+
+Jadarad wspomnia³, ¿e mia³ kiedyœ rodzinê, z któr¹ mieszka³ w Imnesvale. ¯ona mia³a na imiê Sidhe, a córka Janie. Mo¿e uda mi siê je odnaleŸæ.~
+@257  = ~Rodzina Jadarada
+
+Uda³o mi siê odnaleŸæ ¿onê i córkê Jadarada w Dzielnicy Mostów w Athkatli. Sidhe nie wydawa³a siê jednak szczêœliwa, kiedy us³ysza³a jego imiê... raczej przestraszona.~
+@258  = ~Rodzina Jadarada
+
+Zgodnie z wersj¹ wydarzeñ przedstawion¹ przez Sidhe, Jadarad wcale nie uratowa³ swojej rodziny przed bandytami, ale zamordowa³ na oczach Janie drug¹ córkê, której nie pamiêta. Po tym wstrz¹saj¹cym odkryciu nie chcê mieæ nic wspólnego z tym cz³owiekiem. Nie obchodzi mnie, czy bêdzie szuka³ swej rodziny, czy te¿ wróci do badañ.~
+@259 = ~Trwale obni¿y³a siê kondycja.~
+@260 = ~Mikstury dla Jadarada
+
+Zielarz imieniem Jadarad mieszkaj¹cy w kana³ach pod Dzielnic¹ Œwi¹tyñ poprosi³ mnie o zebranie mikstur na potrzeby jakiegoœ tajemniczego eksperymentu. Zap³aci mi za ka¿d¹ z nich. Sugerowa³ te¿ jak¹œ wiêksz¹ nagrodê, kiedy otrzyma ju¿ wszystkie potrzebne napoje. Lista potrzebnych mikstur wygl¹da nastêpuj¹co:
+
+1. Mikstura niewidzialnoœci
+2. Olej szybkoœci
+3. Mikstura odpornoœci na zimno
+4. Mikstura wybuchów
+5. Mikstura izolacji
+6. Mikstura wzmocnienia
+7. Mikstura t³umienia magii
+8. Mikstura lustrzanych oczu
+9. Mikstura mocy
+10. Mikstura intuicji
+11. Mikstura wolnoœci
+12. Mikstura kamiennego cia³a~
+
+@261 = ~Mikstury dla Jadarada
+
+Po otrzymaniu wszystkich potrzebnych mikstur, w celu dokoñczenia eksperymentu Jadarad musia³ zmieszaæ je ze sob¹ i wypiæ. NajwyraŸniej b³êdnie oceni³ skutki swojego przedsiêwziêcia, poniewa¿ w rezultacie jego cia³o zosta³o zniszczone w barwnym wybuchu energii magicznej. NajwyraŸniej natura mocy, jak¹ próbowa³ zdobyæ, pozostanie tajemnic¹. Albo taka moc nigdy nie istnia³a.~
+@262 = ~Mikstury dla Jadarada
+
+Po dostarczeniu Jadaradowi wszystkich potrzebnych mikstur, poprosi³ mnie on o przetestowanie sporz¹dzonej mieszanki. Mikstura ma doœæ nieprzyjemne skutki uboczne, Jadarad twierdzi jednak, ¿e ukoñczy³ swoje "dzie³o". Po zbadaniu próbki mojej krwi za¿y³ coœ, co obdarzy³o go dziwn¹ energi¹, i znikn¹³. Mogê siê tylko zastanawiaæ, co z moj¹ pomoc¹ zosta³o wypuszczone na œwiat.~
+@263 = ~Rodzina Jadarada
+
+Jadarad wyruszy³ na spotkanie z Sidhe i Janie, swoj¹ ¿on¹ i córk¹, w po³udniowo-zachodniej czêœci Dzielnicy Mostów.~
+@264 = ~Rodzina Jadarada
+
+Zgodnie z wersj¹ wydarzeñ przedstawion¹ przez Sidhe, Jadarad wcale nie uratowa³ swojej rodziny przed bandytami, ale zamordowa³ na oczach Janie drug¹ córkê, której nie pamiêta. Po spêdzeniu d³ugiego czasu na prowadzeniu eksperymentów w kana³ach, po mojej interwencji Jadarad porzuci³ laboratorium i podj¹³ próbê odkupienia w jakiœ sposób swoich win.~
+@265 = ~Rodzina Jadarada
+
+Zgodnie z wersj¹ wydarzeñ przedstawion¹ przez Sidhe, Jadarad wcale nie uratowa³ swojej rodziny przed bandytami, ale zamordowa³ na oczach Janie drug¹ córkê, której nie pamiêta. Po tym bolesnym spotkaniu Jadarad zdecydowa³ siê powróciæ pod ziemiê i kontynuowaæ badania w kana³ach.~
